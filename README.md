@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[RQ2](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ2/RQ2_Arbitrate.xlsx)
+[RQ2](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/tree/master/RQ2)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
