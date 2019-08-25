@@ -2,12 +2,24 @@
 
 ## User Study Data
 
-1487 selected questions from the Stack Overflow had either of the strings "difference between" or “vs” in the title. [Questions File](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/question_select/1487_all_questions.json)
+- 1487 selected questions from the Stack Overflow had either of the strings "difference between" or “vs” in the title. [Questions File](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/question_select/1487_all_questions.json)
 
 
-1487 questions two students independently annotated result and Cohen’s Kappa agreement. [1487_Question_Select_Result_with_Kappa](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/question_select/1487_Question_Select_Result_with_Kappa.xlsx)
+- 1487 questions two students independently annotated result and Cohen’s Kappa agreement. [1487_Question_Select_Result_with_Kappa](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/question_select/1487_Question_Select_Result_with_Kappa.xlsx)
 
-100 select questions 
+- [100 select questions](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/question_select/100_select_question.xlsx)
+
+
+- [115 unselect questions](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/question_select/115_unselect_question.xlsx)
+
+- [100 threads label result](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/question_select/all_statement_template_label_with_Kappa.xlsx)
+
+- [25 linguistic patterns](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/template/template.md)
+
+## RQ1 Related Data
+- Randomly selected 384 API statements for each of the three aspects (i.e., category, functionality, characteristic) and each of the two sources, students labeled result and arbitrate result.[384_synonyms_antonym_arbitrate](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ1/384_synonyms_antonym_arbitrate.xlsx)
+- [equal/opposite characteristics label reuslt](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ1/384_synonyms_antonym_arbitrate.xlsx)
+
 
 You can use the [editor on GitHub](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
