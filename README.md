@@ -29,6 +29,8 @@
 ## RQ2
 - completeness and conciseness understandability score and answer point covered. [student 1](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ2/rq_2_1.xlsx) [student 2](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ2/rq_2_2.xlsx) [student 3](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ2/rq_2_3.xlsx) [student 4](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ2/rq_2_4.xlsx)
 
+- [arbitrate result](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ2/RQ2_Arbitrate.xlsx)
+ 
 ## RQ3
 - [Participant experience statistics](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ3/experience.xlsx) 
 - [GA reuslt](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ3/result/GA/) 
