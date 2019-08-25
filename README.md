@@ -1,7 +1,13 @@
 # Replication Package of Generating Concept based API Element Comparison Using a Knowledge Graph
 
 ## User Study Data
-selected questions from the Stack Overflow had either of the strings "difference between" or “vs” in the title
+
+1487 selected questions from the Stack Overflow had either of the strings "difference between" or “vs” in the title. [Questions File](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/question_select/1487_all_questions.json)
+
+
+1487 questions two students independently annotated result and Cohen’s Kappa agreement. [1487_Question_Select_Result_with_Kappa](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/question_select/1487_Question_Select_Result_with_Kappa.xlsx)
+
+100 select questions 
 
 You can use the [editor on GitHub](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
