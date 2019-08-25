@@ -17,7 +17,7 @@
 - [25 linguistic patterns](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/template/template.md)
 
 ## RQ1 Related Data
-- Randomly selected 384 API statements for each of the three aspects (i.e., category, functionality, characteristic) and each of the two sources, students labeled result and arbitrate result.[student 1](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ1/extract_relations_Integration_user_1) [student 2](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ1/extract_relations_Integration_user_2)
+- randomly selected 384 API statements for each of the three aspects (i.e., category, functionality, characteristic) and each of the two sources, students labeled result and arbitrate result.[student 1](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ1/extract_relations_Integration_user_1) [student 2](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ1/extract_relations_Integration_user_2)
 
 - [equal/opposite characteristics label reuslt](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ1/384_synonyms_antonym_arbitrate.xlsx)
 
@@ -26,3 +26,10 @@
 
 - general concept linking data [student 1](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ1/384_random_select_wikidata_1.json); [student 2](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ1/384_random_select_wikidata_2.json); [arbitrate result](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ1/384_random_select_wikidata_Arbitrate.json)
 
+## RQ2
+- completeness and conciseness understandability score and answer point covered. [student 1](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ2/rq_2_1.xlsx) [student 2](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ2/rq_2_2.xlsx) [student 3](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ2/rq_2_3.xlsx) [student 4](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ2/rq_2_4.xlsx)
+
+## RQ3
+- [Participant experience statistics](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ3/experience.xlsx) 
+- [GA reuslt](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ3/result/GA/) 
+- [GB reuslt](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ3/result/GB/)
