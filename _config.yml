@@ -2,6 +2,6 @@ theme: jekyll-theme-architect
 title: [APIComp Replication Package]
 description: [the replication package for Generating Concept based API Element Comparison Using a Knowledge Graph
 ]
-show_downloads: true
+show_downloads: false
 is_user_page: true
 github.is_user_page: false
