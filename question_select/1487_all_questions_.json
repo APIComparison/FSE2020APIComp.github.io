@@ -1,0 +1,7437 @@
+[
+  {
+    "Id": 564,
+    "Title": "What is the difference between an int and an Integer in Java and C#?",
+    "Score": 237
+  },
+  {
+    "Id": 4922,
+    "Title": "Is this really widening vs autoboxing?",
+    "Score": 27
+  },
+  {
+    "Id": 6658,
+    "Title": "JUnit vs TestNG",
+    "Score": 116
+  },
+  {
+    "Id": 11561,
+    "Title": "What is the difference between an endpoint, a service, and a port when working with webservices?",
+    "Score": 16
+  },
+  {
+    "Id": 16557,
+    "Title": "Overriding the equals method vs creating a new method",
+    "Score": 19
+  },
+  {
+    "Id": 17645,
+    "Title": "Differences between unix and windows files",
+    "Score": 14
+  },
+  {
+    "Id": 28241,
+    "Title": "Java Singleton vs static - is there a real performance benefit?",
+    "Score": 15
+  },
+  {
+    "Id": 31693,
+    "Title": "What are the differences between Generics in C# and Java... and Templates in C++?",
+    "Score": 203
+  },
+  {
+    "Id": 36347,
+    "Title": "What are the differences between \"generic\" types in C++ and Java?",
+    "Score": 143
+  },
+  {
+    "Id": 40471,
+    "Title": "Differences between HashMap and Hashtable?",
+    "Score": 3361
+  },
+  {
+    "Id": 47605,
+    "Title": "String concatenation: concat() vs \"+\" operator",
+    "Score": 443
+  },
+  {
+    "Id": 47676,
+    "Title": "Tomcat vs Weblogic JNDI Lookup",
+    "Score": 25
+  },
+  {
+    "Id": 56347,
+    "Title": "Iterators in C++ (stl) vs Java, is there a conceptual difference?",
+    "Score": 30
+  },
+  {
+    "Id": 59175,
+    "Title": "What's the difference between the inner workings of Java's JVM and .NET's CLR?",
+    "Score": 18
+  },
+  {
+    "Id": 127869,
+    "Title": "SAX vs XmlTextReader - SAX in C#",
+    "Score": 12
+  },
+  {
+    "Id": 129178,
+    "Title": "Difference between int[] array and int array[]",
+    "Score": 207
+  },
+  {
+    "Id": 141284,
+    "Title": "The difference between the Runnable and Callable interfaces in Java",
+    "Score": 431
+  },
+  {
+    "Id": 154577,
+    "Title": "Polymorphism vs Overriding vs Overloading",
+    "Score": 324
+  },
+  {
+    "Id": 161224,
+    "Title": "What are the differences between the different saving methods in Hibernate?",
+    "Score": 191
+  },
+  {
+    "Id": 166298,
+    "Title": "Differences between JDK and Java SDK",
+    "Score": 71
+  },
+  {
+    "Id": 187453,
+    "Title": "Import package.* vs import package.SpecificType",
+    "Score": 88
+  },
+  {
+    "Id": 198577,
+    "Title": "Real differences between \"java -server\" and \"java -client\"?",
+    "Score": 367
+  },
+  {
+    "Id": 215497,
+    "Title": "What is the difference between public, protected, package-private and private in Java?",
+    "Score": 2760
+  },
+  {
+    "Id": 217707,
+    "Title": "Are there any differences between Java's \"synchronized\" and C#'s \"lock\"?",
+    "Score": 13
+  },
+  {
+    "Id": 218033,
+    "Title": "Is there a performance difference between Javac debug on and off?",
+    "Score": 59
+  },
+  {
+    "Id": 225447,
+    "Title": "Doxygen vs Javadoc",
+    "Score": 66
+  },
+  {
+    "Id": 245062,
+    "Title": "What's the difference between JavaScript and Java?",
+    "Score": 78
+  },
+  {
+    "Id": 256859,
+    "Title": "Is there a performance difference between a for loop and a for-each loop?",
+    "Score": 165
+  },
+  {
+    "Id": 258364,
+    "Title": "What is the difference between a Functor and the Command pattern?",
+    "Score": 12
+  },
+  {
+    "Id": 267312,
+    "Title": "Difference between a HashMap and a dictionary ADT",
+    "Score": 60
+  },
+  {
+    "Id": 269669,
+    "Title": "Is there a difference between BigDecimal(\"0\") and BigDecimal.ZERO?",
+    "Score": 25
+  },
+  {
+    "Id": 281758,
+    "Title": "Unit tests vs integration tests with Spring",
+    "Score": 38
+  },
+  {
+    "Id": 291003,
+    "Title": "differences between 2 JUnit Assert classes",
+    "Score": 249
+  },
+  {
+    "Id": 295224,
+    "Title": "What are major differences between C# and Java?",
+    "Score": 209
+  },
+  {
+    "Id": 299659,
+    "Title": "What's the difference between SoftReference and WeakReference in Java?",
+    "Score": 744
+  },
+  {
+    "Id": 301563,
+    "Title": "difference fn(String... args) vs fn(String[] args)",
+    "Score": 58
+  },
+  {
+    "Id": 302977,
+    "Title": "Tomcat VS Jetty",
+    "Score": 161
+  },
+  {
+    "Id": 313446,
+    "Title": "Can anyone quantify performance differences between C++ and Java?",
+    "Score": 16
+  },
+  {
+    "Id": 328661,
+    "Title": "Explicit vs implicit call of toString",
+    "Score": 33
+  },
+  {
+    "Id": 330901,
+    "Title": "Is running tests with JUnit 3.x vs JUnit 4.x still a best practice?",
+    "Score": 11
+  },
+  {
+    "Id": 335311,
+    "Title": "What is the difference between a static and a non-static initialization code block",
+    "Score": 318
+  },
+  {
+    "Id": 351565,
+    "Title": "System.currentTimeMillis vs System.nanoTime",
+    "Score": 341
+  },
+  {
+    "Id": 355060,
+    "Title": "C# vs Java generics",
+    "Score": 110
+  },
+  {
+    "Id": 355089,
+    "Title": "Difference between StringBuilder and StringBuffer",
+    "Score": 1418
+  },
+  {
+    "Id": 380411,
+    "Title": "Difference between classpath and endorsed directory",
+    "Score": 16
+  },
+  {
+    "Id": 381377,
+    "Title": "Benefits of using JSTL vs Velocity for view layer in MVC app?",
+    "Score": 11
+  },
+  {
+    "Id": 404795,
+    "Title": "LBYL vs EAFP in Java?",
+    "Score": 55
+  },
+  {
+    "Id": 407255,
+    "Title": "Difference between declaring variables before or in loop?",
+    "Score": 300
+  },
+  {
+    "Id": 408820,
+    "Title": "What is the difference between Swing and AWT?",
+    "Score": 206
+  },
+  {
+    "Id": 409932,
+    "Title": "Java Timer vs ExecutorService?",
+    "Score": 240
+  },
+  {
+    "Id": 411254,
+    "Title": "What are the differences between PHP and Java?",
+    "Score": 23
+  },
+  {
+    "Id": 420223,
+    "Title": "What is the difference between compare() and compareTo()?",
+    "Score": 97
+  },
+  {
+    "Id": 439485,
+    "Title": "Is there a difference between single and double quotes in Java?",
+    "Score": 87
+  },
+  {
+    "Id": 462373,
+    "Title": "Difference between break and continue statement",
+    "Score": 225
+  },
+  {
+    "Id": 469287,
+    "Title": "C# vs Java Enum (for those new to C#)",
+    "Score": 162
+  },
+  {
+    "Id": 496928,
+    "Title": "What is the difference between instanceof and Class.isAssignableFrom(...)?",
+    "Score": 422
+  },
+  {
+    "Id": 501653,
+    "Title": "Java: What's the difference between autoboxing and casting?",
+    "Score": 21
+  },
+  {
+    "Id": 508665,
+    "Title": "Difference between parseInt and valueOf in java?",
+    "Score": 388
+  },
+  {
+    "Id": 510632,
+    "Title": "What's the difference between ConcurrentHashMap and Collections.synchronizedMap(Map)?",
+    "Score": 566
+  },
+  {
+    "Id": 515562,
+    "Title": "Difference between moving an Iterator forward with a for statement and a while statement",
+    "Score": 14
+  },
+  {
+    "Id": 520585,
+    "Title": "Connection pooling options with JDBC: DBCP vs C3P0",
+    "Score": 305
+  },
+  {
+    "Id": 527061,
+    "Title": "What is difference between autoReconnect & autoReconnectForPools in MySql connector/J?",
+    "Score": 18
+  },
+  {
+    "Id": 529904,
+    "Title": "Spring vs Hibernate",
+    "Score": 34
+  },
+  {
+    "Id": 530215,
+    "Title": "Hibernate vs JPA vs JDO - pros and cons of each?",
+    "Score": 171
+  },
+  {
+    "Id": 530938,
+    "Title": "Qt Jambi vs SWT for cross-platform GUI development",
+    "Score": 11
+  },
+  {
+    "Id": 541487,
+    "Title": "\"implements Runnable\" vs \"extends Thread\" in Java",
+    "Score": 1892
+  },
+  {
+    "Id": 552435,
+    "Title": "Eclipse RCP: Actions VS Commands",
+    "Score": 25
+  },
+  {
+    "Id": 561286,
+    "Title": "What are the advantages and disadvantes of yaml vs xml for Object graph de/serialization?",
+    "Score": 21
+  },
+  {
+    "Id": 569555,
+    "Title": "Non-blocking UDP I/O vs blocking UDP I/O in Java",
+    "Score": 14
+  },
+  {
+    "Id": 582278,
+    "Title": "How to calculate the difference between two Java java.sql.Timestamps?",
+    "Score": 12
+  },
+  {
+    "Id": 600651,
+    "Title": "What is the difference between passing by reference in Java and passing a pointer in C?",
+    "Score": 15
+  },
+  {
+    "Id": 604385,
+    "Title": "What is the difference between Hudson and CruiseControl for Java projects?",
+    "Score": 72
+  },
+  {
+    "Id": 609351,
+    "Title": "In hibernate statistics whats the difference between load and fetch",
+    "Score": 11
+  },
+  {
+    "Id": 610062,
+    "Title": "JSP vs Velocity what is better?",
+    "Score": 33
+  },
+  {
+    "Id": 616796,
+    "Title": "What is the difference between Factory and Strategy patterns?",
+    "Score": 115
+  },
+  {
+    "Id": 647111,
+    "Title": "newInstance() vs new",
+    "Score": 25
+  },
+  {
+    "Id": 647779,
+    "Title": "High performance serialization: Java vs Google Protocol Buffers vs ...?",
+    "Score": 48
+  },
+  {
+    "Id": 657352,
+    "Title": "Difference between Apache Tapestry and Apache Wicket",
+    "Score": 45
+  },
+  {
+    "Id": 678822,
+    "Title": "What is the difference between ? and Object in Java generics?",
+    "Score": 122
+  },
+  {
+    "Id": 691925,
+    "Title": "Clojure nil vs Java null?",
+    "Score": 28
+  },
+  {
+    "Id": 692677,
+    "Title": "AtomicIntegerArray vs AtomicInteger[]",
+    "Score": 14
+  },
+  {
+    "Id": 727844,
+    "Title": "javax vs java package",
+    "Score": 328
+  },
+  {
+    "Id": 747360,
+    "Title": "Differences between JVM implementations",
+    "Score": 18
+  },
+  {
+    "Id": 760781,
+    "Title": "getBytes vs getBinaryStream vs getBlob for getting data out of a BLOB column",
+    "Score": 19
+  },
+  {
+    "Id": 783662,
+    "Title": "Java 32-bit vs 64-bit compatibility",
+    "Score": 95
+  },
+  {
+    "Id": 787181,
+    "Title": "Java: double vs float",
+    "Score": 22
+  },
+  {
+    "Id": 791186,
+    "Title": "Differences between Java and C# and .NET",
+    "Score": 13
+  },
+  {
+    "Id": 804589,
+    "Title": "Use of Initializers vs Constructors in Java",
+    "Score": 88
+  },
+  {
+    "Id": 837864,
+    "Title": "Java overloading vs overriding",
+    "Score": 16
+  },
+  {
+    "Id": 855210,
+    "Title": "JMS vs Webservices",
+    "Score": 21
+  },
+  {
+    "Id": 873051,
+    "Title": "Difference between Simple Logging Facade for Java and Apache Commons Logging",
+    "Score": 27
+  },
+  {
+    "Id": 912334,
+    "Title": "Differences between Exception and Error",
+    "Score": 148
+  },
+  {
+    "Id": 918393,
+    "Title": "What's the difference between interface and @interface in java?",
+    "Score": 243
+  },
+  {
+    "Id": 919387,
+    "Title": "How can I calculate the difference between two ArrayLists?",
+    "Score": 73
+  },
+  {
+    "Id": 935379,
+    "Title": "JNI Calls different in C vs C++?",
+    "Score": 29
+  },
+  {
+    "Id": 942035,
+    "Title": "Hibernate/JPA - annotating bean methods vs fields",
+    "Score": 35
+  },
+  {
+    "Id": 948194,
+    "Title": "Difference between Java Enumeration and Iterator",
+    "Score": 110
+  },
+  {
+    "Id": 955515,
+    "Title": "Difference between JPA Entity and Hibernate Entity",
+    "Score": 34
+  },
+  {
+    "Id": 990360,
+    "Title": "Differences between Java interfaces and Objective-C protocols?",
+    "Score": 90
+  },
+  {
+    "Id": 1006395,
+    "Title": "Fastest way to iterate an Array in Java: loop variable vs enhanced for statement",
+    "Score": 26
+  },
+  {
+    "Id": 1007084,
+    "Title": "Difference between Class and Class<?>",
+    "Score": 38
+  },
+  {
+    "Id": 1015340,
+    "Title": ".class vs .java",
+    "Score": 28
+  },
+  {
+    "Id": 1031042,
+    "Title": "Difference between Scala's existential types and Java's wildcard by example?",
+    "Score": 30
+  },
+  {
+    "Id": 1035008,
+    "Title": "What is the difference between Set and List?",
+    "Score": 360
+  },
+  {
+    "Id": 1036754,
+    "Title": "Difference between wait() and sleep()",
+    "Score": 1096
+  },
+  {
+    "Id": 1040840,
+    "Title": ".NET - vs EJB",
+    "Score": 24
+  },
+  {
+    "Id": 1049004,
+    "Title": "Java vs C#: Are there any studies that compare their execution speed?",
+    "Score": 46
+  },
+  {
+    "Id": 1049228,
+    "Title": "CharSequence VS String in Java?",
+    "Score": 390
+  },
+  {
+    "Id": 1080165,
+    "Title": "Java IDE recommendations (GUI designer, ORM designer, etc...) for a VS user",
+    "Score": 12
+  },
+  {
+    "Id": 1085898,
+    "Title": "Choosing Java vs Python on Google App Engine",
+    "Score": 159
+  },
+  {
+    "Id": 1088602,
+    "Title": "Buffered vs non buffered, which one to use?",
+    "Score": 11
+  },
+  {
+    "Id": 1094872,
+    "Title": "Is there a difference between x++ and ++x in java?",
+    "Score": 93
+  },
+  {
+    "Id": 1097366,
+    "Title": "Java Swing revalidate() vs repaint()",
+    "Score": 201
+  },
+  {
+    "Id": 1099300,
+    "Title": "What's the difference between getPath(), getAbsolutePath(), and getCanonicalPath() in Java?",
+    "Score": 540
+  },
+  {
+    "Id": 1106102,
+    "Title": "clone() vs copy constructor vs factory method?",
+    "Score": 75
+  },
+  {
+    "Id": 1108358,
+    "Title": "Benchmarking Performance on Java VM vs .NET CLR",
+    "Score": 37
+  },
+  {
+    "Id": 1139171,
+    "Title": "What is the difference between `Greedy` and `Reluctant` regular expression quantifiers?",
+    "Score": 22
+  },
+  {
+    "Id": 1149928,
+    "Title": "What is the difference between a synchronized method and synchronized block in Java?",
+    "Score": 35
+  },
+  {
+    "Id": 1184556,
+    "Title": "Servlet context scope vs global variable",
+    "Score": 20
+  },
+  {
+    "Id": 1215881,
+    "Title": "The difference between Classes, Objects, and Instances",
+    "Score": 70
+  },
+  {
+    "Id": 1229037,
+    "Title": "Difference between ByteBuffer.allocateDirect() and MappedByteBuffer.load()",
+    "Score": 14
+  },
+  {
+    "Id": 1276308,
+    "Title": "Exception Vs Assertion",
+    "Score": 52
+  },
+  {
+    "Id": 1291836,
+    "Title": "ConcurrentHashMap vs Synchronized HashMap",
+    "Score": 121
+  },
+  {
+    "Id": 1295170,
+    "Title": "What's the difference between boolean and Boolean in Java?",
+    "Score": 49
+  },
+  {
+    "Id": 1322809,
+    "Title": "What is the difference between a Java API and a library?",
+    "Score": 14
+  },
+  {
+    "Id": 1337137,
+    "Title": "What's the difference between Duby and Juby and why would I need either of them?",
+    "Score": 20
+  },
+  {
+    "Id": 1348199,
+    "Title": "What is the difference between the HashMap and Map objects in Java?",
+    "Score": 311
+  },
+  {
+    "Id": 1351299,
+    "Title": "What's the difference between unbounded wildcard type List<?> and raw type List?",
+    "Score": 23
+  },
+  {
+    "Id": 1353309,
+    "Title": "Java: Static vs inner class",
+    "Score": 334
+  },
+  {
+    "Id": 1361758,
+    "Title": "Difference between Javabean and EJB",
+    "Score": 39
+  },
+  {
+    "Id": 1362030,
+    "Title": "JAXB vs Apache XMLBeans",
+    "Score": 25
+  },
+  {
+    "Id": 1368166,
+    "Title": "What is a difference between <? super E> and <? extends E>?",
+    "Score": 130
+  },
+  {
+    "Id": 1378310,
+    "Title": "Performance ConcurrentHashmap vs HashMap",
+    "Score": 54
+  },
+  {
+    "Id": 1380156,
+    "Title": "Java properties: .properties files vs xml?",
+    "Score": 20
+  },
+  {
+    "Id": 1383229,
+    "Title": "Java Persistence / JPA: @Column vs @Basic",
+    "Score": 104
+  },
+  {
+    "Id": 1394265,
+    "Title": "What is the difference between a JavaBean and a POJO?",
+    "Score": 188
+  },
+  {
+    "Id": 1404210,
+    "Title": "Java Date vs Calendar",
+    "Score": 344
+  },
+  {
+    "Id": 1408901,
+    "Title": "ASP.NET MVC vs Spring MVC",
+    "Score": 44
+  },
+  {
+    "Id": 1411114,
+    "Title": "ServletContext.getRequestDispatcher() vs ServletRequest.getRequestDispatcher()",
+    "Score": 21
+  },
+  {
+    "Id": 1418219,
+    "Title": "JDO vs JPA for Java on Google App Engine",
+    "Score": 81
+  },
+  {
+    "Id": 1426754,
+    "Title": "LinkedBlockingQueue vs ConcurrentLinkedQueue",
+    "Score": 92
+  },
+  {
+    "Id": 1457863,
+    "Title": "What causes and what are the differences between NoClassDefFoundError and ClassNotFoundException?",
+    "Score": 350
+  },
+  {
+    "Id": 1463284,
+    "Title": "Hashset vs Treeset",
+    "Score": 460
+  },
+  {
+    "Id": 1480528,
+    "Title": "what is the difference between a portlet and a servlet?",
+    "Score": 91
+  },
+  {
+    "Id": 1482282,
+    "Title": "Java vs Python on Hadoop",
+    "Score": 53
+  },
+  {
+    "Id": 1518103,
+    "Title": "HashMap vs ArrayList performance am I correct",
+    "Score": 34
+  },
+  {
+    "Id": 1532461,
+    "Title": "StringBuilder vs String concatenation in toString() in Java",
+    "Score": 824
+  },
+  {
+    "Id": 1553909,
+    "Title": "Any difference between class imports and package imports in Java?",
+    "Score": 15
+  },
+  {
+    "Id": 1555262,
+    "Title": "Calculating the difference between two Java date instances",
+    "Score": 380
+  },
+  {
+    "Id": 1575762,
+    "Title": "ORM Technologies vs JDBC?",
+    "Score": 18
+  },
+  {
+    "Id": 1585271,
+    "Title": "What's the difference between instantiating in the field and instantiating in the constructor?",
+    "Score": 11
+  },
+  {
+    "Id": 1594667,
+    "Title": ".war vs .ear file",
+    "Score": 508
+  },
+  {
+    "Id": 1595498,
+    "Title": "A difference in style: IDictionary vs Dictionary",
+    "Score": 61
+  },
+  {
+    "Id": 1606559,
+    "Title": "Spring AOP vs AspectJ",
+    "Score": 157
+  },
+  {
+    "Id": 1607532,
+    "Title": "When to use EntityManager.find() vs EntityManager.getReference() with JPA",
+    "Score": 91
+  },
+  {
+    "Id": 1611365,
+    "Title": "spring security: what is the difference between account locked and not enabled",
+    "Score": 12
+  },
+  {
+    "Id": 1612334,
+    "Title": "Difference between DTO, VO, POJO, JavaBeans?",
+    "Score": 484
+  },
+  {
+    "Id": 1637752,
+    "Title": "Netty vs Apache MINA",
+    "Score": 140
+  },
+  {
+    "Id": 1638865,
+    "Title": "What are the differences between Servlet 2.5 and 3?",
+    "Score": 86
+  },
+  {
+    "Id": 1643067,
+    "Title": "What's the difference between \".equals\" and \"==\"?",
+    "Score": 65
+  },
+  {
+    "Id": 1692863,
+    "Title": "What is the difference between identity and equality in OOP?",
+    "Score": 29
+  },
+  {
+    "Id": 1739614,
+    "Title": "What is the difference between Go's multithreading and pthread or Java Threads?",
+    "Score": 30
+  },
+  {
+    "Id": 1741708,
+    "Title": "Enum values().length vs private field",
+    "Score": 53
+  },
+  {
+    "Id": 1747040,
+    "Title": "Difference between java.io.PrintWriter and java.io.BufferedWriter?",
+    "Score": 82
+  },
+  {
+    "Id": 1751918,
+    "Title": "When to use ServiceTracker vs ServiceReference",
+    "Score": 11
+  },
+  {
+    "Id": 1770211,
+    "Title": "similarity and difference between jpa and hibernate",
+    "Score": 15
+  },
+  {
+    "Id": 1771679,
+    "Title": "Difference between thread's context class loader and normal classloader",
+    "Score": 215
+  },
+  {
+    "Id": 1779169,
+    "Title": "Spring vs EJB. Can Spring replace EJB?",
+    "Score": 94
+  },
+  {
+    "Id": 1783793,
+    "Title": "Java: Difference between the setPreferredSize() and setSize() methods in components",
+    "Score": 98
+  },
+  {
+    "Id": 1796275,
+    "Title": "Difference between Java Collection and Collections",
+    "Score": 50
+  },
+  {
+    "Id": 1845731,
+    "Title": "Inner class in interface vs in class",
+    "Score": 28
+  },
+  {
+    "Id": 1858829,
+    "Title": "Static String constants VS enum in Java 5+",
+    "Score": 23
+  },
+  {
+    "Id": 1878876,
+    "Title": "Whats the difference between JPA and JDO specifications?",
+    "Score": 12
+  },
+  {
+    "Id": 1879255,
+    "Title": "Performance of traditional for loop vs Iterator/foreach in Java",
+    "Score": 58
+  },
+  {
+    "Id": 1894788,
+    "Title": "What is the difference between object-oriented languages and non object-oriented languages?",
+    "Score": 11
+  },
+  {
+    "Id": 1904072,
+    "Title": "Java: Difference in usage between Thread.interrupted() and Thread.isInterrupted()?",
+    "Score": 51
+  },
+  {
+    "Id": 1906445,
+    "Title": "What is the difference between JDK and JRE?",
+    "Score": 753
+  },
+  {
+    "Id": 1910892,
+    "Title": "what is the difference between 'super' and 'extends' in Java Generics",
+    "Score": 77
+  },
+  {
+    "Id": 1914898,
+    "Title": "Java long running task Thread interrupt vs cancel flag",
+    "Score": 13
+  },
+  {
+    "Id": 1923795,
+    "Title": "Java Method invocation vs using a variable",
+    "Score": 44
+  },
+  {
+    "Id": 1960832,
+    "Title": "The difference between Executors.newSingleThreadExecutor().execute(command) and new Thread(command).start();",
+    "Score": 28
+  },
+  {
+    "Id": 1970239,
+    "Title": "In Java, how do I get the difference in seconds between 2 dates?",
+    "Score": 56
+  },
+  {
+    "Id": 1984548,
+    "Title": "Hibernate Vs iBATIS",
+    "Score": 69
+  },
+  {
+    "Id": 1984856,
+    "Title": "Java Runtime Performance Vs Native C / C++ Code?",
+    "Score": 36
+  },
+  {
+    "Id": 1992213,
+    "Title": "Maven parent pom vs modules pom",
+    "Score": 270
+  },
+  {
+    "Id": 1997718,
+    "Title": "Difference between java.exe and javaw.exe",
+    "Score": 136
+  },
+  {
+    "Id": 2000349,
+    "Title": "What is the difference between java and core java?",
+    "Score": 61
+  },
+  {
+    "Id": 2012790,
+    "Title": "Can someone explain the difference between Strong, Soft, Weak and Phantom references and the usage of it?",
+    "Score": 29
+  },
+  {
+    "Id": 2013793,
+    "Title": "Web Services vs EJB vs RMI, advantages and disadvantages?",
+    "Score": 54
+  },
+  {
+    "Id": 2023792,
+    "Title": "regex VS Contains. Best Performance?",
+    "Score": 24
+  },
+  {
+    "Id": 2027200,
+    "Title": "What's the difference between Spring BeanFactoryAware and ApplicationContextAware?",
+    "Score": 12
+  },
+  {
+    "Id": 2043412,
+    "Title": "What is the performance difference, if any, between if(!foo) and if(foo == false) in Java?",
+    "Score": 15
+  },
+  {
+    "Id": 2069010,
+    "Title": "Is there any functional difference between c# sealed and Java's final keyword?",
+    "Score": 13
+  },
+  {
+    "Id": 2081932,
+    "Title": "Difference between a += 10 and a = a + 10 in java?",
+    "Score": 25
+  },
+  {
+    "Id": 2088299,
+    "Title": "what is the difference between local and instance variables in Java",
+    "Score": 13
+  },
+  {
+    "Id": 2092659,
+    "Title": "What is the difference between \"Class.forName()\" and \"Class.forName().newInstance()\"?",
+    "Score": 151
+  },
+  {
+    "Id": 2095397,
+    "Title": "What is the difference between JSF, Servlet and JSP?",
+    "Score": 766
+  },
+  {
+    "Id": 2101518,
+    "Title": "Difference between -XX:UseParallelGC and -XX:+UseParNewGC",
+    "Score": 78
+  },
+  {
+    "Id": 2129647,
+    "Title": "Overhead associated with Exception vs Throwable in Java",
+    "Score": 27
+  },
+  {
+    "Id": 2131965,
+    "Title": "Main differences between SOAP and RESTful web services in java",
+    "Score": 246
+  },
+  {
+    "Id": 2148686,
+    "Title": "Non-public top-level class vs static nested class",
+    "Score": 18
+  },
+  {
+    "Id": 2183974,
+    "Title": "Difference between each instance of servlet and each thread of servlet in servlets?",
+    "Score": 83
+  },
+  {
+    "Id": 2184286,
+    "Title": "Difference between getLocalPort() and getServerPort() in servlets",
+    "Score": 19
+  },
+  {
+    "Id": 2185789,
+    "Title": "What is the difference between google's ImmutableList and Collections.unmodifiableList ()?",
+    "Score": 48
+  },
+  {
+    "Id": 2190161,
+    "Title": "Difference between java.lang.RuntimeException and java.lang.Exception",
+    "Score": 174
+  },
+  {
+    "Id": 2194935,
+    "Title": "Java RMI - UnicastRemoteObject: what is the difference between UnicastRemoteObject.exportObject() and extends UnicastRemoteObject?",
+    "Score": 18
+  },
+  {
+    "Id": 2197139,
+    "Title": "What are the differences between JSP and Facelets?",
+    "Score": 16
+  },
+  {
+    "Id": 2215318,
+    "Title": "Difference Between Modulus Implementation in Python Vs Java",
+    "Score": 14
+  },
+  {
+    "Id": 2228392,
+    "Title": "Java coding style, local variables vs repeated method calls",
+    "Score": 11
+  },
+  {
+    "Id": 2238730,
+    "Title": "What is the difference between access specifiers and access modifiers?",
+    "Score": 36
+  },
+  {
+    "Id": 2249706,
+    "Title": "Spring MVC vs JSF",
+    "Score": 67
+  },
+  {
+    "Id": 2274102,
+    "Title": "Difference between using Throwable and Exception in a try catch",
+    "Score": 235
+  },
+  {
+    "Id": 2279030,
+    "Title": "Type List vs type ArrayList in Java",
+    "Score": 492
+  },
+  {
+    "Id": 2279662,
+    "Title": "Java protected fields vs public getters",
+    "Score": 58
+  },
+  {
+    "Id": 2305973,
+    "Title": "java.util.Date vs java.sql.Date",
+    "Score": 469
+  },
+  {
+    "Id": 2308188,
+    "Title": "getResourceAsStream() vs FileInputStream",
+    "Score": 166
+  },
+  {
+    "Id": 2311533,
+    "Title": "Empty list in appengine datastore: java vs python",
+    "Score": 11
+  },
+  {
+    "Id": 2342280,
+    "Title": "Difference between logger.info and logger.debug",
+    "Score": 61
+  },
+  {
+    "Id": 2381337,
+    "Title": "Difference between JDBC Driver type numbers",
+    "Score": 19
+  },
+  {
+    "Id": 2392650,
+    "Title": "Centralized Logging for many Java Apps: Syslog vs JMS vs Http vs Local file",
+    "Score": 13
+  },
+  {
+    "Id": 2395814,
+    "Title": "Difference between HashMap and ArrayList in Java?",
+    "Score": 41
+  },
+  {
+    "Id": 2399544,
+    "Title": "Difference between Inheritance and Composition",
+    "Score": 167
+  },
+  {
+    "Id": 2404799,
+    "Title": "LinkedHashMap vs HashMap != LinkedList vs ArrayList",
+    "Score": 17
+  },
+  {
+    "Id": 2411288,
+    "Title": "Java versioning and terminology, 1.6 vs 6.0 OpenJDK vs Sun",
+    "Score": 23
+  },
+  {
+    "Id": 2417485,
+    "Title": "Difference between File.separator and slash in paths",
+    "Score": 179
+  },
+  {
+    "Id": 2422690,
+    "Title": "Java for each vs regular for -- are they equivalent?",
+    "Score": 19
+  },
+  {
+    "Id": 2423622,
+    "Title": "Volatile vs Static in Java",
+    "Score": 247
+  },
+  {
+    "Id": 2426091,
+    "Title": "What are the differences between a Just-in-Time-Compiler and an Interpreter?",
+    "Score": 30
+  },
+  {
+    "Id": 2427883,
+    "Title": "Clone() vs Copy constructor- which is recommended in java",
+    "Score": 128
+  },
+  {
+    "Id": 2428076,
+    "Title": "What is the difference between a stream and a reader in Java?",
+    "Score": 15
+  },
+  {
+    "Id": 2439243,
+    "Title": "What is the difference between String and StringBuffer in Java?",
+    "Score": 63
+  },
+  {
+    "Id": 2441760,
+    "Title": "Differences between classpath and sourcepath options of javac",
+    "Score": 34
+  },
+  {
+    "Id": 2444359,
+    "Title": "What is the difference between a HashMap and a TreeMap?",
+    "Score": 152
+  },
+  {
+    "Id": 2457514,
+    "Title": "Understanding max JVM heap size - 32bit vs 64bit",
+    "Score": 33
+  },
+  {
+    "Id": 2460048,
+    "Title": "Difference between Java Bean and Enterprise Java Beans?",
+    "Score": 40
+  },
+  {
+    "Id": 2464950,
+    "Title": "Enum.values() vs EnumSet.allOf( ). Which one is more preferable?",
+    "Score": 55
+  },
+  {
+    "Id": 2467970,
+    "Title": "What's the difference between calling MyClass.class and MyClass.getClass()",
+    "Score": 18
+  },
+  {
+    "Id": 2469244,
+    "Title": "What's the difference between String.matches and Matcher.matches?",
+    "Score": 37
+  },
+  {
+    "Id": 2471905,
+    "Title": "Difference between SwingWorker and SwingUtilities.invokeLater",
+    "Score": 11
+  },
+  {
+    "Id": 2504141,
+    "Title": "Calendar add() vs roll() when do we use it?",
+    "Score": 50
+  },
+  {
+    "Id": 2506969,
+    "Title": "What are the differences in JIT between Java and .Net",
+    "Score": 14
+  },
+  {
+    "Id": 2517062,
+    "Title": "What is difference between @Resource UserTransaction and EntityManager.getTransaction()",
+    "Score": 30
+  },
+  {
+    "Id": 2530380,
+    "Title": "Java Web Start vs Embedded Java Applet",
+    "Score": 26
+  },
+  {
+    "Id": 2547817,
+    "Title": "What is the difference between Transaction-scoped Persistence context and Extended Persistence context?",
+    "Score": 40
+  },
+  {
+    "Id": 2567932,
+    "Title": "Throwing exception vs returning null value with switch statement",
+    "Score": 18
+  },
+  {
+    "Id": 2576446,
+    "Title": "What is the difference between Java RMI and JMS?",
+    "Score": 37
+  },
+  {
+    "Id": 2588619,
+    "Title": "What is the difference between Extends Application and Extends Activity in Android?",
+    "Score": 24
+  },
+  {
+    "Id": 2592586,
+    "Title": "What's the difference between OSGI bundles and components?",
+    "Score": 13
+  },
+  {
+    "Id": 2653567,
+    "Title": "Joda-Time: what's the difference between Period, Interval and Duration?",
+    "Score": 187
+  },
+  {
+    "Id": 2657268,
+    "Title": "What's the difference between compiled and interpreted language?",
+    "Score": 100
+  },
+  {
+    "Id": 2664172,
+    "Title": "Java Concurrency: CAS vs Locking",
+    "Score": 67
+  },
+  {
+    "Id": 2674174,
+    "Title": "What is the difference between Thread.start() and Thread.run()?",
+    "Score": 34
+  },
+  {
+    "Id": 2701094,
+    "Title": "Java EE 6: JSF vs Servlet + JSP. Should I bother learning JSF?",
+    "Score": 33
+  },
+  {
+    "Id": 2703984,
+    "Title": "What is the difference between the add and offer methods in a Queue in Java?",
+    "Score": 97
+  },
+  {
+    "Id": 2705043,
+    "Title": "Java Messaging : Difference between ActiveMQ, Mule, ServiceMix and Camel",
+    "Score": 47
+  },
+  {
+    "Id": 2714326,
+    "Title": "Derby/JavaDB vs SQLiteJDBC",
+    "Score": 16
+  },
+  {
+    "Id": 2728495,
+    "Title": "What is the difference between Java RMI and RPC?",
+    "Score": 148
+  },
+  {
+    "Id": 2770264,
+    "Title": "What is the difference between <E extends Number> and <Number>?",
+    "Score": 32
+  },
+  {
+    "Id": 2773824,
+    "Title": "Difference between HashSet and HashMap?",
+    "Score": 152
+  },
+  {
+    "Id": 2801502,
+    "Title": "What is the difference between JAXP and JAXB?",
+    "Score": 74
+  },
+  {
+    "Id": 2808773,
+    "Title": "Java: Tracking a user login session - Session EJBs vs HTTPSession",
+    "Score": 13
+  },
+  {
+    "Id": 2810054,
+    "Title": "Tomcat threads vs Java threads",
+    "Score": 15
+  },
+  {
+    "Id": 2812549,
+    "Title": "What is the difference between the JRE and JVM?",
+    "Score": 43
+  },
+  {
+    "Id": 2822005,
+    "Title": "Java: Difference between PrintStream and PrintWriter",
+    "Score": 118
+  },
+  {
+    "Id": 2840890,
+    "Title": "Ruby on Rails vs Grails vs. Spring ROO vs. Spring App",
+    "Score": 26
+  },
+  {
+    "Id": 2841212,
+    "Title": "What is the difference between Spring, Struts, Hibernate, JavaServer Faces, Tapestry?",
+    "Score": 193
+  },
+  {
+    "Id": 2854910,
+    "Title": "Difference between try-finally and try-catch",
+    "Score": 73
+  },
+  {
+    "Id": 2857376,
+    "Title": "Difference between Java SE/EE/ME?",
+    "Score": 327
+  },
+  {
+    "Id": 2863674,
+    "Title": "What's the difference between a System property and environment variable",
+    "Score": 32
+  },
+  {
+    "Id": 2873254,
+    "Title": "Difference between a deprecated and a legacy API?",
+    "Score": 32
+  },
+  {
+    "Id": 2878118,
+    "Title": "Java - PriorityQueue vs sorted LinkedList",
+    "Score": 13
+  },
+  {
+    "Id": 2883140,
+    "Title": "Vector vs Collections.synchronizedList(ArrayList)",
+    "Score": 34
+  },
+  {
+    "Id": 2889777,
+    "Title": "Difference between HashMap, LinkedHashMap and TreeMap",
+    "Score": 869
+  },
+  {
+    "Id": 2894486,
+    "Title": "Java equivalent to VS solution file",
+    "Score": 22
+  },
+  {
+    "Id": 2899073,
+    "Title": "@Basic(optional = false) vs @Column(nullable = false) in JPA",
+    "Score": 92
+  },
+  {
+    "Id": 2939023,
+    "Title": "What is the difference between += and =+?",
+    "Score": 13
+  },
+  {
+    "Id": 2954372,
+    "Title": "Difference between SPI and API?",
+    "Score": 274
+  },
+  {
+    "Id": 2957165,
+    "Title": "Servlet vs Filter",
+    "Score": 54
+  },
+  {
+    "Id": 2960193,
+    "Title": "What is the difference between NULL in C++ and null in Java?",
+    "Score": 19
+  },
+  {
+    "Id": 2961307,
+    "Title": "What is the difference between the Facade and Adapter Pattern?",
+    "Score": 70
+  },
+  {
+    "Id": 2974561,
+    "Title": "New Integer vs valueOf",
+    "Score": 67
+  },
+  {
+    "Id": 2978207,
+    "Title": "Atomikos vs JOTM vs Bitronix vs?",
+    "Score": 38
+  },
+  {
+    "Id": 2980805,
+    "Title": "String assembly by StringBuilder vs StringWriter and PrintWriter",
+    "Score": 51
+  },
+  {
+    "Id": 2986296,
+    "Title": "What are the differences between ArrayList and Vector?",
+    "Score": 313
+  },
+  {
+    "Id": 2990799,
+    "Title": "Difference between FetchType LAZY and EAGER in Java Persistence API?",
+    "Score": 448
+  },
+  {
+    "Id": 2996774,
+    "Title": "What is the difference between a Hashtable and Properties?",
+    "Score": 15
+  },
+  {
+    "Id": 3032727,
+    "Title": "Java JRE vs GCJ",
+    "Score": 19
+  },
+  {
+    "Id": 3052442,
+    "Title": "What is the difference between \"text\" and new String(\"text\")?",
+    "Score": 168
+  },
+  {
+    "Id": 3061654,
+    "Title": "What is the difference between javac and the Eclipse compiler?",
+    "Score": 181
+  },
+  {
+    "Id": 3069382,
+    "Title": "What is the difference between connection and read timeout for sockets?",
+    "Score": 143
+  },
+  {
+    "Id": 3078245,
+    "Title": "Difference between UserTransaction and EntityTransaction",
+    "Score": 17
+  },
+  {
+    "Id": 3080112,
+    "Title": "difference between System.out.printf and String.format",
+    "Score": 15
+  },
+  {
+    "Id": 3080307,
+    "Title": "What is core difference between Java for Google App Engine and Java EE?",
+    "Score": 15
+  },
+  {
+    "Id": 3089969,
+    "Title": "Difference between Java's Vector.add() and Vector.addElement()?",
+    "Score": 16
+  },
+  {
+    "Id": 3111992,
+    "Title": "Difference between configuring data source in persistence.xml and in spring configuration files",
+    "Score": 34
+  },
+  {
+    "Id": 3118968,
+    "Title": "SessionTimeout: web.xml vs session.maxInactiveInterval()",
+    "Score": 58
+  },
+  {
+    "Id": 3162760,
+    "Title": "Differences between Runtime/Checked/Unchecked/Error/Exception",
+    "Score": 16
+  },
+  {
+    "Id": 3170159,
+    "Title": "Difference between calling new and getInstance()",
+    "Score": 13
+  },
+  {
+    "Id": 3183841,
+    "Title": "Base64 vs HEX for sending binary content over the internet in XML doc",
+    "Score": 50
+  },
+  {
+    "Id": 3194918,
+    "Title": "InputStream vs InputStreamReader",
+    "Score": 52
+  },
+  {
+    "Id": 3217586,
+    "Title": "Difference between a \"jta-datasource\" and a \" resource-local \" datasource?",
+    "Score": 51
+  },
+  {
+    "Id": 3241105,
+    "Title": "Java/ JUnit - AssertTrue vs AssertFalse",
+    "Score": 45
+  },
+  {
+    "Id": 3298452,
+    "Title": "Downsides of using Stripes+Spring vs Spring MVC",
+    "Score": 12
+  },
+  {
+    "Id": 3299972,
+    "Title": "Difference in days between two dates in Java?",
+    "Score": 79
+  },
+  {
+    "Id": 3302177,
+    "Title": "Android - Activity Constructor vs onCreate",
+    "Score": 81
+  },
+  {
+    "Id": 3317381,
+    "Title": "What is the difference between Collection and List in Java?",
+    "Score": 128
+  },
+  {
+    "Id": 3331907,
+    "Title": "What is the difference between @ManyToOne(optional=false) vs. @Column(nullable=false)",
+    "Score": 47
+  },
+  {
+    "Id": 3335737,
+    "Title": "Integer.toString(int i) vs String.valueOf(int i)",
+    "Score": 172
+  },
+  {
+    "Id": 3344627,
+    "Title": "What's the difference between ModelAndView and ModelMap?",
+    "Score": 16
+  },
+  {
+    "Id": 3366545,
+    "Title": "Scala class file vs Java class file",
+    "Score": 12
+  },
+  {
+    "Id": 3367710,
+    "Title": "JSF: h:dataTable vs h:panelGrid",
+    "Score": 15
+  },
+  {
+    "Id": 3369287,
+    "Title": "What is the difference between synchronized on lockObject and using this as the lock?",
+    "Score": 45
+  },
+  {
+    "Id": 3371300,
+    "Title": "Technical differences between ASP.NET and Java Servlets / JSP",
+    "Score": 11
+  },
+  {
+    "Id": 3386889,
+    "Title": "Difference between creating new object and dependency injection",
+    "Score": 16
+  },
+  {
+    "Id": 3387155,
+    "Title": "Difference between two maps",
+    "Score": 16
+  },
+  {
+    "Id": 3413092,
+    "Title": "Difference between setUp() and setUpBeforeClass()",
+    "Score": 151
+  },
+  {
+    "Id": 3417097,
+    "Title": "JPA: difference between @JoinColumn and @PrimaryKeyJoinColumn?",
+    "Score": 69
+  },
+  {
+    "Id": 3419084,
+    "Title": "What is the difference between an abstract class and a class that has all its methods abstract?",
+    "Score": 15
+  },
+  {
+    "Id": 3425995,
+    "Title": "What's the difference between failure and error in JUnit?",
+    "Score": 79
+  },
+  {
+    "Id": 3428127,
+    "Title": "What is the difference between closing Input/OutputStream and closing Socket directly?",
+    "Score": 20
+  },
+  {
+    "Id": 3433514,
+    "Title": "Difference between Java SE & Java EE",
+    "Score": 12
+  },
+  {
+    "Id": 3436731,
+    "Title": "Migration from Struts 1.2 -> Struts2 vs Spring-MVC (primarily vis-a-vis Struts1.2 taglib support)",
+    "Score": 11
+  },
+  {
+    "Id": 3442387,
+    "Title": "Difference between a Java interpreter and JVM",
+    "Score": 12
+  },
+  {
+    "Id": 3478530,
+    "Title": "What are the fundamental differences between garbage collection in C# and Java?",
+    "Score": 30
+  },
+  {
+    "Id": 3490383,
+    "Title": "Java compile speed vs Scala compile speed",
+    "Score": 95
+  },
+  {
+    "Id": 3519664,
+    "Title": "Difference between volatile and synchronized in Java",
+    "Score": 195
+  },
+  {
+    "Id": 3529459,
+    "Title": "What is the difference between Class Path and Build Path",
+    "Score": 76
+  },
+  {
+    "Id": 3532161,
+    "Title": "What is the difference between a Singleton pattern and a static class in Java?",
+    "Score": 36
+  },
+  {
+    "Id": 3553693,
+    "Title": "Wicket vs Vaadin",
+    "Score": 47
+  },
+  {
+    "Id": 3557679,
+    "Title": "glassfish v3 vs tomcat 7",
+    "Score": 37
+  },
+  {
+    "Id": 3580715,
+    "Title": "What is the difference between Step Into and Step Over in the Eclipse debugger?",
+    "Score": 164
+  },
+  {
+    "Id": 3607641,
+    "Title": "Javadoc comments vs block comments?",
+    "Score": 34
+  },
+  {
+    "Id": 3612508,
+    "Title": "Premature optimization in Java: when to use \"x = foo.getX()\" vs simply \"foo.getX()\"",
+    "Score": 13
+  },
+  {
+    "Id": 3650539,
+    "Title": "What is the difference between scheduler's standby() and pauseAll()?",
+    "Score": 17
+  },
+  {
+    "Id": 3652090,
+    "Title": "Difference between applicationContext.xml and spring-servlet.xml in Spring Framework",
+    "Score": 344
+  },
+  {
+    "Id": 3661679,
+    "Title": "Applet lifecycle: what's the practical difference between init() & start(), and destroy() & stop()?",
+    "Score": 11
+  },
+  {
+    "Id": 3667387,
+    "Title": "What is the difference between cascade & inverse in hibernate, what are they used for?",
+    "Score": 39
+  },
+  {
+    "Id": 3670586,
+    "Title": "Java HashMap vs JSONObject",
+    "Score": 30
+  },
+  {
+    "Id": 3675661,
+    "Title": "EJB Vs WebService? Performance point of view",
+    "Score": 11
+  },
+  {
+    "Id": 3680883,
+    "Title": "What's the difference between \"package\" and \"module\"",
+    "Score": 31
+  },
+  {
+    "Id": 3696068,
+    "Title": "Usefulness of java dynamic proxies vs regular proxies",
+    "Score": 13
+  },
+  {
+    "Id": 3696112,
+    "Title": "TableModel vs ColumnModel: who owns the column value?",
+    "Score": 17
+  },
+  {
+    "Id": 3708931,
+    "Title": "Whats the difference between Double.valueOf(String s) and Double.ParseDouble(String s)?",
+    "Score": 15
+  },
+  {
+    "Id": 3717937,
+    "Title": "CMSPermGenSweepingEnabled vs CMSClassUnloadingEnabled",
+    "Score": 67
+  },
+  {
+    "Id": 3718024,
+    "Title": "JIT vs Interpreters",
+    "Score": 32
+  },
+  {
+    "Id": 3728309,
+    "Title": "Difference between Double.MIN_NORMAL and Double.MIN_VALUE?",
+    "Score": 43
+  },
+  {
+    "Id": 3728616,
+    "Title": "Boolean vs boolean in Java",
+    "Score": 149
+  },
+  {
+    "Id": 3741618,
+    "Title": "What are the main differences between StringTemplate and FreeMarker?",
+    "Score": 29
+  },
+  {
+    "Id": 3762347,
+    "Title": "Understanding regex in Java: split(\"\\t\") vs split(\"\\\\t\") - when do they both work, and when should they be used",
+    "Score": 29
+  },
+  {
+    "Id": 3767910,
+    "Title": "Namespaces in C# vs imports in Java and Python",
+    "Score": 11
+  },
+  {
+    "Id": 3770613,
+    "Title": "List vs Map in Java",
+    "Score": 24
+  },
+  {
+    "Id": 3786111,
+    "Title": "difference between servlet lifecycle and filter lifecycle",
+    "Score": 13
+  },
+  {
+    "Id": 3786825,
+    "Title": "Volatile boolean vs AtomicBoolean",
+    "Score": 203
+  },
+  {
+    "Id": 3796841,
+    "Title": "getting the difference between date in days in java",
+    "Score": 29
+  },
+  {
+    "Id": 3820178,
+    "Title": "What is the main difference in object creation between Java and C++?",
+    "Score": 18
+  },
+  {
+    "Id": 3821640,
+    "Title": "What is the difference between Tomcat, JBoss and Glassfish?",
+    "Score": 425
+  },
+  {
+    "Id": 3842584,
+    "Title": "Java: CopyOnWriteArrayList vs synchronizedList",
+    "Score": 12
+  },
+  {
+    "Id": 3893563,
+    "Title": "Uninitialized int vs Integer",
+    "Score": 20
+  },
+  {
+    "Id": 3903537,
+    "Title": "What is the difference between a static method and a non-static method?",
+    "Score": 63
+  },
+  {
+    "Id": 3920419,
+    "Title": "Difference between URLConnection, HttpURLConnection and HttpsURLConnection",
+    "Score": 37
+  },
+  {
+    "Id": 3923514,
+    "Title": "EJB explanation regarding EAR vs WAR",
+    "Score": 11
+  },
+  {
+    "Id": 3930210,
+    "Title": "Java int to String - Integer.toString(i) vs new Integer(i).toString()",
+    "Score": 417
+  },
+  {
+    "Id": 3937271,
+    "Title": "Difference between Groovy def and Java Object?",
+    "Score": 11
+  },
+  {
+    "Id": 3940839,
+    "Title": "List vs Queue vs Set of collections in Java",
+    "Score": 21
+  },
+  {
+    "Id": 3944825,
+    "Title": "Difference between the Image and BufferedImage in Java",
+    "Score": 20
+  },
+  {
+    "Id": 3949260,
+    "Title": "java: Class.isInstance vs Class.isAssignableFrom",
+    "Score": 205
+  },
+  {
+    "Id": 3962939,
+    "Title": "What's the difference between undefined in Haskell and null in Java?",
+    "Score": 50
+  },
+  {
+    "Id": 4014535,
+    "Title": "Differences in boolean operators: & vs && and | vs ||",
+    "Score": 95
+  },
+  {
+    "Id": 4016091,
+    "Title": "What is the difference between submit and execute method with ThreadPoolExecutor",
+    "Score": 31
+  },
+  {
+    "Id": 4023344,
+    "Title": "Difference between \"this\" and\"super\" keywords in Java",
+    "Score": 48
+  },
+  {
+    "Id": 4037251,
+    "Title": "DAO vs ORM(hibernate) pattern",
+    "Score": 42
+  },
+  {
+    "Id": 4049580,
+    "Title": "what is the difference between typecasting and typeconversion in c++ or java?",
+    "Score": 16
+  },
+  {
+    "Id": 4072878,
+    "Title": "I/O concept flush vs sync",
+    "Score": 33
+  },
+  {
+    "Id": 4073970,
+    "Title": "In a Spring 3.0 GET request, what's the difference between a @PathVariable and a @RequestParam",
+    "Score": 13
+  },
+  {
+    "Id": 4093504,
+    "Title": "@Resource vs @Autowired",
+    "Score": 318
+  },
+  {
+    "Id": 4105592,
+    "Title": "Comparison between Mockito vs JMockit - why is Mockito voted better than JMockit?",
+    "Score": 115
+  },
+  {
+    "Id": 4108604,
+    "Title": "Java : Comparable vs Comparator",
+    "Score": 134
+  },
+  {
+    "Id": 4119947,
+    "Title": "Primary Key Type: int vs long",
+    "Score": 26
+  },
+  {
+    "Id": 4131655,
+    "Title": "What is the difference between Lists, ArrayLists, Maps, Hashmaps, Collections etc..?",
+    "Score": 16
+  },
+  {
+    "Id": 4140065,
+    "Title": "Java isInstance vs instanceOf operator",
+    "Score": 24
+  },
+  {
+    "Id": 4145732,
+    "Title": "What's the difference between non-initialisation and initialising to null?",
+    "Score": 19
+  },
+  {
+    "Id": 4165506,
+    "Title": "Guice: Difference between Binder#bindConstant() and Binder#bind() ... toInstance",
+    "Score": 14
+  },
+  {
+    "Id": 4168772,
+    "Title": "Java concurrency: Countdown latch vs Cyclic barrier",
+    "Score": 141
+  },
+  {
+    "Id": 4179587,
+    "Title": "What is the difference between linearizability and serializability?",
+    "Score": 44
+  },
+  {
+    "Id": 4184204,
+    "Title": "What is the difference between getDefaultInstance() and getInstance() in Session class?",
+    "Score": 16
+  },
+  {
+    "Id": 4201713,
+    "Title": "Synchronization vs Lock",
+    "Score": 162
+  },
+  {
+    "Id": 4232231,
+    "Title": "What's the difference between java.lang.Math and java.lang.StrictMath?",
+    "Score": 67
+  },
+  {
+    "Id": 4238654,
+    "Title": "Java addAll(collection) vs new ArrayList(collection)",
+    "Score": 11
+  },
+  {
+    "Id": 4281304,
+    "Title": "What is the difference between EJB, hibernate, spring and JSF?",
+    "Score": 36
+  },
+  {
+    "Id": 4285855,
+    "Title": "Difference between Loading a class using ClassLoader and Class.forName",
+    "Score": 22
+  },
+  {
+    "Id": 4297014,
+    "Title": "What are the differences between PMD and FindBugs?",
+    "Score": 103
+  },
+  {
+    "Id": 4337942,
+    "Title": "Using enum vs Boolean?",
+    "Score": 13
+  },
+  {
+    "Id": 4343014,
+    "Title": "Difference between Systems programming language and Application programming languages",
+    "Score": 11
+  },
+  {
+    "Id": 4343202,
+    "Title": "Difference between <? super T> and <? extends T> in Java",
+    "Score": 661
+  },
+  {
+    "Id": 4355614,
+    "Title": "What is difference between @+id/android:list and @+id/list",
+    "Score": 20
+  },
+  {
+    "Id": 4367539,
+    "Title": "What is the difference between Reader and InputStream?",
+    "Score": 70
+  },
+  {
+    "Id": 4393766,
+    "Title": "differences between ms sql microsoft's jdbc drivers and jTDS's driver",
+    "Score": 19
+  },
+  {
+    "Id": 4394976,
+    "Title": "What is the difference between synchronized(this) and synchronized method",
+    "Score": 29
+  },
+  {
+    "Id": 4396583,
+    "Title": "Java Swing: repaint() vs invalidate",
+    "Score": 13
+  },
+  {
+    "Id": 4411028,
+    "Title": "Difference between .jar and .dll file",
+    "Score": 54
+  },
+  {
+    "Id": 4414648,
+    "Title": "javax.security.cert.X509Certificate vs java.security.cert.X509Certificate?",
+    "Score": 21
+  },
+  {
+    "Id": 4427398,
+    "Title": "Java Threads vs OS Threads",
+    "Score": 26
+  },
+  {
+    "Id": 4446643,
+    "Title": "Java: String: equalsIgnoreCase vs switching everything to Upper/Lower Case",
+    "Score": 25
+  },
+  {
+    "Id": 4450045,
+    "Title": "Difference between matches() and find() in Java Regex",
+    "Score": 210
+  },
+  {
+    "Id": 4471798,
+    "Title": "Which is Easier to code: Android App vs iOS App?",
+    "Score": 30
+  },
+  {
+    "Id": 4488614,
+    "Title": "Node.js vs Java for Comet application",
+    "Score": 11
+  },
+  {
+    "Id": 4491908,
+    "Title": "Performance Comparison of Shell Scripts vs high level interpreted langs (C#/Java/etc.)",
+    "Score": 13
+  },
+  {
+    "Id": 4509086,
+    "Title": "What is the difference between persist() and merge() in JPA and Hibernate?",
+    "Score": 113
+  },
+  {
+    "Id": 4528960,
+    "Title": "Any differences between asInstanceOf[X] and toX for value types?",
+    "Score": 13
+  },
+  {
+    "Id": 4535423,
+    "Title": "JSTL vs JSP Scriptlets",
+    "Score": 36
+  },
+  {
+    "Id": 4573975,
+    "Title": "JPA vs Spring JdbcTemplate",
+    "Score": 61
+  },
+  {
+    "Id": 4592558,
+    "Title": "OOP: Difference between ArrayList al = new ArrayList() and List al = new ArrayList()?",
+    "Score": 15
+  },
+  {
+    "Id": 4612386,
+    "Title": "What is the difference between the new operator and Class.newInstance()?",
+    "Score": 29
+  },
+  {
+    "Id": 4632885,
+    "Title": "What is the difference between creating locale for en-US and en_US?",
+    "Score": 30
+  },
+  {
+    "Id": 4639892,
+    "Title": "What's the difference between Java 6's built-in version of Rhino and the Rhino package direct from Mozilla?",
+    "Score": 12
+  },
+  {
+    "Id": 4645007,
+    "Title": "PostgreSQL: BYTEA vs OID+Large Object?",
+    "Score": 11
+  },
+  {
+    "Id": 4655250,
+    "Title": "Difference between UTF-8 and UTF-16?",
+    "Score": 129
+  },
+  {
+    "Id": 4673425,
+    "Title": "Difference between encodeURL and encodeRedirectURL",
+    "Score": 15
+  },
+  {
+    "Id": 4691166,
+    "Title": "How to implement a dictionary (Trie vs HashTable and important issues)?",
+    "Score": 16
+  },
+  {
+    "Id": 4720942,
+    "Title": "Difference between Filter and Listener in Servlet (Java EE)",
+    "Score": 68
+  },
+  {
+    "Id": 4725241,
+    "Title": "What's the difference between Event Listeners & Handlers in Java?",
+    "Score": 76
+  },
+  {
+    "Id": 4739302,
+    "Title": "/WEB-INF/classes vs /WEB-INF/lib",
+    "Score": 16
+  },
+  {
+    "Id": 4752130,
+    "Title": "Java thread per connection model vs NIO",
+    "Score": 35
+  },
+  {
+    "Id": 4793380,
+    "Title": "Difference between StringBuffer and StringBuilder class [duplicate]",
+    "Score": 9
+  },
+  {
+    "Id": 4802015,
+    "Title": "Difference between null and empty (\"\") Java String",
+    "Score": 125
+  },
+  {
+    "Id": 4806331,
+    "Title": "Bamboo Vs. Hudson(a.k.a. Jenkins) vs Any other CI systems",
+    "Score": 118
+  },
+  {
+    "Id": 4815722,
+    "Title": "JSF vs Facelets vs JSP",
+    "Score": 103
+  },
+  {
+    "Id": 4821664,
+    "Title": "jvisualvm difference between live objects and allocated objects",
+    "Score": 17
+  },
+  {
+    "Id": 4834979,
+    "Title": "Difference between Strategy pattern and Command pattern",
+    "Score": 54
+  },
+  {
+    "Id": 4848669,
+    "Title": "Perm space vs Heap space",
+    "Score": 76
+  },
+  {
+    "Id": 4894311,
+    "Title": "What is the difference between Boolean.TRUE and true in Java?",
+    "Score": 25
+  },
+  {
+    "Id": 4923380,
+    "Title": "Difference between regex [A-z] and [a-zA-Z]",
+    "Score": 43
+  },
+  {
+    "Id": 4931323,
+    "Title": "What's the difference between getRequestURI and getPathInfo methods in HttpServletRequest?",
+    "Score": 116
+  },
+  {
+    "Id": 4940815,
+    "Title": "Benefits of using Springs Transaction management vs using hibernate",
+    "Score": 15
+  },
+  {
+    "Id": 4948847,
+    "Title": "Java: static nested classes and reflection: \"$\" vs \".\"",
+    "Score": 11
+  },
+  {
+    "Id": 4956822,
+    "Title": "What's the difference between Future and FutureTask in Java?",
+    "Score": 43
+  },
+  {
+    "Id": 4970015,
+    "Title": "Java - calling static methods vs manual inlining - performance overhead",
+    "Score": 12
+  },
+  {
+    "Id": 4974693,
+    "Title": "Java Eclipse: Difference between exporting as a JAR and exporting as a Runnable JAR",
+    "Score": 81
+  },
+  {
+    "Id": 4975428,
+    "Title": "What's the essential similarities and differences between Scala and Gosu (related to Java)?",
+    "Score": 18
+  },
+  {
+    "Id": 4989063,
+    "Title": "What is the meaning and difference between subject, user and principal?",
+    "Score": 138
+  },
+  {
+    "Id": 4989818,
+    "Title": "instanceof Vs getClass( )",
+    "Score": 98
+  },
+  {
+    "Id": 5031640,
+    "Title": "What is the difference between a class and a type in Scala (and Java)?",
+    "Score": 52
+  },
+  {
+    "Id": 5039354,
+    "Title": "Difference between an application server and a servlet container?",
+    "Score": 104
+  },
+  {
+    "Id": 5039862,
+    "Title": "CLASSPATH vs java.ext.dirs",
+    "Score": 14
+  },
+  {
+    "Id": 5080612,
+    "Title": "HashSet vs LinkedHashSet",
+    "Score": 134
+  },
+  {
+    "Id": 5095884,
+    "Title": "What is the difference between Caching and Pooling?",
+    "Score": 21
+  },
+  {
+    "Id": 5098282,
+    "Title": "What is the difference between a += b and a =+ b , also a++ and ++a?",
+    "Score": 18
+  },
+  {
+    "Id": 5100793,
+    "Title": "Difference between JMX and RMI",
+    "Score": 16
+  },
+  {
+    "Id": 5102570,
+    "Title": "Implementation of BlockingQueue: What are the differences between SynchronousQueue and LinkedBlockingQueue",
+    "Score": 31
+  },
+  {
+    "Id": 5123816,
+    "Title": "Struts2 vs Spring 3",
+    "Score": 46
+  },
+  {
+    "Id": 5125404,
+    "Title": "Java import vs code performance",
+    "Score": 43
+  },
+  {
+    "Id": 5139724,
+    "Title": "What's the difference between HashSet and Set?",
+    "Score": 60
+  },
+  {
+    "Id": 5155226,
+    "Title": "FileInputStream vs FileReader",
+    "Score": 39
+  },
+  {
+    "Id": 5160240,
+    "Title": "Difference between Restrictions.like and .ilike in Hibernate Criteria API",
+    "Score": 22
+  },
+  {
+    "Id": 5174148,
+    "Title": "NetBeans vs IntelliJ IDEA Community Edition",
+    "Score": 16
+  },
+  {
+    "Id": 5207115,
+    "Title": "Java generics T vs Object",
+    "Score": 99
+  },
+  {
+    "Id": 5208133,
+    "Title": "Collections vs Arrays regarding sort()",
+    "Score": 27
+  },
+  {
+    "Id": 5209343,
+    "Title": "What's the difference between mvn archetype:generate and mvn archetype:create",
+    "Score": 15
+  },
+  {
+    "Id": 5211548,
+    "Title": "What is the difference between A<T extends B> and A<? extends B>?",
+    "Score": 17
+  },
+  {
+    "Id": 5215023,
+    "Title": "What's the difference between jackson-core-asl and jackson-core-lgpl",
+    "Score": 38
+  },
+  {
+    "Id": 5243754,
+    "Title": "Difference between getAttribute() and getParameter()",
+    "Score": 254
+  },
+  {
+    "Id": 5252465,
+    "Title": "Android: enum vs static final ints?",
+    "Score": 31
+  },
+  {
+    "Id": 5261194,
+    "Title": "What is the difference between mock() and stub() when using Mockito?",
+    "Score": 18
+  },
+  {
+    "Id": 5269535,
+    "Title": "Java Threads vs Pthreads",
+    "Score": 23
+  },
+  {
+    "Id": 5324051,
+    "Title": "WebServices : bare vs wrapped?",
+    "Score": 16
+  },
+  {
+    "Id": 5360795,
+    "Title": "What is the difference between Unidirectional and Bidirectional JPA and Hibernate associations?",
+    "Score": 110
+  },
+  {
+    "Id": 5370482,
+    "Title": "What's the advantage of load() vs get() in Hibernate?",
+    "Score": 51
+  },
+  {
+    "Id": 5401358,
+    "Title": "What's the difference between jaxws-ri and jaxws-rt?",
+    "Score": 39
+  },
+  {
+    "Id": 5409085,
+    "Title": "What is the difference between a session and a transaction in JPA 2.0?",
+    "Score": 35
+  },
+  {
+    "Id": 5437722,
+    "Title": "Java in 2011: threaded sockets VS NIO: what to choose on 64bit OS and latest Java version?",
+    "Score": 26
+  },
+  {
+    "Id": 5482141,
+    "Title": "What is the difference between EntityManager.find() and EntityManger.getReference()?",
+    "Score": 45
+  },
+  {
+    "Id": 5484227,
+    "Title": "JDBC Class.forName vs DriverManager.registerDriver",
+    "Score": 57
+  },
+  {
+    "Id": 5496995,
+    "Title": "difference between sessionfactory.openSession() and sessionfactory.openStatelessSession()?",
+    "Score": 15
+  },
+  {
+    "Id": 5510170,
+    "Title": "In javadoc, what is the difference between the tags @throws and @exception?",
+    "Score": 29
+  },
+  {
+    "Id": 5526955,
+    "Title": "In java what's the difference between ?, E, T",
+    "Score": 15
+  },
+  {
+    "Id": 5552833,
+    "Title": "What is the difference between a JFrame and a JDialog?",
+    "Score": 26
+  },
+  {
+    "Id": 5559727,
+    "Title": "JSP vs FreeMarker",
+    "Score": 16
+  },
+  {
+    "Id": 5564410,
+    "Title": "Difference between & and &&",
+    "Score": 134
+  },
+  {
+    "Id": 5611324,
+    "Title": "What's the difference between Collections.unmodifiableSet() and ImmutableSet of Guava?",
+    "Score": 38
+  },
+  {
+    "Id": 5622370,
+    "Title": "java library vs android library",
+    "Score": 14
+  },
+  {
+    "Id": 5644781,
+    "Title": "Difference between FlurryAgent.logEvent and FlurryAgent.onEvent",
+    "Score": 11
+  },
+  {
+    "Id": 5659990,
+    "Title": "What is the difference between Servlet response methods addHeader and setHeader?",
+    "Score": 20
+  },
+  {
+    "Id": 5661682,
+    "Title": "What's the difference between @NotAudited and RelationTargetAuditMode.NOT_AUDITED in Hibernate EnVers?",
+    "Score": 43
+  },
+  {
+    "Id": 5663447,
+    "Title": "Java: if-return-if-return vs if-return-elseif-return",
+    "Score": 26
+  },
+  {
+    "Id": 5664808,
+    "Title": "Difference between webdriver.get() and webdriver.navigate()",
+    "Score": 51
+  },
+  {
+    "Id": 5666134,
+    "Title": "What is the difference between Class.this and this in Java",
+    "Score": 114
+  },
+  {
+    "Id": 5678883,
+    "Title": "What are the differences between Hibernate and JPA?",
+    "Score": 11
+  },
+  {
+    "Id": 5689517,
+    "Title": "Java HashSet vs HashMap",
+    "Score": 53
+  },
+  {
+    "Id": 5712503,
+    "Title": "Groovy and Grails vs Scala, Why Twitter choose Scala?",
+    "Score": 12
+  },
+  {
+    "Id": 5713142,
+    "Title": "Green Threads vs Non Green Threads",
+    "Score": 58
+  },
+  {
+    "Id": 5727616,
+    "Title": "Difference between JUnit Theories and Parameterized Tests",
+    "Score": 59
+  },
+  {
+    "Id": 5743768,
+    "Title": "Difference between java class and jar",
+    "Score": 41
+  },
+  {
+    "Id": 5751851,
+    "Title": "What's the difference between program arguments and VM arguments?",
+    "Score": 21
+  },
+  {
+    "Id": 5758660,
+    "Title": "Java Enum getDeclaringClass vs getClass",
+    "Score": 25
+  },
+  {
+    "Id": 5759925,
+    "Title": "PrintWriter vs FileWriter in Java",
+    "Score": 32
+  },
+  {
+    "Id": 5764065,
+    "Title": "The difference between InputStream and InputStreamReader when reading multi-byte characters",
+    "Score": 28
+  },
+  {
+    "Id": 5798473,
+    "Title": "rmi vs servlets vs sockets",
+    "Score": 15
+  },
+  {
+    "Id": 5813614,
+    "Title": "What is difference between Errors and Exceptions?",
+    "Score": 112
+  },
+  {
+    "Id": 5819392,
+    "Title": "What is the difference between JDBC and JDBI?",
+    "Score": 34
+  },
+  {
+    "Id": 5827804,
+    "Title": "Logback native VS Logback via SLF4J",
+    "Score": 28
+  },
+  {
+    "Id": 5846183,
+    "Title": "ArrayList Vs LinkedList",
+    "Score": 62
+  },
+  {
+    "Id": 5857812,
+    "Title": "Long vs Integer, long vs int, what to use and when?",
+    "Score": 117
+  },
+  {
+    "Id": 5862680,
+    "Title": "What's the advantage of persist() vs save() in Hibernate?",
+    "Score": 143
+  },
+  {
+    "Id": 5871053,
+    "Title": "Difference between jar and war in Java",
+    "Score": 377
+  },
+  {
+    "Id": 5890438,
+    "Title": "What is the difference between a top-down web service and a bottom-up web service?",
+    "Score": 46
+  },
+  {
+    "Id": 5901452,
+    "Title": "scala vs java, performance and memory?",
+    "Score": 151
+  },
+  {
+    "Id": 5911387,
+    "Title": "Difference in time between two dates in java",
+    "Score": 24
+  },
+  {
+    "Id": 5915822,
+    "Title": "What's the difference between the IN and MEMBER OF JPQL operators?",
+    "Score": 36
+  },
+  {
+    "Id": 5927363,
+    "Title": "Java ResultSet, SetObject vs SetString/SetDate/etc",
+    "Score": 19
+  },
+  {
+    "Id": 5949926,
+    "Title": "What is the difference between append and write methods of java.io.writer?",
+    "Score": 27
+  },
+  {
+    "Id": 5997235,
+    "Title": "Is there a difference between main(String args[]) and main(String[] args)?",
+    "Score": 41
+  },
+  {
+    "Id": 6008241,
+    "Title": "What is the difference between '?', 'E', and 'T' for Java generics?",
+    "Score": 214
+  },
+  {
+    "Id": 6011141,
+    "Title": "Scala parser combinators vs ANTLR/Java generated parser?",
+    "Score": 25
+  },
+  {
+    "Id": 6023335,
+    "Title": "what is difference between rtmp and rtsp protocol?",
+    "Score": 24
+  },
+  {
+    "Id": 6036450,
+    "Title": "PowerMock + Mockito VS Mockito alone",
+    "Score": 45
+  },
+  {
+    "Id": 6087728,
+    "Title": "What is difference between setMaxResults and setFetchSize in org.hibernate.Query?",
+    "Score": 47
+  },
+  {
+    "Id": 6091615,
+    "Title": "Difference between \"on-heap\" and \"off-heap\"",
+    "Score": 115
+  },
+  {
+    "Id": 6099040,
+    "Title": "find out the differences between two java beans for version tracking",
+    "Score": 18
+  },
+  {
+    "Id": 6102812,
+    "Title": "Objective-C delegates vs Java listeners",
+    "Score": 18
+  },
+  {
+    "Id": 6111645,
+    "Title": "Difference between TimerTask and Executors.newScheduledThreadPool(1)",
+    "Score": 12
+  },
+  {
+    "Id": 6115896,
+    "Title": "Java: checked vs unchecked exception explanation",
+    "Score": 633
+  },
+  {
+    "Id": 6144227,
+    "Title": "Enums VS Classes VS Interfaces",
+    "Score": 15
+  },
+  {
+    "Id": 6150126,
+    "Title": "difference between Java atomic integer and C# Interlocked.Increment method",
+    "Score": 12
+  },
+  {
+    "Id": 6157550,
+    "Title": "What is the difference between a PKCS12 keystore and a PKCS11 keystore?",
+    "Score": 31
+  },
+  {
+    "Id": 6173009,
+    "Title": "Difference between Spring MVC and Struts MVC",
+    "Score": 43
+  },
+  {
+    "Id": 6175316,
+    "Title": "The difference between ++Var and Var++",
+    "Score": 65
+  },
+  {
+    "Id": 6197306,
+    "Title": "Difference between system.gc() and runtime.gc()",
+    "Score": 45
+  },
+  {
+    "Id": 6201577,
+    "Title": "Java: Difference between two lists",
+    "Score": 18
+  },
+  {
+    "Id": 6202653,
+    "Title": "Difference between Oracle jdbc driver classes?",
+    "Score": 46
+  },
+  {
+    "Id": 6231973,
+    "Title": "Difference between List, List<?>, List<T>, List<E>, and List<Object>",
+    "Score": 178
+  },
+  {
+    "Id": 6236751,
+    "Title": "Android: what is the difference between Bundle Vs java.util collections like HashMap",
+    "Score": 11
+  },
+  {
+    "Id": 6308178,
+    "Title": "What is the main difference between Inheritance and Polymorphism?",
+    "Score": 139
+  },
+  {
+    "Id": 6331822,
+    "Title": "Difference between 32 and 64 bit Eclipse",
+    "Score": 20
+  },
+  {
+    "Id": 6340918,
+    "Title": "Trust Store vs Key Store - creating with keytool",
+    "Score": 213
+  },
+  {
+    "Id": 6367885,
+    "Title": "difference between synchronizing a static method and a non static method",
+    "Score": 25
+  },
+  {
+    "Id": 6412544,
+    "Title": "What's the difference between anonymous classes in Java and closures?",
+    "Score": 35
+  },
+  {
+    "Id": 6429634,
+    "Title": "Differences between a 'local name' and 'qualified name' in a xml attribute",
+    "Score": 13
+  },
+  {
+    "Id": 6462055,
+    "Title": "Hashmap vs Array performance",
+    "Score": 18
+  },
+  {
+    "Id": 6538791,
+    "Title": "What is the difference between Calendar.WEEK_OF_MONTH and Calendar.DAY_OF_WEEK_IN_MONTH in Java's Calendar class?",
+    "Score": 12
+  },
+  {
+    "Id": 6547310,
+    "Title": "In Java, what is the difference between this.method() and method()?",
+    "Score": 44
+  },
+  {
+    "Id": 6562673,
+    "Title": "@OneToMany List<> vs Set<> difference",
+    "Score": 80
+  },
+  {
+    "Id": 6565047,
+    "Title": "The difference between context and scope in CDI - and Java at all",
+    "Score": 12
+  },
+  {
+    "Id": 6570088,
+    "Title": "MongoDB Java API: put() vs append()",
+    "Score": 18
+  },
+  {
+    "Id": 6590661,
+    "Title": "DBCP: removeAbandoned VS eviction",
+    "Score": 11
+  },
+  {
+    "Id": 6598498,
+    "Title": "Google guava vs Scala collection framework comparison ",
+    "Score": 30
+  },
+  {
+    "Id": 6599625,
+    "Title": "JDBC Resultset vs Rowset which one to choose and when?",
+    "Score": 16
+  },
+  {
+    "Id": 6608795,
+    "Title": "What is the difference between Class.getResource() and ClassLoader.getResource()?",
+    "Score": 172
+  },
+  {
+    "Id": 6620949,
+    "Title": "Difference between Return and Break statements",
+    "Score": 50
+  },
+  {
+    "Id": 6637170,
+    "Title": "ReentrantReadWriteLock vs synchronized",
+    "Score": 13
+  },
+  {
+    "Id": 6654734,
+    "Title": "Difference between 'same' and 'eq' in EasyMock",
+    "Score": 14
+  },
+  {
+    "Id": 6730126,
+    "Title": "Parametric polymorphism vs Ad-hoc polymorphism",
+    "Score": 42
+  },
+  {
+    "Id": 6732124,
+    "Title": "Difference between Transfer objects and Domain objects",
+    "Score": 29
+  },
+  {
+    "Id": 6748409,
+    "Title": "Head First Design Patterns vs Head First Object Oriented Analysis and Design",
+    "Score": 15
+  },
+  {
+    "Id": 6754881,
+    "Title": "Java double vs BigDecimal for latitude/longitude",
+    "Score": 52
+  },
+  {
+    "Id": 6757868,
+    "Title": "Map.clear() vs new Map : Which one will be better?",
+    "Score": 87
+  },
+  {
+    "Id": 6770206,
+    "Title": "What is the difference between the 'shell' channel and the 'exec' channel in JSch",
+    "Score": 28
+  },
+  {
+    "Id": 6783316,
+    "Title": "List vs List<Object>",
+    "Score": 12
+  },
+  {
+    "Id": 6785754,
+    "Title": "JVM Process vs JVM Heap memory usage",
+    "Score": 17
+  },
+  {
+    "Id": 6789342,
+    "Title": "JPA Enum ORDINAL vs STRING",
+    "Score": 36
+  },
+  {
+    "Id": 6793351,
+    "Title": "Difference between a managed bean and a session bean",
+    "Score": 19
+  },
+  {
+    "Id": 6801676,
+    "Title": "Heap vs Stack vs Perm Space",
+    "Score": 32
+  },
+  {
+    "Id": 6821887,
+    "Title": "BufferedOutputStream vs ByteArrayOutputStream",
+    "Score": 21
+  },
+  {
+    "Id": 6828362,
+    "Title": "Difference between String.isEmpty() and String.equals(\"\")",
+    "Score": 18
+  },
+  {
+    "Id": 6850395,
+    "Title": "Eclipse: Difference between 'Revert' and 'Override and Update'",
+    "Score": 21
+  },
+  {
+    "Id": 6855112,
+    "Title": "'Shared Object Memory' vs 'Heap Memory' - Java",
+    "Score": 12
+  },
+  {
+    "Id": 6856028,
+    "Title": "Difference between ProcessBuilder and Runtime.exec()",
+    "Score": 79
+  },
+  {
+    "Id": 6863182,
+    "Title": "What is the difference between iterator and iterable and how to use them?",
+    "Score": 158
+  },
+  {
+    "Id": 6875306,
+    "Title": "Difference between System.exit(int code) and Runtime.getRuntime().exit(int code)",
+    "Score": 11
+  },
+  {
+    "Id": 6876287,
+    "Title": "Difference between java downloads",
+    "Score": 18
+  },
+  {
+    "Id": 6883646,
+    "Title": "(obj == null) vs (null == obj)?",
+    "Score": 38
+  },
+  {
+    "Id": 6883715,
+    "Title": "What's the difference between Printwriter and OutputStream",
+    "Score": 16
+  },
+  {
+    "Id": 6905288,
+    "Title": "Getting current datetime using Calendar.getInstance() vs new GregorianCalendar()",
+    "Score": 40
+  },
+  {
+    "Id": 6958401,
+    "Title": "The difference between += and =+",
+    "Score": 20
+  },
+  {
+    "Id": 6961356,
+    "Title": "list.clear() vs list = new ArrayList<Integer>();",
+    "Score": 112
+  },
+  {
+    "Id": 6968587,
+    "Title": "EAR vs separate EJB + WAR",
+    "Score": 21
+  },
+  {
+    "Id": 6978415,
+    "Title": "Properties vs Resource Bundle",
+    "Score": 49
+  },
+  {
+    "Id": 6981467,
+    "Title": "Jena/ARQ: Difference between Model, Graph and DataSet",
+    "Score": 25
+  },
+  {
+    "Id": 6997190,
+    "Title": "What the difference between Eclipse 3.7, 3.8 and 4.2?",
+    "Score": 30
+  },
+  {
+    "Id": 7016391,
+    "Title": "Difference between System.load() and System.loadLibrary in Java",
+    "Score": 55
+  },
+  {
+    "Id": 7032070,
+    "Title": "What is the difference between ArrayList.clear() and ArrayList.removeAll()?",
+    "Score": 252
+  },
+  {
+    "Id": 7066409,
+    "Title": "What is the difference between {@code memberData} and <code>memberData</code> in JavaDoc",
+    "Score": 37
+  },
+  {
+    "Id": 7080051,
+    "Title": "checking if difference between 2 date is more than 20 minutes",
+    "Score": 29
+  },
+  {
+    "Id": 7103500,
+    "Title": "Learning Web Development : Django vs Node vs Rails vs Others",
+    "Score": 78
+  },
+  {
+    "Id": 7128348,
+    "Title": "Performance difference between a wild card import and the required class import",
+    "Score": 25
+  },
+  {
+    "Id": 7142622,
+    "Title": "What is the difference between @Inject and @Autowired in Spring Framework? Which one to use under what condition?",
+    "Score": 606
+  },
+  {
+    "Id": 7191109,
+    "Title": "Difference between code before and after super()",
+    "Score": 42
+  },
+  {
+    "Id": 7195717,
+    "Title": "What is the difference between the <pathelement> attributes 'path' and 'location' in Ant?",
+    "Score": 15
+  },
+  {
+    "Id": 7199666,
+    "Title": "Difference between & and && in Java?",
+    "Score": 143
+  },
+  {
+    "Id": 7200100,
+    "Title": "What is the difference between Eclipse 3.7 and Eclipse 4.1?",
+    "Score": 58
+  },
+  {
+    "Id": 7216003,
+    "Title": "Cost of locking in .NET vs Java",
+    "Score": 28
+  },
+  {
+    "Id": 7220241,
+    "Title": "What's the difference between RequestDispatcher.forward() and HttpServletResponse.sendRedirect()?",
+    "Score": 16
+  },
+  {
+    "Id": 7256606,
+    "Title": "JDialog setVisible(false) vs dispose()",
+    "Score": 20
+  },
+  {
+    "Id": 7259273,
+    "Title": "What's the difference between the name argument in @Entity and @Table when using JPA?",
+    "Score": 48
+  },
+  {
+    "Id": 7281180,
+    "Title": "Difference between Color.red and Color.RED",
+    "Score": 44
+  },
+  {
+    "Id": 7303266,
+    "Title": "Difference between SALT and KEY. Encryption",
+    "Score": 13
+  },
+  {
+    "Id": 7317579,
+    "Title": "Difference between BlockingQueue and TransferQueue",
+    "Score": 43
+  },
+  {
+    "Id": 7334064,
+    "Title": "JPA Named Queries vs Criteria API?",
+    "Score": 26
+  },
+  {
+    "Id": 7337079,
+    "Title": "What is the difference between having a class as final and having a class constructor as private",
+    "Score": 17
+  },
+  {
+    "Id": 7360594,
+    "Title": "What's the difference between raw types, unbounded wild cards and using Object in generics",
+    "Score": 24
+  },
+  {
+    "Id": 7376647,
+    "Title": "What is the difference between Java's BufferedReader and InputStreamReader classes?",
+    "Score": 34
+  },
+  {
+    "Id": 7378693,
+    "Title": "Proguard vs Annotations",
+    "Score": 22
+  },
+  {
+    "Id": 7390286,
+    "Title": "What's the difference between ActivationSpec and ConnectionFactory?",
+    "Score": 20
+  },
+  {
+    "Id": 7391735,
+    "Title": "Difference between access=\"permitAll\" and filters=\"none\"?",
+    "Score": 20
+  },
+  {
+    "Id": 7436581,
+    "Title": "What is the difference between a pointer and a reference variable in Java?",
+    "Score": 13
+  },
+  {
+    "Id": 7458782,
+    "Title": "akka jvm threads vs os threads when performing io",
+    "Score": 15
+  },
+  {
+    "Id": 7480146,
+    "Title": "Difference between exception handling in C++ and Java?",
+    "Score": 23
+  },
+  {
+    "Id": 7490166,
+    "Title": "What are the fundamental differences between OSGi and Java EE?",
+    "Score": 17
+  },
+  {
+    "Id": 7496391,
+    "Title": "Difference between BasicDatasource and PoolingDatasource",
+    "Score": 30
+  },
+  {
+    "Id": 7520432,
+    "Title": "What is the difference between == and equals() in Java?",
+    "Score": 539
+  },
+  {
+    "Id": 7526483,
+    "Title": "What is the difference between \"descriptor\" and \"signature\"?",
+    "Score": 12
+  },
+  {
+    "Id": 7554574,
+    "Title": "Difference between String.getBytes() and Bytes.toBytes(String data)",
+    "Score": 17
+  },
+  {
+    "Id": 7556402,
+    "Title": "Difference between servlet/servlet-mapping and filter/filter-mapping?",
+    "Score": 14
+  },
+  {
+    "Id": 7573269,
+    "Title": "what is the difference between ? and T in class and method signatures?",
+    "Score": 12
+  },
+  {
+    "Id": 7641876,
+    "Title": "Java - The difference between class \"ClassName\" and public class \"ClassName\"",
+    "Score": 27
+  },
+  {
+    "Id": 7645465,
+    "Title": "Difference between StandardTokenizerFactory and KeywordTokenizerFactory in Solr?",
+    "Score": 13
+  },
+  {
+    "Id": 7679317,
+    "Title": "Eclipse EE - Java EE perspective Vs Java perspective",
+    "Score": 12
+  },
+  {
+    "Id": 7709928,
+    "Title": "JAXB vs DOM and SAX",
+    "Score": 22
+  },
+  {
+    "Id": 7752347,
+    "Title": "String valueOf vs concatenation with empty string",
+    "Score": 43
+  },
+  {
+    "Id": 7758020,
+    "Title": "Difference between Executor and ExecutorCompletionservice in java",
+    "Score": 15
+  },
+  {
+    "Id": 7788394,
+    "Title": "What's the difference between \"Add JARs\" and \"Add External JARs\" in Eclipse?",
+    "Score": 25
+  },
+  {
+    "Id": 7790039,
+    "Title": "Difference between ArrayList<>() and ArrayList<>(){}",
+    "Score": 11
+  },
+  {
+    "Id": 7790185,
+    "Title": "Singleton lazy vs eager instantiation",
+    "Score": 22
+  },
+  {
+    "Id": 7842265,
+    "Title": "Difference between Synchronized block with wait/notify and without them?",
+    "Score": 14
+  },
+  {
+    "Id": 7844517,
+    "Title": "Difference between ActionBarSherlock and ActionBar Compatibility",
+    "Score": 154
+  },
+  {
+    "Id": 7882745,
+    "Title": "How to extract .war files in java? ZIP vs JAR",
+    "Score": 38
+  },
+  {
+    "Id": 7887170,
+    "Title": "StringBuilder append vs +",
+    "Score": 13
+  },
+  {
+    "Id": 7903503,
+    "Title": "Java Performance Processes vs Threads",
+    "Score": 14
+  },
+  {
+    "Id": 7959274,
+    "Title": "Difference between WebApplicationException and WebServiceException in the context of Jax-RS (Jersey)",
+    "Score": 14
+  },
+  {
+    "Id": 7991770,
+    "Title": "InputStreamReader vs FileReader",
+    "Score": 25
+  },
+  {
+    "Id": 8005250,
+    "Title": "Difference between a static and a final static variable in Java",
+    "Score": 40
+  },
+  {
+    "Id": 8046662,
+    "Title": "Hibernate openSession() vs getCurrentSession()",
+    "Score": 122
+  },
+  {
+    "Id": 8055389,
+    "Title": "What's the difference between <?> and <? extends Object> in Java Generics?",
+    "Score": 80
+  },
+  {
+    "Id": 8057110,
+    "Title": "Java Database connection pool (BoneCP vs DBPool vs c3p0)",
+    "Score": 22
+  },
+  {
+    "Id": 8064570,
+    "Title": "What is the best way get the symmetric difference between two sets in java?",
+    "Score": 32
+  },
+  {
+    "Id": 8075373,
+    "Title": "File.separator vs FileSystem.getSeparator() vs System.getProperty(\"file.separator\")?",
+    "Score": 114
+  },
+  {
+    "Id": 8100376,
+    "Title": "Class.forName() vs ClassLoader.loadClass() - which to use for dynamic loading?",
+    "Score": 93
+  },
+  {
+    "Id": 8123466,
+    "Title": "Difference between ArrayAdapter and ListAdapter in Android?",
+    "Score": 16
+  },
+  {
+    "Id": 8135362,
+    "Title": "What is the difference between Typed and UnTyped Actors in Akka? When to use what?",
+    "Score": 26
+  },
+  {
+    "Id": 8185282,
+    "Title": "Haskell vs JVM performance",
+    "Score": 40
+  },
+  {
+    "Id": 8194713,
+    "Title": "Difference between java/javaw/javaws",
+    "Score": 160
+  },
+  {
+    "Id": 8216292,
+    "Title": "Difference, in minutes, between two dates",
+    "Score": 18
+  },
+  {
+    "Id": 8249173,
+    "Title": "What is the difference between getDeclaredConstructors and getConstructors in the Class API?",
+    "Score": 52
+  },
+  {
+    "Id": 8323652,
+    "Title": "LSSerializer vs Transformer for serializing xml to String",
+    "Score": 12
+  },
+  {
+    "Id": 8330295,
+    "Title": "difference between java.rmi.Naming and java.rmi.registry.LocateRegistry",
+    "Score": 13
+  },
+  {
+    "Id": 8345220,
+    "Title": "Java: Difference between Class.forName and ClassLoader.loadClass",
+    "Score": 39
+  },
+  {
+    "Id": 8419860,
+    "Title": "Integer vs int: with regard to memory",
+    "Score": 36
+  },
+  {
+    "Id": 8428439,
+    "Title": "Spring annotation-based DI vs xml configuration?",
+    "Score": 41
+  },
+  {
+    "Id": 8432046,
+    "Title": "Application vs Container Managed EntityManager",
+    "Score": 19
+  },
+  {
+    "Id": 8503327,
+    "Title": "Difference between java.exe, javaw.exe and jvm.dll",
+    "Score": 28
+  },
+  {
+    "Id": 8517121,
+    "Title": "Java: What is the difference between <init> and <clinit>?",
+    "Score": 80
+  },
+  {
+    "Id": 8531292,
+    "Title": "Why to use Interfaces, Multiple Inheritance vs Interfaces, Benefits of Interfaces?",
+    "Score": 58
+  },
+  {
+    "Id": 8547226,
+    "Title": "just curious to know the difference between spring mvc vs django",
+    "Score": 19
+  },
+  {
+    "Id": 8579657,
+    "Title": "What's the difference between Thread start() and Runnable run()",
+    "Score": 195
+  },
+  {
+    "Id": 8582531,
+    "Title": "What is the difference between a phrase query and using a shingle filter?",
+    "Score": 13
+  },
+  {
+    "Id": 8588309,
+    "Title": "What is the difference between SOAP 1.1, SOAP 1.2, HTTP GET & HTTP POST methods for Android?",
+    "Score": 67
+  },
+  {
+    "Id": 8612269,
+    "Title": "What is different about the Java EE packages? (SDK/normal vs Web Profile)",
+    "Score": 21
+  },
+  {
+    "Id": 8629173,
+    "Title": "difference between java bean and java class?",
+    "Score": 17
+  },
+  {
+    "Id": 8653224,
+    "Title": "Java: using system parameters vs \"regular\" command line options",
+    "Score": 19
+  },
+  {
+    "Id": 8660691,
+    "Title": "What is the difference between Integer and int in Java?",
+    "Score": 207
+  },
+  {
+    "Id": 8680843,
+    "Title": "HttpServletRequest.getRemoteUser() vs HttpServletRequest.getUserPrincipal().getName()",
+    "Score": 29
+  },
+  {
+    "Id": 8698285,
+    "Title": "When to use volatile vs synchronization in multithreading in java?",
+    "Score": 14
+  },
+  {
+    "Id": 8719595,
+    "Title": "Joda DateTime vs Instant",
+    "Score": 20
+  },
+  {
+    "Id": 8744162,
+    "Title": " Difference between returning null and \"\" from a JSF action",
+    "Score": 38
+  },
+  {
+    "Id": 8777257,
+    "Title": "equals vs Arrays.equals in Java",
+    "Score": 191
+  },
+  {
+    "Id": 8790809,
+    "Title": "What's the difference between primitive and reference types?",
+    "Score": 49
+  },
+  {
+    "Id": 8823570,
+    "Title": "Objects lifespan in Java vs .Net",
+    "Score": 11
+  },
+  {
+    "Id": 8825840,
+    "Title": "What is the difference between != and =! in Java?",
+    "Score": 56
+  },
+  {
+    "Id": 8860770,
+    "Title": "Guava MultiSet vs Map?",
+    "Score": 18
+  },
+  {
+    "Id": 8875680,
+    "Title": "Difference between Hashtable and Collections.synchronizedMap(HashMap)",
+    "Score": 43
+  },
+  {
+    "Id": 8889240,
+    "Title": "What is the difference between \"new A()\" and \"A.newInstance()\"?",
+    "Score": 13
+  },
+  {
+    "Id": 8892350,
+    "Title": "Immutable vs Unmodifiable collection",
+    "Score": 144
+  },
+  {
+    "Id": 8919834,
+    "Title": "C++ vs Java? Why does the ICC generate slower code than VC? ",
+    "Score": 44
+  },
+  {
+    "Id": 8942317,
+    "Title": "Spring interceptor vs servlet filter",
+    "Score": 12
+  },
+  {
+    "Id": 8960918,
+    "Title": "Encapsulation vs Abstraction?",
+    "Score": 123
+  },
+  {
+    "Id": 8962459,
+    "Title": "java collections - keyset() vs entrySet() in map",
+    "Score": 30
+  },
+  {
+    "Id": 8962482,
+    "Title": "Yet again on string append vs concat vs +",
+    "Score": 25
+  },
+  {
+    "Id": 8969059,
+    "Title": "Difference between @OneToMany and @ElementCollection?",
+    "Score": 99
+  },
+  {
+    "Id": 9056190,
+    "Title": "What is the difference between synchronized(this) and synchronized(ClassName.class)?",
+    "Score": 13
+  },
+  {
+    "Id": 9105505,
+    "Title": "Differences between Just in Time compilation and On Stack Replacement",
+    "Score": 35
+  },
+  {
+    "Id": 9106416,
+    "Title": "Difference between @Qualifier and @Resource",
+    "Score": 34
+  },
+  {
+    "Id": 9161421,
+    "Title": "Ordinary Queue vs SEDA Queue",
+    "Score": 11
+  },
+  {
+    "Id": 9176643,
+    "Title": "difference between natural ordering and total ordering",
+    "Score": 40
+  },
+  {
+    "Id": 9202857,
+    "Title": "Timezones in SQL DATE vs java.sql.Date",
+    "Score": 33
+  },
+  {
+    "Id": 9227099,
+    "Title": "HDF5 in Java: What are the difference between the availabe APIs?",
+    "Score": 26
+  },
+  {
+    "Id": 9247886,
+    "Title": "What is difference between references and objects in java?",
+    "Score": 17
+  },
+  {
+    "Id": 9249357,
+    "Title": "Difference between namespace in C# and package in Java",
+    "Score": 89
+  },
+  {
+    "Id": 9272585,
+    "Title": "difference between flush and close function in case of filewriter in java",
+    "Score": 31
+  },
+  {
+    "Id": 9291713,
+    "Title": "Error codes within exception vs exceptions hierarhy",
+    "Score": 11
+  },
+  {
+    "Id": 9360072,
+    "Title": "Enclosing class vs Declaring class",
+    "Score": 21
+  },
+  {
+    "Id": 9389187,
+    "Title": "Difference between paint, paintComponent and paintComponents in Swing",
+    "Score": 27
+  },
+  {
+    "Id": 9421567,
+    "Title": "what's the difference between #{} ${} and %{}?",
+    "Score": 15
+  },
+  {
+    "Id": 9432912,
+    "Title": "Difference between include and forward mechanism for request dispatching concept?",
+    "Score": 39
+  },
+  {
+    "Id": 9463268,
+    "Title": "java.util.Properties Vs java.util.Map<String, String>",
+    "Score": 11
+  },
+  {
+    "Id": 9471837,
+    "Title": "What is the difference between run-time error and compiler error?",
+    "Score": 40
+  },
+  {
+    "Id": 9481578,
+    "Title": "Hector vs Astyanax for Cassandra",
+    "Score": 19
+  },
+  {
+    "Id": 9488445,
+    "Title": "List<? extends Base> VS List<Base>",
+    "Score": 11
+  },
+  {
+    "Id": 9494380,
+    "Title": "What's the difference between the implements & extends keywords in Java",
+    "Score": 23
+  },
+  {
+    "Id": 9497729,
+    "Title": "Difference between a Pure Abstract class and an Interface",
+    "Score": 25
+  },
+  {
+    "Id": 9510125,
+    "Title": "Difference between validate(), revalidate() and invalidate() in Swing GUI",
+    "Score": 103
+  },
+  {
+    "Id": 9510932,
+    "Title": "Java Package Vs Folder-Structure? what is the difference",
+    "Score": 51
+  },
+  {
+    "Id": 9517228,
+    "Title": "Guava ImmutableList copyOf vs Builder",
+    "Score": 13
+  },
+  {
+    "Id": 9617420,
+    "Title": "Difference between extracting and packaging libraries into a jar file",
+    "Score": 67
+  },
+  {
+    "Id": 9648811,
+    "Title": "Specific difference between bufferedreader and filereader",
+    "Score": 44
+  },
+  {
+    "Id": 9700115,
+    "Title": "Difference between matches and equalsIgnoreCase or equals in string class",
+    "Score": 11
+  },
+  {
+    "Id": 9700871,
+    "Title": "what is difference between sleep method and yield method of multi threading?",
+    "Score": 47
+  },
+  {
+    "Id": 9743487,
+    "Title": "What's the difference between Float.POSITIVE_INFINITY and Float.MAX_VALUE?",
+    "Score": 14
+  },
+  {
+    "Id": 9749746,
+    "Title": "What is the difference between atomic / volatile / synchronized?",
+    "Score": 254
+  },
+  {
+    "Id": 9758457,
+    "Title": "try/catch vs null check in java",
+    "Score": 31
+  },
+  {
+    "Id": 9769797,
+    "Title": "What's the difference between Hashtable and Dictionary?",
+    "Score": 21
+  },
+  {
+    "Id": 9810445,
+    "Title": "List<Map<String, String>> vs List<? extends Map<String, String>>",
+    "Score": 123
+  },
+  {
+    "Id": 9843120,
+    "Title": "What are the differences between mapping,binding and parsing?",
+    "Score": 15
+  },
+  {
+    "Id": 9863625,
+    "Title": "Difference between EST and America/New_York time zones",
+    "Score": 42
+  },
+  {
+    "Id": 9867976,
+    "Title": "Difference between the default access specifier and protected access specifier in java",
+    "Score": 20
+  },
+  {
+    "Id": 9904067,
+    "Title": "Differences between C# async and Java ExecutorService",
+    "Score": 11
+  },
+  {
+    "Id": 9980915,
+    "Title": "Lists.newArrayList vs new ArrayList",
+    "Score": 63
+  },
+  {
+    "Id": 10067465,
+    "Title": "Scanner vs InputStreamReader",
+    "Score": 13
+  },
+  {
+    "Id": 10102151,
+    "Title": "What's the difference between this and Activity.this",
+    "Score": 21
+  },
+  {
+    "Id": 10115588,
+    "Title": "What is the difference between field, variable, attribute, and property in Java POJOs?",
+    "Score": 125
+  },
+  {
+    "Id": 10120709,
+    "Title": "Difference between printStackTrace() and toString()",
+    "Score": 47
+  },
+  {
+    "Id": 10151536,
+    "Title": "what is the difference between jolokia & jmxtrans ? When to choose one over the other?",
+    "Score": 12
+  },
+  {
+    "Id": 10170633,
+    "Title": "C# sealed vs Java final",
+    "Score": 11
+  },
+  {
+    "Id": 10183875,
+    "Title": "What's the difference between QueryParam and MatrixParam in JAX-RS?",
+    "Score": 21
+  },
+  {
+    "Id": 10200691,
+    "Title": "Java vs C floating point: \"x * x\" differs from \"pow(x,2)\"?",
+    "Score": 18
+  },
+  {
+    "Id": 10242800,
+    "Title": "Android: Difference between getCount() and getChildCount() in ListView",
+    "Score": 30
+  },
+  {
+    "Id": 10246708,
+    "Title": "Difference between Logger.getLogger(className) and LogFactory.getLog(className )?",
+    "Score": 17
+  },
+  {
+    "Id": 10258071,
+    "Title": "Class Object vs Hashmap",
+    "Score": 20
+  },
+  {
+    "Id": 10287700,
+    "Title": "Difference between JVM's LookupSwitch and TableSwitch?",
+    "Score": 54
+  },
+  {
+    "Id": 10339338,
+    "Title": "<T extends Object & E> vs <T extends E>",
+    "Score": 29
+  },
+  {
+    "Id": 10355778,
+    "Title": "JBoss SAR vs EAR/WAR packaging",
+    "Score": 15
+  },
+  {
+    "Id": 10357823,
+    "Title": "Volatile HashMap vs ConcurrentHashMap",
+    "Score": 13
+  },
+  {
+    "Id": 10395571,
+    "Title": "Condition vs wait notify mechanism",
+    "Score": 63
+  },
+  {
+    "Id": 10397881,
+    "Title": "Java: LockSupport.parkNanos vs Thread.sleep(...)",
+    "Score": 33
+  },
+  {
+    "Id": 10415755,
+    "Title": "Java RESTful services - What is the difference between QueryParam and PathParam in terms of their usage?",
+    "Score": 14
+  },
+  {
+    "Id": 10425794,
+    "Title": "can anybody explain me difference between class level controller and method level controller..?",
+    "Score": 14
+  },
+  {
+    "Id": 10430043,
+    "Title": "Difference between \"char\" and \"String\" in Java",
+    "Score": 47
+  },
+  {
+    "Id": 10434736,
+    "Title": "Difference between BufferedReader and BufferedInputStream",
+    "Score": 19
+  },
+  {
+    "Id": 10443951,
+    "Title": "Java: efficiency of writeObject vs writeExternal",
+    "Score": 17
+  },
+  {
+    "Id": 10459487,
+    "Title": "Difference between public static and private static variables",
+    "Score": 12
+  },
+  {
+    "Id": 10470104,
+    "Title": "What is the difference between listeners and adapters?",
+    "Score": 21
+  },
+  {
+    "Id": 10478018,
+    "Title": "Benefits in Android to importing a library internally vs externally",
+    "Score": 18
+  },
+  {
+    "Id": 10486413,
+    "Title": "ConcurrentHashMap put vs putIfAbsent",
+    "Score": 17
+  },
+  {
+    "Id": 10487104,
+    "Title": "Difference between List and Array",
+    "Score": 25
+  },
+  {
+    "Id": 10568390,
+    "Title": "Difference between U V and S T texture coordinates",
+    "Score": 12
+  },
+  {
+    "Id": 10577610,
+    "Title": "What is the difference between Double.parseDouble(String) and Double.valueOf(String)?",
+    "Score": 57
+  },
+  {
+    "Id": 10578674,
+    "Title": "find hour or minute difference between 2 java.sql.Timestamps?",
+    "Score": 13
+  },
+  {
+    "Id": 10594052,
+    "Title": "Overriding vs Hiding Java - Confused",
+    "Score": 66
+  },
+  {
+    "Id": 10623682,
+    "Title": "Using int vs Integer",
+    "Score": 50
+  },
+  {
+    "Id": 10656471,
+    "Title": "Performance differences between ArrayList and LinkedList",
+    "Score": 52
+  },
+  {
+    "Id": 10663450,
+    "Title": "what's the difference between -source and -target compatibility?",
+    "Score": 36
+  },
+  {
+    "Id": 10664182,
+    "Title": "What is the difference between JDK dynamic proxy and CGLib?",
+    "Score": 112
+  },
+  {
+    "Id": 10690370,
+    "Title": "How do I get difference between two dates in android?, tried every thing and post",
+    "Score": 21
+  },
+  {
+    "Id": 10690403,
+    "Title": "Go channel vs Java BlockingQueue",
+    "Score": 11
+  },
+  {
+    "Id": 10694584,
+    "Title": "What's so special about CardLayout vs manual adding/removal of JPanels?",
+    "Score": 14
+  },
+  {
+    "Id": 10777701,
+    "Title": "What is the difference between Collection<?> and Collection<T>",
+    "Score": 23
+  },
+  {
+    "Id": 10801746,
+    "Title": "Properties file vs Constants class in Java",
+    "Score": 20
+  },
+  {
+    "Id": 10806345,
+    "Title": "@RunWith(MockitoJUnitRunner.class) vs MockitoAnnotations.initMocks(this)",
+    "Score": 92
+  },
+  {
+    "Id": 10827872,
+    "Title": "Difference between String replace() and replaceAll()",
+    "Score": 174
+  },
+  {
+    "Id": 10834577,
+    "Title": "Guava: Iterables.filter VS Collections2.filter, any big difference?",
+    "Score": 17
+  },
+  {
+    "Id": 10839042,
+    "Title": "What is the difference between java.lang.Void and void?",
+    "Score": 52
+  },
+  {
+    "Id": 10839131,
+    "Title": "Implements vs extends: When to use? What's the difference?",
+    "Score": 619
+  },
+  {
+    "Id": 10880137,
+    "Title": "Java Enumeration vs Iterator",
+    "Score": 12
+  },
+  {
+    "Id": 10889563,
+    "Title": "EJB 3.1 @LocalBean vs no annotation",
+    "Score": 71
+  },
+  {
+    "Id": 10943137,
+    "Title": "Difference between generic type and wildcard type",
+    "Score": 43
+  },
+  {
+    "Id": 10947768,
+    "Title": "What is the difference between a.getClass() and A.class in Java?",
+    "Score": 94
+  },
+  {
+    "Id": 10954815,
+    "Title": "Google's Json Parsing Gson library: What's the difference between JsonElement and JsonObject?",
+    "Score": 28
+  },
+  {
+    "Id": 10971888,
+    "Title": "implements vs extends in generics in Java",
+    "Score": 11
+  },
+  {
+    "Id": 10977992,
+    "Title": "Difference between Iterator and Listiterator?",
+    "Score": 126
+  },
+  {
+    "Id": 11048177,
+    "Title": "Entitymanager.flush() VS EntityManager.getTransaction().commit - What should I prefer?",
+    "Score": 43
+  },
+  {
+    "Id": 11051205,
+    "Title": "Difference between java.util.Random and java.security.SecureRandom",
+    "Score": 192
+  },
+  {
+    "Id": 11063831,
+    "Title": "What is the difference between \"system32\\java.exe\" and \"Program Files\\Java\\jdk1.6.0_33\\bin\\java.exe\"?",
+    "Score": 30
+  },
+  {
+    "Id": 11071407,
+    "Title": "Advantage of set and get methods vs public variable",
+    "Score": 42
+  },
+  {
+    "Id": 11102645,
+    "Title": "Java Serialization vs JSON vs XML",
+    "Score": 22
+  },
+  {
+    "Id": 11104395,
+    "Title": "Difference between \"get' VS \"getProperty\"",
+    "Score": 16
+  },
+  {
+    "Id": 11120279,
+    "Title": "Difference between JAVA_HOME and JRE_HOME",
+    "Score": 29
+  },
+  {
+    "Id": 11156522,
+    "Title": "Is there a difference between using a logical operator or a bitwise operator in an if block in Java?",
+    "Score": 14
+  },
+  {
+    "Id": 11171154,
+    "Title": "Hibernate - difference between annotations and commons-annotations?",
+    "Score": 18
+  },
+  {
+    "Id": 11188869,
+    "Title": "What is the differences between facade pattern and abstarct factory pattern?",
+    "Score": 26
+  },
+  {
+    "Id": 11189398,
+    "Title": "difference between @size(max = value ) and @min(value) @max(value)",
+    "Score": 39
+  },
+  {
+    "Id": 11219556,
+    "Title": "Difference between final static and static final",
+    "Score": 122
+  },
+  {
+    "Id": 11222365,
+    "Title": "CATALINA_OPTS vs JAVA_OPTS - What is the difference?",
+    "Score": 90
+  },
+  {
+    "Id": 11242224,
+    "Title": "Junit difference between assertEquals(Double, Double) and assertEquals(double, double, delta)",
+    "Score": 11
+  },
+  {
+    "Id": 11323962,
+    "Title": "Exact difference between CharSequence and String in java",
+    "Score": 93
+  },
+  {
+    "Id": 11337384,
+    "Title": "Java thread dump: Difference between \"waiting to lock\" and \"parking to wait for\"?",
+    "Score": 40
+  },
+  {
+    "Id": 11350423,
+    "Title": "terminology of Class \"attribute\" vs \"member\" vs \"variable\" vs \"field\"",
+    "Score": 14
+  },
+  {
+    "Id": 11374477,
+    "Title": "Android: javac vs Dalvik",
+    "Score": 25
+  },
+  {
+    "Id": 11389449,
+    "Title": "Performance of MySQL Insert statements in Java: Batch mode prepared statements vs single insert with multiple values",
+    "Score": 27
+  },
+  {
+    "Id": 11435613,
+    "Title": "What's the difference between StackOverflowError and OutOfMemoryError",
+    "Score": 35
+  },
+  {
+    "Id": 11441623,
+    "Title": "Comparator vs Apache BeanComparator",
+    "Score": 14
+  },
+  {
+    "Id": 11458891,
+    "Title": "URLConnection setRequestProperty vs addRequestProperty",
+    "Score": 14
+  },
+  {
+    "Id": 11488754,
+    "Title": "what's the difference between canonicalpath and absolutepath?",
+    "Score": 17
+  },
+  {
+    "Id": 11497020,
+    "Title": "Java Generics WildCard: <? extends Number> vs <T extends Number>",
+    "Score": 56
+  },
+  {
+    "Id": 11520189,
+    "Title": "Difference between shutdown and shutdownNow of Executor Service",
+    "Score": 55
+  },
+  {
+    "Id": 11521027,
+    "Title": "What's the difference between DataOutputStream and ObjectOutputStream?",
+    "Score": 14
+  },
+  {
+    "Id": 11547458,
+    "Title": "What is the difference between JVM, JDK, JRE & OpenJDK?",
+    "Score": 303
+  },
+  {
+    "Id": 11552248,
+    "Title": "When to use @QueryParam vs @PathParam",
+    "Score": 221
+  },
+  {
+    "Id": 11564352,
+    "Title": "ArrayList vs LinkedList from memory allocation perspective",
+    "Score": 25
+  },
+  {
+    "Id": 11566609,
+    "Title": "Difference between JAX-WS, Axis2 and CXF",
+    "Score": 122
+  },
+  {
+    "Id": 11580035,
+    "Title": "Java - weird static String behavior - new String(\"xxx\") vs \"xxx\"",
+    "Score": 16
+  },
+  {
+    "Id": 11591000,
+    "Title": "System.currenTimeInMillis() vs System.nanoTime()",
+    "Score": 23
+  },
+  {
+    "Id": 11640507,
+    "Title": "Difference between Arrays and 3 dots (Varargs) in java",
+    "Score": 47
+  },
+  {
+    "Id": 11715485,
+    "Title": "What is the difference between declaration and definition in Java?",
+    "Score": 66
+  },
+  {
+    "Id": 11745806,
+    "Title": "Javafx Pane vs Region?",
+    "Score": 13
+  },
+  {
+    "Id": 11778276,
+    "Title": "What is the difference between \"pom\" type dependency with scope \"import\" and without \"import\"?",
+    "Score": 90
+  },
+  {
+    "Id": 11851829,
+    "Title": "AbstractApplicationContext vs ApplicationContext",
+    "Score": 12
+  },
+  {
+    "Id": 11859332,
+    "Title": "reactor vs proactor",
+    "Score": 12
+  },
+  {
+    "Id": 11874234,
+    "Title": "Difference between \\w and \\b regular expression meta characters",
+    "Score": 125
+  },
+  {
+    "Id": 11881347,
+    "Title": "Difference between cursor.count() and cursor.size() in MongoDB",
+    "Score": 16
+  },
+  {
+    "Id": 11881552,
+    "Title": "Implementation difference between Aggregation and Composition in Java",
+    "Score": 90
+  },
+  {
+    "Id": 11886915,
+    "Title": "Google App Engine: Backend vs Frontend Instances",
+    "Score": 11
+  },
+  {
+    "Id": 11903053,
+    "Title": "difference between @Component and @Configuration in Spring 3",
+    "Score": 11
+  },
+  {
+    "Id": 11906913,
+    "Title": "Java Static vs Instance",
+    "Score": 22
+  },
+  {
+    "Id": 11907245,
+    "Title": "Java: import statement vs fully qualified name?",
+    "Score": 18
+  },
+  {
+    "Id": 11922681,
+    "Title": "Differences between \"java -cp\" and \"java -jar\"?",
+    "Score": 89
+  },
+  {
+    "Id": 11928199,
+    "Title": "What's the difference between url.getFile() and getpath()?",
+    "Score": 12
+  },
+  {
+    "Id": 11936620,
+    "Title": "Jackson - Deserialising JSON string - TypeReference vs TypeFactory.constructCollectionType",
+    "Score": 30
+  },
+  {
+    "Id": 11938253,
+    "Title": "What's the difference between @JoinColumn and mappedBy when using a JPA @OneToMany association",
+    "Score": 438
+  },
+  {
+    "Id": 11960501,
+    "Title": "Dynamic vs XML layout in Android?",
+    "Score": 16
+  },
+  {
+    "Id": 11973505,
+    "Title": "What is the difference between String[] and String... in Java?",
+    "Score": 22
+  },
+  {
+    "Id": 11984029,
+    "Title": "Difference between &#32; and &nbsp;",
+    "Score": 12
+  },
+  {
+    "Id": 11993077,
+    "Title": "Difference between Static methods and Instance methods",
+    "Score": 71
+  },
+  {
+    "Id": 11994847,
+    "Title": "Spring Webflow - decision-state vs action-state",
+    "Score": 15
+  },
+  {
+    "Id": 12003447,
+    "Title": "Java hardcoded switch vs hashmap",
+    "Score": 14
+  },
+  {
+    "Id": 12013448,
+    "Title": "Encapsulation vs Data Hiding - Java",
+    "Score": 44
+  },
+  {
+    "Id": 12032051,
+    "Title": "Differences between java.util.Date and Joda Time APIs",
+    "Score": 13
+  },
+  {
+    "Id": 12073325,
+    "Title": "Performance and memory usage in Java arrays vs C++ arrays",
+    "Score": 14
+  },
+  {
+    "Id": 12095378,
+    "Title": "Difference between e.printStackTrace and System.out.println(e)",
+    "Score": 27
+  },
+  {
+    "Id": 12105253,
+    "Title": "Determine JRE architecture 32-bit vs 64-bit",
+    "Score": 11
+  },
+  {
+    "Id": 12130107,
+    "Title": "Difference between sampling and profiling in jVisualvm",
+    "Score": 150
+  },
+  {
+    "Id": 12139482,
+    "Title": "Difference between Files#delete(Path) and File#delete()",
+    "Score": 13
+  },
+  {
+    "Id": 12175174,
+    "Title": "paintComponent() vs paint() and JPanel vs Canvas in a paintbrush-type GUI",
+    "Score": 15
+  },
+  {
+    "Id": 12191794,
+    "Title": "What difference between app-inf and web-inf folders in JavaEE applications?",
+    "Score": 12
+  },
+  {
+    "Id": 12192050,
+    "Title": "What are the differences between Helper and Utility classes?",
+    "Score": 81
+  },
+  {
+    "Id": 12195628,
+    "Title": "Understanding the difference between null and '\\u000' in Java",
+    "Score": 32
+  },
+  {
+    "Id": 12209168,
+    "Title": "What is the difference between x86 and x64",
+    "Score": 37
+  },
+  {
+    "Id": 12229282,
+    "Title": "Difference between Spring annotations",
+    "Score": 40
+  },
+  {
+    "Id": 12269733,
+    "Title": "What is the difference between \"Module Dependencies\" and \"Libraries\" in IntelliJ IDEA?",
+    "Score": 30
+  },
+  {
+    "Id": 12289844,
+    "Title": "Difference between JSONObject and JSONArray",
+    "Score": 84
+  },
+  {
+    "Id": 12292926,
+    "Title": "What is the difference between getResourceAsStream with and without getClassLoader?",
+    "Score": 11
+  },
+  {
+    "Id": 12301570,
+    "Title": "javax.annotation: @Nullable vs @CheckForNull",
+    "Score": 39
+  },
+  {
+    "Id": 12317603,
+    "Title": "Push vs Pull Queues on Google App Engine",
+    "Score": 20
+  },
+  {
+    "Id": 12340808,
+    "Title": "What's the difference between List<Object> and List<?>",
+    "Score": 27
+  },
+  {
+    "Id": 12350248,
+    "Title": "Java difference between FileWriter and BufferedWriter",
+    "Score": 64
+  },
+  {
+    "Id": 12374399,
+    "Title": "What is the difference between method overloading and overriding?",
+    "Score": 42
+  },
+  {
+    "Id": 12390888,
+    "Title": "Differences between requires_new and nested propagation in Spring transactions",
+    "Score": 65
+  },
+  {
+    "Id": 12446263,
+    "Title": "difference between wtpwebapps and webapps folder in tomcat",
+    "Score": 24
+  },
+  {
+    "Id": 12525771,
+    "Title": "Servlet vs REST",
+    "Score": 24
+  },
+  {
+    "Id": 12572456,
+    "Title": "What are the differences between calling System.exit(0) and Thread.currentThread().interrupt() in the main thread of a Java program?",
+    "Score": 20
+  },
+  {
+    "Id": 12599839,
+    "Title": "Difference between _id & $oid ; $date & IsoDate in mongo database",
+    "Score": 14
+  },
+  {
+    "Id": 12600296,
+    "Title": "Dynamically compiled language vs statically compiled language",
+    "Score": 11
+  },
+  {
+    "Id": 12652899,
+    "Title": "Difference between Package and Directory in Java",
+    "Score": 11
+  },
+  {
+    "Id": 12654943,
+    "Title": "Delegate vs Callback in Java",
+    "Score": 16
+  },
+  {
+    "Id": 12661768,
+    "Title": "JetS3t vs AWS Java SDK",
+    "Score": 11
+  },
+  {
+    "Id": 12669076,
+    "Title": "Host Name Vs Canonical Host Name",
+    "Score": 22
+  },
+  {
+    "Id": 12670261,
+    "Title": "Metro vs Java's JAX-WS?",
+    "Score": 24
+  },
+  {
+    "Id": 12680272,
+    "Title": "What is the difference between value types and primitive types?",
+    "Score": 11
+  },
+  {
+    "Id": 12684604,
+    "Title": "Android Timer schedule vs scheduleAtFixedRate",
+    "Score": 38
+  },
+  {
+    "Id": 12685056,
+    "Title": "Whats the difference between a socket which is open and a socket which is connected?",
+    "Score": 11
+  },
+  {
+    "Id": 12704658,
+    "Title": "Difference between R.loess and org.apache.commons.math LoessInterpolator",
+    "Score": 11
+  },
+  {
+    "Id": 12709026,
+    "Title": "Difference between arguments and parameters in Java",
+    "Score": 39
+  },
+  {
+    "Id": 12721556,
+    "Title": "@embeddable vs @entity for a mapping a collection",
+    "Score": 17
+  },
+  {
+    "Id": 12736632,
+    "Title": "What is the difference between a source folder and a (normal) folder",
+    "Score": 12
+  },
+  {
+    "Id": 12851934,
+    "Title": "How to find difference between two Joda-Time DateTimes in minutes",
+    "Score": 123
+  },
+  {
+    "Id": 12859008,
+    "Title": "What is the difference between using a volatile primitive over atomic variables?",
+    "Score": 16
+  },
+  {
+    "Id": 12892536,
+    "Title": "how to choose java nio vs io?",
+    "Score": 18
+  },
+  {
+    "Id": 12939362,
+    "Title": "Best practices: fail() vs assertTrue(false)",
+    "Score": 14
+  },
+  {
+    "Id": 12960554,
+    "Title": "Java boolean getters \"is\" vs \"are\"",
+    "Score": 78
+  },
+  {
+    "Id": 12979944,
+    "Title": "Java Scheduling: Quartz vs Others? (ie. Obsidian)",
+    "Score": 13
+  },
+  {
+    "Id": 12998568,
+    "Title": "HashMap vs LinkedHashMap performance in iteration over values()",
+    "Score": 26
+  },
+  {
+    "Id": 13051204,
+    "Title": "Spring transaction REQUIRED vs REQUIRES_NEW : Rollback Transaction",
+    "Score": 37
+  },
+  {
+    "Id": 13091927,
+    "Title": "Difference between ui:composition and ui:decorate in Facelets",
+    "Score": 15
+  },
+  {
+    "Id": 13112038,
+    "Title": "Difference between System.getenv() & System.getProperty()",
+    "Score": 71
+  },
+  {
+    "Id": 13143890,
+    "Title": "What's the difference between standalone and domain on JEE6?",
+    "Score": 41
+  },
+  {
+    "Id": 13145267,
+    "Title": "Difference between Long.valueOf(java.lang.String) and new Long(java.lang.String)?",
+    "Score": 27
+  },
+  {
+    "Id": 13153609,
+    "Title": "HashMap returned by Maps.newHashMap vs new HashMap",
+    "Score": 14
+  },
+  {
+    "Id": 13157377,
+    "Title": "Class vs package vs module vs component vs container vs service vs platform in Java world",
+    "Score": 42
+  },
+  {
+    "Id": 13212431,
+    "Title": "JPanel vs JFrame in Java",
+    "Score": 35
+  },
+  {
+    "Id": 13245610,
+    "Title": "What is the Difference between inheritance and delegation in java",
+    "Score": 12
+  },
+  {
+    "Id": 13257272,
+    "Title": "if(x!=y) vs if(x==y)",
+    "Score": 22
+  },
+  {
+    "Id": 13288823,
+    "Title": "performance of static vs non static method for an utility class",
+    "Score": 14
+  },
+  {
+    "Id": 13293375,
+    "Title": "AJAX vs Form Submission",
+    "Score": 13
+  },
+  {
+    "Id": 13327534,
+    "Title": "Details of difference between @see and @inheritDoc",
+    "Score": 72
+  },
+  {
+    "Id": 13338340,
+    "Title": "C++ vs Java: endless loop creating objects only crashes C++",
+    "Score": 17
+  },
+  {
+    "Id": 13359396,
+    "Title": "WebApplicationException vs Response",
+    "Score": 26
+  },
+  {
+    "Id": 13360430,
+    "Title": "JFrame.dispose() vs System.exit()",
+    "Score": 31
+  },
+  {
+    "Id": 13361489,
+    "Title": "Differences between an array and any collection from the java Collection framework?",
+    "Score": 14
+  },
+  {
+    "Id": 13377703,
+    "Title": "PointToPoint vs Publish/subscribe model in JMS?",
+    "Score": 13
+  },
+  {
+    "Id": 13389544,
+    "Title": "Difference between Decorator pattern and Delegation pattern",
+    "Score": 18
+  },
+  {
+    "Id": 13422125,
+    "Title": "Thread.sleep() VS Executor.scheduleWithFixedDelay()",
+    "Score": 21
+  },
+  {
+    "Id": 13440375,
+    "Title": "Invoking virtual method in constructor: difference between Java and C++",
+    "Score": 15
+  },
+  {
+    "Id": 13454228,
+    "Title": "Difference between green and blue comments in eclipse",
+    "Score": 12
+  },
+  {
+    "Id": 13515210,
+    "Title": "What is the difference between lowagie and iText?",
+    "Score": 44
+  },
+  {
+    "Id": 13598679,
+    "Title": "Java - using AtomicInteger vs Static int",
+    "Score": 16
+  },
+  {
+    "Id": 13661985,
+    "Title": "Spring MVC: difference between <context:component-scan> and <annotation-driven /> tags?",
+    "Score": 63
+  },
+  {
+    "Id": 13714018,
+    "Title": "Spring + GWT or Spring vs GWT",
+    "Score": 21
+  },
+  {
+    "Id": 13723914,
+    "Title": "Hibernate : Difference between @ Embedded annotation technique and @OneToOne annotation Technique",
+    "Score": 14
+  },
+  {
+    "Id": 13746966,
+    "Title": "javabean vs servlet",
+    "Score": 19
+  },
+  {
+    "Id": 13772827,
+    "Title": "Difference between Static and final?",
+    "Score": 151
+  },
+  {
+    "Id": 13790726,
+    "Title": "The difference between getString() and optString() in Json",
+    "Score": 61
+  },
+  {
+    "Id": 13815384,
+    "Title": "String.format() vs \"+\" operator",
+    "Score": 20
+  },
+  {
+    "Id": 13913174,
+    "Title": "Encapsulation vs Information hiding",
+    "Score": 15
+  },
+  {
+    "Id": 13938660,
+    "Title": "guava cache vs ehcache benchmark",
+    "Score": 11
+  },
+  {
+    "Id": 13969672,
+    "Title": "Difference between request.getSession().getId() and request.getSession(false)?",
+    "Score": 24
+  },
+  {
+    "Id": 13983793,
+    "Title": "JBoss standalone.conf VS standalone.conf.bat",
+    "Score": 11
+  },
+  {
+    "Id": 13994840,
+    "Title": "What is the difference between \"classpath:\" and \"classpath:/\" in Spring XML?",
+    "Score": 15
+  },
+  {
+    "Id": 13997361,
+    "Title": "String.substring vs String[].split",
+    "Score": 12
+  },
+  {
+    "Id": 14011749,
+    "Title": "Checked vs Unchecked Exceptions in Java",
+    "Score": 20
+  },
+  {
+    "Id": 14014086,
+    "Title": "What is difference between CrudRepository and JpaRepository interfaces in Spring Data JPA?",
+    "Score": 453
+  },
+  {
+    "Id": 14030146,
+    "Title": "What are the differences between perl and java regex capabilities?",
+    "Score": 17
+  },
+  {
+    "Id": 14030337,
+    "Title": "What's the difference between Void and no parameter?",
+    "Score": 58
+  },
+  {
+    "Id": 14076772,
+    "Title": "Difference between Memento Pattern and Serialization",
+    "Score": 14
+  },
+  {
+    "Id": 14122783,
+    "Title": "Is there a difference between the generic bounds \"Enum<T> & Foo\" and \"Enum<? extends Foo>\"",
+    "Score": 16
+  },
+  {
+    "Id": 14185139,
+    "Title": "Difference between specification and a policy?",
+    "Score": 15
+  },
+  {
+    "Id": 14225957,
+    "Title": "Socket vs SocketChannel",
+    "Score": 61
+  },
+  {
+    "Id": 14232539,
+    "Title": "Java: RandomAccessFile Mode \"rws\" vs \"rwd\"?",
+    "Score": 12
+  },
+  {
+    "Id": 14242174,
+    "Title": "Difference between an unbound wildcard and a raw type",
+    "Score": 21
+  },
+  {
+    "Id": 14264337,
+    "Title": "Difference between a jar file and a library in Java",
+    "Score": 14
+  },
+  {
+    "Id": 14272850,
+    "Title": "What's the difference between user thread and daemon thread in java?",
+    "Score": 19
+  },
+  {
+    "Id": 14421121,
+    "Title": "Java: Difference Between a collection and 'Data Structure'",
+    "Score": 11
+  },
+  {
+    "Id": 14470111,
+    "Title": "Spring RedirectAttributes: addAttribute() vs addFlashAttribute()",
+    "Score": 61
+  },
+  {
+    "Id": 14495776,
+    "Title": "synchronize(this) vs synchronize(MyClass.class)",
+    "Score": 23
+  },
+  {
+    "Id": 14520830,
+    "Title": "x > -1 vs x >= 0, is there a performance difference",
+    "Score": 35
+  },
+  {
+    "Id": 14537311,
+    "Title": "<tt> vs <code> elements when writing Java docs",
+    "Score": 22
+  },
+  {
+    "Id": 14541975,
+    "Title": "What's the difference between a Future and a Promise?",
+    "Score": 193
+  },
+  {
+    "Id": 14556037,
+    "Title": "Number of processor core vs the size of a thread pool",
+    "Score": 15
+  },
+  {
+    "Id": 14559749,
+    "Title": "Java: int[] array vs int array[]",
+    "Score": 53
+  },
+  {
+    "Id": 14579034,
+    "Title": "difference between timer and alarmmanager",
+    "Score": 18
+  },
+  {
+    "Id": 14580120,
+    "Title": "What's the difference between including files with JSP include directive, JSP include action and using JSP Tag Files?",
+    "Score": 147
+  },
+  {
+    "Id": 14596139,
+    "Title": "what are the main differences between a Java/C# static class?",
+    "Score": 12
+  },
+  {
+    "Id": 14663859,
+    "Title": "Default variables' values vs initialization with default",
+    "Score": 18
+  },
+  {
+    "Id": 14736219,
+    "Title": "Difference between stub and when in mockito",
+    "Score": 29
+  },
+  {
+    "Id": 14739550,
+    "Title": "Difference between getClass().getClassLoader().getResource() and getClass.getResource()?",
+    "Score": 36
+  },
+  {
+    "Id": 14757978,
+    "Title": "new String() vs literal string performance",
+    "Score": 15
+  },
+  {
+    "Id": 14790478,
+    "Title": "final vs volatile guaranntee w.rt to safe publication of objects",
+    "Score": 12
+  },
+  {
+    "Id": 14846920,
+    "Title": "Collections.emptyMap() vs new HashMap()",
+    "Score": 129
+  },
+  {
+    "Id": 14851367,
+    "Title": "Java LinkedList - differences between retrieve operations",
+    "Score": 17
+  },
+  {
+    "Id": 14870819,
+    "Title": "What is the difference between Collections.emptyList() and Collections.EMPTY_LIST",
+    "Score": 81
+  },
+  {
+    "Id": 14903145,
+    "Title": "What is the difference between List and ArrayList?",
+    "Score": 140
+  },
+  {
+    "Id": 14927630,
+    "Title": "Java: String concat vs StringBuilder - optimised, so what should I do?",
+    "Score": 44
+  },
+  {
+    "Id": 15002481,
+    "Title": "Difference between Hibernate and Hibernate JPA",
+    "Score": 11
+  },
+  {
+    "Id": 15008333,
+    "Title": "what is the difference between java-1.7.0-openjdk-i386 and java-7-openjdk-i386",
+    "Score": 12
+  },
+  {
+    "Id": 15052317,
+    "Title": "what's the difference between Executor and ExecutorService?",
+    "Score": 32
+  },
+  {
+    "Id": 15052984,
+    "Title": "What is the difference between mocking and spying when using Mockito?",
+    "Score": 116
+  },
+  {
+    "Id": 15092137,
+    "Title": "Difference between Clustering and Load balancing?",
+    "Score": 39
+  },
+  {
+    "Id": 15103553,
+    "Title": "Difference between paint() and paintcomponent()?",
+    "Score": 12
+  },
+  {
+    "Id": 15134927,
+    "Title": "difference in seconds between two dates using joda time?",
+    "Score": 40
+  },
+  {
+    "Id": 15172367,
+    "Title": "if(null check)-else vs try catch(NullPointerException) which is more efficient?",
+    "Score": 16
+  },
+  {
+    "Id": 15202997,
+    "Title": "What is the difference between canonical name, simple name and class name in Java Class?",
+    "Score": 820
+  },
+  {
+    "Id": 15205843,
+    "Title": "mockito vs sealed packages",
+    "Score": 12
+  },
+  {
+    "Id": 15209463,
+    "Title": "SVN: What is the difference between 'Base Revision' and 'Latest from Repository'?",
+    "Score": 13
+  },
+  {
+    "Id": 15217524,
+    "Title": "What is the difference between thread per connection vs thread per request?",
+    "Score": 20
+  },
+  {
+    "Id": 15252284,
+    "Title": "What is the difference between a Spring singleton and a Java singeleton(design pattern)?",
+    "Score": 20
+  },
+  {
+    "Id": 15255798,
+    "Title": "What are the differences between the three methods of code coverage analysis?",
+    "Score": 17
+  },
+  {
+    "Id": 15277356,
+    "Title": "Spring MVC with JBoss vs Tomcat - Advantages / Practice",
+    "Score": 13
+  },
+  {
+    "Id": 15309692,
+    "Title": "Difference between final variables and compile time constant",
+    "Score": 25
+  },
+  {
+    "Id": 15335456,
+    "Title": "Difference Between commit and apply in Android SharedPreferences",
+    "Score": 21
+  },
+  {
+    "Id": 15398861,
+    "Title": "elasticsearch NodeBuilder vs TranportClient",
+    "Score": 22
+  },
+  {
+    "Id": 15430004,
+    "Title": "Core difference between object oriented and object based language",
+    "Score": 28
+  },
+  {
+    "Id": 15435747,
+    "Title": "Java 7 generics type inference: return value vs method argument",
+    "Score": 25
+  },
+  {
+    "Id": 15493189,
+    "Title": "@BeforeClass vs static{}",
+    "Score": 19
+  },
+  {
+    "Id": 15505508,
+    "Title": "What is the difference between String.subString() and String.subSequence()",
+    "Score": 16
+  },
+  {
+    "Id": 15518148,
+    "Title": "Maven: javaee-api vs jboss-javaee-6.0",
+    "Score": 13
+  },
+  {
+    "Id": 15538219,
+    "Title": "java.lang.Void vs void vs Null",
+    "Score": 15
+  },
+  {
+    "Id": 15582944,
+    "Title": "Java Double vs double: class type vs primitive type",
+    "Score": 16
+  },
+  {
+    "Id": 15591431,
+    "Title": "Difference between offer() and add() in priority queue in java?",
+    "Score": 17
+  },
+  {
+    "Id": 15608026,
+    "Title": "Difference in LinkedList, queue vs list",
+    "Score": 25
+  },
+  {
+    "Id": 15642218,
+    "Title": "JDBC Transaction vs Connection Clarification",
+    "Score": 12
+  },
+  {
+    "Id": 15680422,
+    "Title": "Difference between WAIT and BLOCKED thread states",
+    "Score": 76
+  },
+  {
+    "Id": 15704644,
+    "Title": "Difference between solr and lucene",
+    "Score": 146
+  },
+  {
+    "Id": 15734225,
+    "Title": "What are the differences between a Java enum and a class with private constructor?",
+    "Score": 55
+  },
+  {
+    "Id": 15781322,
+    "Title": "Joinpoint VS ProceedingJoinPoint in AOP using aspectJ?",
+    "Score": 14
+  },
+  {
+    "Id": 15838978,
+    "Title": "Polymorphism vs Inheritance",
+    "Score": 18
+  },
+  {
+    "Id": 15848251,
+    "Title": "Exact difference and relation between JSTL and Expression Language",
+    "Score": 19
+  },
+  {
+    "Id": 15903672,
+    "Title": "What's the difference between Name and CanonicalName?",
+    "Score": 14
+  },
+  {
+    "Id": 15989309,
+    "Title": "Java Stack push() vs add()",
+    "Score": 19
+  },
+  {
+    "Id": 16020032,
+    "Title": "Twilio vs google voice api for SMS",
+    "Score": 13
+  },
+  {
+    "Id": 16119638,
+    "Title": "Differences in auto-unboxing between Java 6 vs Java 7",
+    "Score": 107
+  },
+  {
+    "Id": 16161781,
+    "Title": "Java FX: declarative vs procedural",
+    "Score": 11
+  },
+  {
+    "Id": 16228992,
+    "Title": "Commons Lang StringUtils.replace performance vs String.replace",
+    "Score": 35
+  },
+  {
+    "Id": 16234448,
+    "Title": "System.out.printf vs System.out.format",
+    "Score": 37
+  },
+  {
+    "Id": 16243541,
+    "Title": "ArrayList<> vs ArrayList<Integer>",
+    "Score": 13
+  },
+  {
+    "Id": 16270994,
+    "Title": "Difference between String.length() and String.getBytes().length",
+    "Score": 20
+  },
+  {
+    "Id": 16275207,
+    "Title": "Difference between MBean and MXBean",
+    "Score": 47
+  },
+  {
+    "Id": 16304254,
+    "Title": "Differences in JLabel when loading ttf font between Windows and Linux",
+    "Score": 11
+  },
+  {
+    "Id": 16362966,
+    "Title": "Java Libraries Runtime vs Compile Time",
+    "Score": 13
+  },
+  {
+    "Id": 16401412,
+    "Title": "Apache Helix vs YARN",
+    "Score": 14
+  },
+  {
+    "Id": 16415848,
+    "Title": "Java, What is the difference between assigning null to object and just declaration",
+    "Score": 23
+  },
+  {
+    "Id": 16514152,
+    "Title": "libgdx coordinate system differences between rendering and touch input",
+    "Score": 11
+  },
+  {
+    "Id": 16558898,
+    "Title": "Get difference between two dates in months using Java",
+    "Score": 30
+  },
+  {
+    "Id": 16568253,
+    "Title": "Difference between JVM and HotSpot?",
+    "Score": 115
+  },
+  {
+    "Id": 16598318,
+    "Title": "What is the difference between @Inject and @PersistenceContext?",
+    "Score": 12
+  },
+  {
+    "Id": 16600750,
+    "Title": "Difference between class and type",
+    "Score": 89
+  },
+  {
+    "Id": 16620354,
+    "Title": "Difference between null and empty string",
+    "Score": 39
+  },
+  {
+    "Id": 16625656,
+    "Title": "Statement.execute(sql) vs executeUpdate(sql) and executeQuery(sql)",
+    "Score": 25
+  },
+  {
+    "Id": 16626343,
+    "Title": "What is the difference between `opencv.android.JavaCameraView` and `opencv.android.NativeCameraView`",
+    "Score": 12
+  },
+  {
+    "Id": 16635398,
+    "Title": "Java 8 Iterable.forEach() vs foreach loop",
+    "Score": 405
+  },
+  {
+    "Id": 16654951,
+    "Title": "Gradle, \"sourceCompatibility\" vs \"targetCompatibility\"?",
+    "Score": 97
+  },
+  {
+    "Id": 16686266,
+    "Title": "Spring @Transactional class vs method precedence rules",
+    "Score": 11
+  },
+  {
+    "Id": 16694948,
+    "Title": "Swing vs JavaFx for desktop applications",
+    "Score": 176
+  },
+  {
+    "Id": 16699593,
+    "Title": "Uninitialized Object vs Object Initialized to NULL",
+    "Score": 78
+  },
+  {
+    "Id": 16748030,
+    "Title": "Difference between Arrays.asList(array) and new ArrayList<Integer>(Arrays.asList(array))",
+    "Score": 87
+  },
+  {
+    "Id": 16779245,
+    "Title": "what is the difference between `public class` and just `class`?",
+    "Score": 28
+  },
+  {
+    "Id": 16789020,
+    "Title": "What is the difference between javaee-api and javaee-web-api?",
+    "Score": 26
+  },
+  {
+    "Id": 16815279,
+    "Title": "Difference between casting to String and String.valueOf",
+    "Score": 79
+  },
+  {
+    "Id": 16951609,
+    "Title": "When to use ModelAndView vs Model in Spring?",
+    "Score": 50
+  },
+  {
+    "Id": 16966629,
+    "Title": "What is the difference between getFields and getDeclaredFields in Java reflection",
+    "Score": 146
+  },
+  {
+    "Id": 17001096,
+    "Title": "What's the difference between an instance initializer and a constructor?",
+    "Score": 20
+  },
+  {
+    "Id": 17006461,
+    "Title": "difference between clean and clean working directory in Eclipse WTP with Tomcat",
+    "Score": 35
+  },
+  {
+    "Id": 17008947,
+    "Title": "What's the difference between Spring Data's MongoTemplate and MongoRepository?",
+    "Score": 70
+  },
+  {
+    "Id": 17137307,
+    "Title": "In Hibernate Validator 4.1+, what is the difference between @NotNull, @NotEmpty, and @NotBlank?",
+    "Score": 102
+  },
+  {
+    "Id": 17151547,
+    "Title": "What is the difference between System.getProperty and properties.getProperty in Java",
+    "Score": 24
+  },
+  {
+    "Id": 17157074,
+    "Title": "Setting the java classpath: -cp vs -classpath in JDK versions 1.0 through 1.8?",
+    "Score": 19
+  },
+  {
+    "Id": 17206933,
+    "Title": "What is the difference between the operators += vs =+",
+    "Score": 13
+  },
+  {
+    "Id": 17280104,
+    "Title": "Difference between DESede and TripleDES for cipher.getInstance()",
+    "Score": 16
+  },
+  {
+    "Id": 17328077,
+    "Title": "Difference between Arrays.sort() and Arrays.parallelSort()",
+    "Score": 20
+  },
+  {
+    "Id": 17360011,
+    "Title": "Technically what is the main difference between Oracle JDK and OpenJDK?",
+    "Score": 114
+  },
+  {
+    "Id": 17378108,
+    "Title": "Difference between getCause and getNextException in SQLException?",
+    "Score": 11
+  },
+  {
+    "Id": 17419900,
+    "Title": "What are the differences between the various Java plugins for hot class reloading and which one is the most intuitive?",
+    "Score": 22
+  },
+  {
+    "Id": 17431312,
+    "Title": "Difference between JOIN and JOIN FETCH in Hibernate",
+    "Score": 126
+  },
+  {
+    "Id": 17433631,
+    "Title": "\"Object\" vs \"Object Variable\" in Java?",
+    "Score": 17
+  },
+  {
+    "Id": 17444721,
+    "Title": "Difference between ehcache and ehcache-core",
+    "Score": 13
+  },
+  {
+    "Id": 17453032,
+    "Title": "what different between InternalResourceViewResolver vs UrlBasedViewResolver",
+    "Score": 23
+  },
+  {
+    "Id": 17506850,
+    "Title": "What's the difference between Java Web Application and Java Enterprise Application?",
+    "Score": 13
+  },
+  {
+    "Id": 17530104,
+    "Title": "Selenium Webdriver submit() vs click()",
+    "Score": 51
+  },
+  {
+    "Id": 17612364,
+    "Title": "Difference between save and saveOrUpdate method hibernate",
+    "Score": 23
+  },
+  {
+    "Id": 17637032,
+    "Title": "BufferedReader vs Console vs Scanner",
+    "Score": 40
+  },
+  {
+    "Id": 17672891,
+    "Title": "getLocationOnScreen() vs getLocationInWindow()",
+    "Score": 58
+  },
+  {
+    "Id": 17683575,
+    "Title": "Binary Semaphore vs a ReentrantLock",
+    "Score": 26
+  },
+  {
+    "Id": 17700147,
+    "Title": "what is difference between declaring variable out of main method and inside main method?",
+    "Score": 12
+  },
+  {
+    "Id": 17765265,
+    "Title": "Difference between Intent.ACTION_GET_CONTENT and Intent.ACTION_PICK",
+    "Score": 56
+  },
+  {
+    "Id": 17868096,
+    "Title": "using Spring JdbcTemplate - injecting datasource vs jdbcTemplate",
+    "Score": 35
+  },
+  {
+    "Id": 17888757,
+    "Title": "What difference between Jersey vs jax-rs",
+    "Score": 80
+  },
+  {
+    "Id": 17912119,
+    "Title": "Is there any difference between Apache's Base64.encodeBase64 and Android's Base64.encode with Base64.Default flag?",
+    "Score": 26
+  },
+  {
+    "Id": 17916666,
+    "Title": "Date vs TimeStamp vs calendar?",
+    "Score": 12
+  },
+  {
+    "Id": 17935619,
+    "Title": "What is difference between cacerts and keystore?",
+    "Score": 85
+  },
+  {
+    "Id": 17937755,
+    "Title": "What is the difference between a fluent interface and the Builder pattern?",
+    "Score": 42
+  },
+  {
+    "Id": 17940200,
+    "Title": "How to find the duration of difference between two dates in java?",
+    "Score": 89
+  },
+  {
+    "Id": 17945137,
+    "Title": "Spring DriverManagerDataSource vs apache BasicDataSource",
+    "Score": 16
+  },
+  {
+    "Id": 17957382,
+    "Title": "FixedThreadPool vs CachedThreadPool: the lesser of two evils",
+    "Score": 79
+  },
+  {
+    "Id": 18031125,
+    "Title": "What is the difference between `Enum.name()` and `Enum.toString()`?",
+    "Score": 79
+  },
+  {
+    "Id": 18035745,
+    "Title": "What are major difference of running my application in a Server JRE vs JRE?",
+    "Score": 42
+  },
+  {
+    "Id": 18063287,
+    "Title": "Difference between java.util.Scanner and java.util.Scanner.*",
+    "Score": 18
+  },
+  {
+    "Id": 18184899,
+    "Title": "What is the difference between the setConnectionTimeout , setSoTimeout and \"http.connection-manager.timeout\" in apache HttpClient API",
+    "Score": 40
+  },
+  {
+    "Id": 18187005,
+    "Title": "Java Generic type : difference between List <? extends Number> and List <T extends Number>",
+    "Score": 20
+  },
+  {
+    "Id": 18198517,
+    "Title": "Java 8: virtual extension methods vs abstract class",
+    "Score": 28
+  },
+  {
+    "Id": 18212727,
+    "Title": "Difference between javax.sql and java.sql?",
+    "Score": 13
+  },
+  {
+    "Id": 18242007,
+    "Title": "Difference between ? (wildcard) and Type Parameter in Java",
+    "Score": 25
+  },
+  {
+    "Id": 18297626,
+    "Title": "Difference between non-repeatable read vs dirty read",
+    "Score": 14
+  },
+  {
+    "Id": 18304804,
+    "Title": "What is the difference between Character.isAlphabetic and Character.isLetter in Java?",
+    "Score": 38
+  },
+  {
+    "Id": 18354339,
+    "Title": "ReentrantReadWriteLock,what's the difference between ReadLock and WriteLock",
+    "Score": 28
+  },
+  {
+    "Id": 18381936,
+    "Title": "What is the difference between '&' and ',' in Java generics?",
+    "Score": 110
+  },
+  {
+    "Id": 18445158,
+    "Title": "int vs Integer comparison Java",
+    "Score": 25
+  },
+  {
+    "Id": 18453458,
+    "Title": "String builder vs string concatenation",
+    "Score": 27
+  },
+  {
+    "Id": 18494938,
+    "Title": "difference between protected and package-private access modifiers in Java?",
+    "Score": 28
+  },
+  {
+    "Id": 18508786,
+    "Title": "For-each vs Iterator. Which will be the better option",
+    "Score": 43
+  },
+  {
+    "Id": 18510846,
+    "Title": "JMeter latency vs load time(sample time)",
+    "Score": 19
+  },
+  {
+    "Id": 18512304,
+    "Title": "Difference between Field#getAnnotations() and Field#getDeclaredAnnotations()",
+    "Score": 15
+  },
+  {
+    "Id": 18553849,
+    "Title": "Difference between Kivy and Java for android apps",
+    "Score": 18
+  },
+  {
+    "Id": 18605403,
+    "Title": "TimerTask vs Thread.sleep vs Handler postDelayed - most accurate to call function every N milliseconds?",
+    "Score": 52
+  },
+  {
+    "Id": 18644579,
+    "Title": "Getting the difference between two sets",
+    "Score": 115
+  },
+  {
+    "Id": 18706870,
+    "Title": "Java HashSet vs Array Performance",
+    "Score": 12
+  },
+  {
+    "Id": 18730290,
+    "Title": "What is the difference between ExecutorService.submit and ExecutorService.execute in this code in Java?",
+    "Score": 37
+  },
+  {
+    "Id": 18772490,
+    "Title": "What is the difference between spring factory-method and factory-bean?",
+    "Score": 22
+  },
+  {
+    "Id": 18794504,
+    "Title": "Intent.setData vs Intent.putExtra",
+    "Score": 25
+  },
+  {
+    "Id": 18813341,
+    "Title": "What is the difference between cascade and orphan removal from DB?",
+    "Score": 70
+  },
+  {
+    "Id": 18884670,
+    "Title": "@Autowired vs @Required on setter",
+    "Score": 23
+  },
+  {
+    "Id": 18888152,
+    "Title": "difference between Strings in C++ and Java",
+    "Score": 12
+  },
+  {
+    "Id": 19056898,
+    "Title": "What is the difference between the org.junit package and the junit.framework package?",
+    "Score": 11
+  },
+  {
+    "Id": 19061599,
+    "Title": "Methods vs Constructors in Java",
+    "Score": 19
+  },
+  {
+    "Id": 19179046,
+    "Title": "ConcurrentLinkedDeque vs LinkedBlockingDeque",
+    "Score": 13
+  },
+  {
+    "Id": 19193540,
+    "Title": "Difference between Throws in method signature and Throw Statements in Java",
+    "Score": 31
+  },
+  {
+    "Id": 19214001,
+    "Title": "Hibernate vs EclipseLink",
+    "Score": 13
+  },
+  {
+    "Id": 19222029,
+    "Title": "What is difference between HashMap and HashMultimap",
+    "Score": 15
+  },
+  {
+    "Id": 19291843,
+    "Title": "MVC interceptor vs Spring security filter vs something else...?",
+    "Score": 13
+  },
+  {
+    "Id": 19317083,
+    "Title": "What is the difference between \"(Object)null\" and \"null\" in Java?",
+    "Score": 53
+  },
+  {
+    "Id": 19389609,
+    "Title": "Array vs ArrayList in performance",
+    "Score": 51
+  },
+  {
+    "Id": 19419805,
+    "Title": "LinkedBlockingQueue put vs offer",
+    "Score": 14
+  },
+  {
+    "Id": 19445183,
+    "Title": "Difference between enum and Enumeration",
+    "Score": 13
+  },
+  {
+    "Id": 19510169,
+    "Title": "What are the differences between private jre and public jre?",
+    "Score": 22
+  },
+  {
+    "Id": 19516719,
+    "Title": "difference between redirect and redirect inside modelandview",
+    "Score": 31
+  },
+  {
+    "Id": 19524364,
+    "Title": "Difference between standalone.xml and standalone-full.xml",
+    "Score": 42
+  },
+  {
+    "Id": 19525380,
+    "Title": "Difference between Role and GrantedAuthority in Spring Security",
+    "Score": 177
+  },
+  {
+    "Id": 19555164,
+    "Title": "Map clear vs null",
+    "Score": 12
+  },
+  {
+    "Id": 19563088,
+    "Title": "A clear explanation of system exception vs application exception",
+    "Score": 29
+  },
+  {
+    "Id": 19677919,
+    "Title": "Difference between using StringTokenizer and String.split( )?",
+    "Score": 13
+  },
+  {
+    "Id": 19709334,
+    "Title": "Readability vs Performance",
+    "Score": 14
+  },
+  {
+    "Id": 19744508,
+    "Title": "Volatile Vs Atomic",
+    "Score": 90
+  },
+  {
+    "Id": 19821461,
+    "Title": "Raspberry pi flashing LED issue - Python vs Java",
+    "Score": 14
+  },
+  {
+    "Id": 19998454,
+    "Title": "Interface with default methods vs Abstract class in Java 8",
+    "Score": 419
+  },
+  {
+    "Id": 20019617,
+    "Title": "Play2: Difference between appDependencies and libraryDependencies?",
+    "Score": 11
+  },
+  {
+    "Id": 20090306,
+    "Title": "What is the difference between false and Boolean.FALSE?",
+    "Score": 20
+  },
+  {
+    "Id": 20095870,
+    "Title": "String vs char[]",
+    "Score": 46
+  },
+  {
+    "Id": 20116660,
+    "Title": "HashSet vs TreeSet vs LinkedHashSet on basis of adding duplicate value",
+    "Score": 21
+  },
+  {
+    "Id": 20192363,
+    "Title": "Any minor difference between ; or {} to represent a null statement?",
+    "Score": 15
+  },
+  {
+    "Id": 20211528,
+    "Title": "What's the difference between different ways to start a thread?",
+    "Score": 14
+  },
+  {
+    "Id": 20259351,
+    "Title": "Difference Between If and Else If?",
+    "Score": 23
+  },
+  {
+    "Id": 20295578,
+    "Title": "Difference between @Before, @BeforeClass, @BeforeEach and @BeforeAll",
+    "Score": 355
+  },
+  {
+    "Id": 20323229,
+    "Title": "Difference between spring batch remote chunking and remote partitioning",
+    "Score": 11
+  },
+  {
+    "Id": 20353846,
+    "Title": "Mockito - difference between doReturn() and when()",
+    "Score": 133
+  },
+  {
+    "Id": 20371220,
+    "Title": "What is the difference between response.sendRedirect() and request.getRequestDispatcher().forward(request,response)",
+    "Score": 48
+  },
+  {
+    "Id": 20437003,
+    "Title": "Difference between \"Double\" and \"double\"",
+    "Score": 19
+  },
+  {
+    "Id": 20539842,
+    "Title": "The difference between web.xml, beans.xml, applicationContext.xml, etc",
+    "Score": 25
+  },
+  {
+    "Id": 20558125,
+    "Title": "@Stateless vs @RequestScoped",
+    "Score": 17
+  },
+  {
+    "Id": 20593278,
+    "Title": "abstract class vs private constructor",
+    "Score": 28
+  },
+  {
+    "Id": 20666513,
+    "Title": "Spring Java Config vs Jboss 7",
+    "Score": 11
+  },
+  {
+    "Id": 20674135,
+    "Title": "@deprecated vs @Deprecated",
+    "Score": 26
+  },
+  {
+    "Id": 20722120,
+    "Title": "System.out.println vs PrintWriter",
+    "Score": 11
+  },
+  {
+    "Id": 20754557,
+    "Title": "Difference between Application and Service in Dropwizard",
+    "Score": 15
+  },
+  {
+    "Id": 20770072,
+    "Title": "AES/CBC/PKCS5Padding vs AES/CBC/PKCS7Padding with 256 key size performance java",
+    "Score": 16
+  },
+  {
+    "Id": 20783266,
+    "Title": "What is the difference between dynamic and static polymorphism in Java?",
+    "Score": 93
+  },
+  {
+    "Id": 20820880,
+    "Title": "Hibernate Native vs Hibernate JPA",
+    "Score": 13
+  },
+  {
+    "Id": 20829228,
+    "Title": "shutdown hook vs finalizer method",
+    "Score": 12
+  },
+  {
+    "Id": 20844735,
+    "Title": "Timer schedule vs scheduleAtFixedRate?",
+    "Score": 8
+  },
+  {
+    "Id": 20938095,
+    "Title": "Difference between final and effectively final",
+    "Score": 294
+  },
+  {
+    "Id": 20994766,
+    "Title": "JAR Manifest file - Difference between Specification and Implementation",
+    "Score": 15
+  },
+  {
+    "Id": 21034955,
+    "Title": "When to use Long vs long in java?",
+    "Score": 17
+  },
+  {
+    "Id": 21038706,
+    "Title": "PersistenceUnit vs PersistenceContext",
+    "Score": 41
+  },
+  {
+    "Id": 21136227,
+    "Title": "Passing whole object vs passing object's property",
+    "Score": 34
+  },
+  {
+    "Id": 21144054,
+    "Title": "Extensible/adaptable Java EE application: interfaces vs interceptors and decorators",
+    "Score": 11
+  },
+  {
+    "Id": 21156599,
+    "Title": "Java's Fork/Join vs ExecutorService - when to use which?",
+    "Score": 40
+  },
+  {
+    "Id": 21175450,
+    "Title": "merge vs find to update entities JPA",
+    "Score": 16
+  },
+  {
+    "Id": 21204589,
+    "Title": "Static vs Instance Variables: Difference?",
+    "Score": 13
+  },
+  {
+    "Id": 21207755,
+    "Title": "OpenCV (JavaCV) vs OpenCV (C/C++ interfaces)",
+    "Score": 18
+  },
+  {
+    "Id": 21282318,
+    "Title": "Java Vs C#: Java and C# subclasses with method overrides output different results in same scenario",
+    "Score": 11
+  },
+  {
+    "Id": 21300924,
+    "Title": "Difference between Executors.newFixedThreadPool(1) and Executors.newSingleThreadExecutor()",
+    "Score": 12
+  },
+  {
+    "Id": 21339657,
+    "Title": "what's the difference between service layer and domain model layer",
+    "Score": 17
+  },
+  {
+    "Id": 21426688,
+    "Title": "The difference between head & tail recursion",
+    "Score": 18
+  },
+  {
+    "Id": 21574478,
+    "Title": "What is the difference between CloseableHttpClient and HttpClient in Apache HttpClient API?",
+    "Score": 56
+  },
+  {
+    "Id": 21613098,
+    "Title": "Java local vs instance variable access speed",
+    "Score": 11
+  },
+  {
+    "Id": 21667884,
+    "Title": "How to calculate difference between two dates in years...etc with Joda-Time",
+    "Score": 18
+  },
+  {
+    "Id": 21694901,
+    "Title": "Difference between Python self and Java this",
+    "Score": 44
+  },
+  {
+    "Id": 21711085,
+    "Title": "What is the difference between OCI and THIN driver connection with data source connection between java and oracle XE?",
+    "Score": 19
+  },
+  {
+    "Id": 21714594,
+    "Title": "Difference between Java Optional and Scala Option",
+    "Score": 21
+  },
+  {
+    "Id": 21808814,
+    "Title": "what's the difference between CyclicBarrier/CountDownLatch and join in Java?",
+    "Score": 15
+  },
+  {
+    "Id": 21866571,
+    "Title": "Difference between JavaBean and Spring bean",
+    "Score": 21
+  },
+  {
+    "Id": 22072343,
+    "Title": "Throw exception vs Logging",
+    "Score": 20
+  },
+  {
+    "Id": 22164036,
+    "Title": "Difference between new Test() and new Test() { }",
+    "Score": 33
+  },
+  {
+    "Id": 22190797,
+    "Title": "What is the design logic behind Fragments as static inner classes vs standalone public classes?",
+    "Score": 27
+  },
+  {
+    "Id": 22196082,
+    "Title": "What's the difference between JAXB annotations put on getter versus setters versus members?",
+    "Score": 14
+  },
+  {
+    "Id": 22221741,
+    "Title": "Spring Global transaction vs Local transaction",
+    "Score": 11
+  },
+  {
+    "Id": 22267919,
+    "Title": "Iterator vs for",
+    "Score": 58
+  },
+  {
+    "Id": 22358071,
+    "Title": "Differences between Oracle JDK and OpenJDK",
+    "Score": 589
+  },
+  {
+    "Id": 22368909,
+    "Title": "What are the key differences between Java 8's Optional, Scala's Option and Haskell's Maybe?",
+    "Score": 12
+  },
+  {
+    "Id": 22395311,
+    "Title": "Difference between pure and impure function?",
+    "Score": 13
+  },
+  {
+    "Id": 22458575,
+    "Title": "What's the difference between next() and nextLine() methods from Scanner class?",
+    "Score": 63
+  },
+  {
+    "Id": 22470985,
+    "Title": "Integer.class vs int.class",
+    "Score": 29
+  },
+  {
+    "Id": 22486997,
+    "Title": "What is the difference between schedule and scheduleAtFixedRate?",
+    "Score": 23
+  },
+  {
+    "Id": 22516331,
+    "Title": "What's the difference between instance method reference types in Java 8?",
+    "Score": 20
+  },
+  {
+    "Id": 22575444,
+    "Title": "What is the difference between scope and block?",
+    "Score": 13
+  },
+  {
+    "Id": 22577197,
+    "Title": "Java 8 Streams - collect vs reduce",
+    "Score": 104
+  },
+  {
+    "Id": 22591499,
+    "Title": "What are the differences between abstract classes and interfaces in Java 8?",
+    "Score": 64
+  },
+  {
+    "Id": 22636575,
+    "Title": "UnmodifiableMap (Java Collections) vs ImmutableMap (Google)",
+    "Score": 82
+  },
+  {
+    "Id": 22637900,
+    "Title": "Java8 Lambdas vs Anonymous classes",
+    "Score": 89
+  },
+  {
+    "Id": 22656615,
+    "Title": "What is difference between Implicit wait Vs. Explicit wait in selenium webdriver?",
+    "Score": 17
+  },
+  {
+    "Id": 22712961,
+    "Title": "What is the difference between Agitar and Quickcheck property based testing?",
+    "Score": 11
+  },
+  {
+    "Id": 22725143,
+    "Title": "What is the difference between ResponseEntity<T> and @ResponseBody?",
+    "Score": 39
+  },
+  {
+    "Id": 22793315,
+    "Title": "Java 8 java.time: Adding TemporalUnit in Instant vs LocalDateTime",
+    "Score": 22
+  },
+  {
+    "Id": 22847105,
+    "Title": "When do you use map vs flatMap in RxJava?",
+    "Score": 159
+  },
+  {
+    "Id": 22860582,
+    "Title": "Java generics: wildcard<?> vs type parameter<E>?",
+    "Score": 37
+  },
+  {
+    "Id": 23046384,
+    "Title": "Differences between IntelliJ IDEA 13 and Android Studio",
+    "Score": 41
+  },
+  {
+    "Id": 23148729,
+    "Title": "What is the difference between limit and capacity in ByteBuffer?",
+    "Score": 39
+  },
+  {
+    "Id": 23155907,
+    "Title": "ClassCast error: Java 7 vs Java 8",
+    "Score": 27
+  },
+  {
+    "Id": 23176717,
+    "Title": "Embedded vs Non-Embedded Java Server",
+    "Score": 11
+  },
+  {
+    "Id": 23218874,
+    "Title": "What is difference between Collection.stream().forEach() and Collection.forEach()?",
+    "Score": 224
+  },
+  {
+    "Id": 23222931,
+    "Title": "Difference between preference and shared preference in Android",
+    "Score": 15
+  },
+  {
+    "Id": 23252767,
+    "Title": "String pool vs Constant pool",
+    "Score": 19
+  },
+  {
+    "Id": 23302096,
+    "Title": "LinkedHashSet .equals() vs LinkedList .equals() with same elements but different order",
+    "Score": 7
+  },
+  {
+    "Id": 23379623,
+    "Title": "Java BlockingQueue take() vs poll()",
+    "Score": 21
+  },
+  {
+    "Id": 23406307,
+    "Title": "Whats the difference between objects and data structures?",
+    "Score": 28
+  },
+  {
+    "Id": 23414090,
+    "Title": "What is the difference between up-casting and down-casting with respect to class variable",
+    "Score": 107
+  },
+  {
+    "Id": 23419087,
+    "Title": "StringUtils.isBlank() vs String.isEmpty()",
+    "Score": 138
+  },
+  {
+    "Id": 23424312,
+    "Title": "Tomcat vs Pivotal tc Server",
+    "Score": 37
+  },
+  {
+    "Id": 23445830,
+    "Title": "Hibernate SessionFactory vs EntityManagerFactory",
+    "Score": 11
+  },
+  {
+    "Id": 23478013,
+    "Title": "Advice deploying war files vs executable jar with embedded container",
+    "Score": 78
+  },
+  {
+    "Id": 23563340,
+    "Title": "GlassFish vs tomcat",
+    "Score": 18
+  },
+  {
+    "Id": 23563615,
+    "Title": "What is the difference between Mockito.mock(SomeClass) and the @Mock annotation?",
+    "Score": 45
+  },
+  {
+    "Id": 23686325,
+    "Title": "What's the difference between fx:id and id: in JavaFX?",
+    "Score": 37
+  },
+  {
+    "Id": 23700112,
+    "Title": "Java Memory Limit -Xmx suffix: upper vs lower case m/M and g/G",
+    "Score": 16
+  },
+  {
+    "Id": 23707036,
+    "Title": "Java EE vs JSP vs JSF",
+    "Score": 30
+  },
+  {
+    "Id": 23862994,
+    "Title": "What is the difference between Hibernate and Spring Data JPA",
+    "Score": 142
+  },
+  {
+    "Id": 23915619,
+    "Title": "Android Archive Library (aar) vs standard jar",
+    "Score": 114
+  },
+  {
+    "Id": 23925968,
+    "Title": "Tomcat vs Vert.x",
+    "Score": 24
+  },
+  {
+    "Id": 23927887,
+    "Title": "What is the difference between getFirst() and peekFirst() in Java's LinkedList?",
+    "Score": 13
+  },
+  {
+    "Id": 23952011,
+    "Title": "ORM modeling: Database first vs classes first",
+    "Score": 12
+  },
+  {
+    "Id": 23979676,
+    "Title": "Java - what are characters, code points and surrogates? What difference is there between them?",
+    "Score": 16
+  },
+  {
+    "Id": 24038939,
+    "Title": "What is the difference between non-initialized items in an array in JavaScript vs Java?",
+    "Score": 20
+  },
+  {
+    "Id": 24158889,
+    "Title": "Apache Commons Lang 2 vs 3",
+    "Score": 24
+  },
+  {
+    "Id": 24177601,
+    "Title": "Difference between Asynclogger and AsyncAppender in Log4j2",
+    "Score": 19
+  },
+  {
+    "Id": 24214148,
+    "Title": "Java: getInstance vs Static",
+    "Score": 25
+  },
+  {
+    "Id": 24280872,
+    "Title": "Difference between openjdk-6-jre, openjdk-6-jre-headless, openjdk-6-jre-lib",
+    "Score": 39
+  },
+  {
+    "Id": 24294846,
+    "Title": "Performance difference between Java 8 lambdas and anonymous inner classes",
+    "Score": 48
+  },
+  {
+    "Id": 24631909,
+    "Title": "Differences between Java 8 Date Time API (java.time) and Joda-Time",
+    "Score": 237
+  },
+  {
+    "Id": 24649842,
+    "Title": "scheduleAtFixedRate vs scheduleWithFixedDelay",
+    "Score": 87
+  },
+  {
+    "Id": 24678661,
+    "Title": "Tomcat - maxThreads vs maxConnections",
+    "Score": 58
+  },
+  {
+    "Id": 24823420,
+    "Title": "What is the difference between char and Character in Java?",
+    "Score": 12
+  },
+  {
+    "Id": 24832191,
+    "Title": "Difference between printing char and int arrays in Java",
+    "Score": 13
+  },
+  {
+    "Id": 24859500,
+    "Title": "Concatenate char literal ('x') vs single char string literal (\"x\")",
+    "Score": 19
+  },
+  {
+    "Id": 24903658,
+    "Title": "Spring ThreadPoolTaskExecutor vs Java Executorservice cachedthreadpool",
+    "Score": 24
+  },
+  {
+    "Id": 24914525,
+    "Title": "Performance issue: Java vs C++",
+    "Score": 67
+  },
+  {
+    "Id": 24924800,
+    "Title": "Cassandra Java Driver- QueryBuilder API vs PreparedStatements",
+    "Score": 14
+  },
+  {
+    "Id": 24986945,
+    "Title": "empty() vs isEmpty() in Java Stack class",
+    "Score": 20
+  },
+  {
+    "Id": 24988491,
+    "Title": "Difference between e.getMessage() and e.getLocalizedMessage()",
+    "Score": 51
+  },
+  {
+    "Id": 25099640,
+    "Title": "non-blocking IO vs async IO and implementation in Java",
+    "Score": 48
+  },
+  {
+    "Id": 25138587,
+    "Title": "What is difference between mutable and immutable String in java",
+    "Score": 42
+  },
+  {
+    "Id": 25242321,
+    "Title": "Difference between spring @Controller and @RestController annotation",
+    "Score": 289
+  },
+  {
+    "Id": 25323202,
+    "Title": "C++ and PHP vs C# and Java - unequal results",
+    "Score": 30
+  },
+  {
+    "Id": 25406157,
+    "Title": "Spring Request scope vs java thread-local",
+    "Score": 15
+  },
+  {
+    "Id": 25435056,
+    "Title": "Is there any difference between Objects::nonNull and x -> x != null?",
+    "Score": 12
+  },
+  {
+    "Id": 25439813,
+    "Title": "Difference between @MapKey, @MapKeyColumn and @MapKeyJoinColumn in JPA and Hibernate",
+    "Score": 18
+  },
+  {
+    "Id": 25444226,
+    "Title": "Difference between SparseArray Vs ArrayList?",
+    "Score": 25
+  },
+  {
+    "Id": 25454734,
+    "Title": "What is the difference between BigDecimal movePointRight and scaleByPowerOfTen?",
+    "Score": 14
+  },
+  {
+    "Id": 25503907,
+    "Title": "final String class vs final methods of Non-final String class",
+    "Score": 17
+  },
+  {
+    "Id": 25537675,
+    "Title": "Java: what exactly is the difference between NIO and NIO.2?",
+    "Score": 67
+  },
+  {
+    "Id": 25560629,
+    "Title": "SparseArray vs HashMap",
+    "Score": 138
+  },
+  {
+    "Id": 25593768,
+    "Title": "Difference between Calendar.getInstance() and GregorianCalendar.getInstance()",
+    "Score": 12
+  },
+  {
+    "Id": 25596471,
+    "Title": "Scala vs Java performance (HashSet and bigram generation)",
+    "Score": 12
+  },
+  {
+    "Id": 25602382,
+    "Title": "Java: Hashset Vs TreeSet when should i use over other",
+    "Score": 14
+  },
+  {
+    "Id": 25639336,
+    "Title": "What's the difference between -DskipTests and -Dmaven.test.skip=true",
+    "Score": 35
+  },
+  {
+    "Id": 25729553,
+    "Title": "ArrayList vs the List returned by Arrays.asList()",
+    "Score": 13
+  },
+  {
+    "Id": 25747499,
+    "Title": "Java 8: Calculate difference between two LocalDateTime",
+    "Score": 178
+  },
+  {
+    "Id": 25867989,
+    "Title": "What is the difference between Java Non Heap Memory and Stack Memory? Are they Same if not what is the difference between them?",
+    "Score": 12
+  },
+  {
+    "Id": 25901985,
+    "Title": "Difference between MockMvc and RestTemplate in integration tests",
+    "Score": 37
+  },
+  {
+    "Id": 25914156,
+    "Title": "difference between @FindAll and @FindBys annotations in webdriver page factory",
+    "Score": 12
+  },
+  {
+    "Id": 25959948,
+    "Title": "local_policy.jar and US_export_policy.jar different with Unlimited Strength Vs Default.",
+    "Score": 11
+  },
+  {
+    "Id": 25967441,
+    "Title": "Difference between calling a class constructor and using Class.forName().newInstance",
+    "Score": 20
+  },
+  {
+    "Id": 25968592,
+    "Title": "Difference between createIndex() and ensureIndex() in java using mongodb",
+    "Score": 37
+  },
+  {
+    "Id": 25996758,
+    "Title": "Difference between @LazyCollection(LazyCollectionOption.FALSE) and @OneToMany(fetch = FetchType.EAGER)",
+    "Score": 14
+  },
+  {
+    "Id": 26027396,
+    "Title": "Arrays.asList() vs Collections.singletonList()",
+    "Score": 104
+  },
+  {
+    "Id": 26142261,
+    "Title": "Spring JpaRepostory delete vs deleteInBatch",
+    "Score": 15
+  },
+  {
+    "Id": 26145408,
+    "Title": "Multiple JVMs vs single app server",
+    "Score": 16
+  },
+  {
+    "Id": 26271786,
+    "Title": "Marker Annotation vs Marker Interface",
+    "Score": 12
+  },
+  {
+    "Id": 26305363,
+    "Title": "Spring 4 vs Jersey for REST web services",
+    "Score": 113
+  },
+  {
+    "Id": 26351243,
+    "Title": "Allocations in new TLAB vs allocations outside TLAB",
+    "Score": 42
+  },
+  {
+    "Id": 26380534,
+    "Title": "BroadcastReceiver Vs WakefulBroadcastReceiver",
+    "Score": 58
+  },
+  {
+    "Id": 26387399,
+    "Title": "javax.transaction.Transactional vs org.springframework.transaction.annotation.Transactional",
+    "Score": 80
+  },
+  {
+    "Id": 26516020,
+    "Title": "Try With Resources vs Try-Catch",
+    "Score": 25
+  },
+  {
+    "Id": 26534489,
+    "Title": "Unsafe.park vs Object.wait",
+    "Score": 14
+  },
+  {
+    "Id": 26549010,
+    "Title": "Xmpp Vs Websocket",
+    "Score": 54
+  },
+  {
+    "Id": 26550866,
+    "Title": "Hibernate - Difference between bytecode instrumentation and bytecode enhancement?",
+    "Score": 24
+  },
+  {
+    "Id": 26618890,
+    "Title": "Difference between java enum with no values and utility class with private constructor",
+    "Score": 35
+  },
+  {
+    "Id": 26684562,
+    "Title": "What's the difference between map and flatMap methods in Java 8?",
+    "Score": 511
+  },
+  {
+    "Id": 26736876,
+    "Title": "Difference between <plugins> and <pluginManagement> tag in Maven `pom.xml`",
+    "Score": 27
+  },
+  {
+    "Id": 26763835,
+    "Title": "new Thread(task).start() VS ThreadPoolExecutor.submit(task) in Android",
+    "Score": 14
+  },
+  {
+    "Id": 26938210,
+    "Title": "ExecutorService vs Casual Thread Spawner",
+    "Score": 17
+  },
+  {
+    "Id": 27002882,
+    "Title": "returning difference between two lists in java",
+    "Score": 25
+  },
+  {
+    "Id": 27131165,
+    "Title": "What is the difference between PermGen and Metaspace?",
+    "Score": 93
+  },
+  {
+    "Id": 27476845,
+    "Title": "What is the difference between a null array and an empty array?",
+    "Score": 13
+  },
+  {
+    "Id": 27525849,
+    "Title": "Difference between Java Concurrency, Akka and RxJava?",
+    "Score": 26
+  },
+  {
+    "Id": 27622625,
+    "Title": "SecureRandom with NativePRNG vs SHA1PRNG",
+    "Score": 32
+  },
+  {
+    "Id": 27640930,
+    "Title": "What is the difference between JSON Web Signature (JWS) and JSON Web Token (JWT)?",
+    "Score": 37
+  },
+  {
+    "Id": 27654167,
+    "Title": "Difference between a no-arg constructor and a default constructor in Java",
+    "Score": 17
+  },
+  {
+    "Id": 27664221,
+    "Title": "What is the difference between an Observer and a Subscriber?",
+    "Score": 75
+  },
+  {
+    "Id": 27781024,
+    "Title": "What's the difference between nonXADatasource with jta=\"true\" and XADataSource?",
+    "Score": 17
+  },
+  {
+    "Id": 27845223,
+    "Title": "What's the difference between a Resource, URI, URL, Path and File in Java?",
+    "Score": 82
+  },
+  {
+    "Id": 27869710,
+    "Title": "DataAccessException vs SQLException",
+    "Score": 11
+  },
+  {
+    "Id": 27906161,
+    "Title": "What is the difference between @EnableWebSecurity and @EnableWebMvcSecurity?",
+    "Score": 42
+  },
+  {
+    "Id": 27945268,
+    "Title": "Difference between using java.library.path and LD_LIBRARY_PATH",
+    "Score": 14
+  },
+  {
+    "Id": 27993819,
+    "Title": "HashMap vs Switch statement performance",
+    "Score": 20
+  },
+  {
+    "Id": 28060633,
+    "Title": "Difference between SimpleStringProperty and StringProperty",
+    "Score": 11
+  },
+  {
+    "Id": 28079449,
+    "Title": "Uses-Permission vs Uses-Feature",
+    "Score": 28
+  },
+  {
+    "Id": 28147654,
+    "Title": "Difference between getAndSet and compareAndSet in AtomicBoolean",
+    "Score": 12
+  },
+  {
+    "Id": 28164665,
+    "Title": "Performance of LinkedList vs ArrayList in maintaining an ordered list",
+    "Score": 14
+  },
+  {
+    "Id": 28322833,
+    "Title": "ClassNotFoundException vs NoClassDefFoundError",
+    "Score": 18
+  },
+  {
+    "Id": 28327620,
+    "Title": "Difference between _JAVA_OPTIONS JAVA_TOOL_OPTIONS and JAVA_OPTS",
+    "Score": 89
+  },
+  {
+    "Id": 28431822,
+    "Title": "Type cast vs literal assignment",
+    "Score": 12
+  },
+  {
+    "Id": 28516398,
+    "Title": "Spring Cacheable vs CachePut?",
+    "Score": 16
+  },
+  {
+    "Id": 28697681,
+    "Title": "Spring MVC Controller: what is the difference between \"return forward\", \"return redirect\" and \"return jsp file\"",
+    "Score": 19
+  },
+  {
+    "Id": 28723341,
+    "Title": "RxJava: difference between doOnNext and doOnEach",
+    "Score": 34
+  },
+  {
+    "Id": 28767905,
+    "Title": "What is the difference between -Xss and -XX:ThreadStackSize?",
+    "Score": 12
+  },
+  {
+    "Id": 28796324,
+    "Title": "Optional vs throwing an exception",
+    "Score": 17
+  },
+  {
+    "Id": 28855610,
+    "Title": "What is the difference when concatenating a String as a variable with a Character vs concatenating with an other String?",
+    "Score": 22
+  },
+  {
+    "Id": 28948614,
+    "Title": "What is the difference between a \"Spring transaction\" and a \"Hibernate transaction\"",
+    "Score": 15
+  },
+  {
+    "Id": 28979488,
+    "Title": "Difference between CopyOnWriteArrayList and synchronizedList",
+    "Score": 17
+  },
+  {
+    "Id": 29042622,
+    "Title": "Which one to use? JSONObject from org.json VS JsonObject from javax.json",
+    "Score": 26
+  },
+  {
+    "Id": 29144275,
+    "Title": "x*x vs Math.pow(x,2) java performance",
+    "Score": 11
+  },
+  {
+    "Id": 29370581,
+    "Title": "Spring MVC: please explain difference between @RequestParam and @ModelAttribute",
+    "Score": 43
+  },
+  {
+    "Id": 29428231,
+    "Title": "JOOQ vs Hibernate",
+    "Score": 16
+  },
+  {
+    "Id": 29535409,
+    "Title": "What is the difference between String initializations by new String() and new String(\"\") in Java?",
+    "Score": 22
+  },
+  {
+    "Id": 29620714,
+    "Title": "Method local inner class vs inner class",
+    "Score": 44
+  },
+  {
+    "Id": 29937600,
+    "Title": "Files.readAllBytes vs Files.lines getting MalformedInputException",
+    "Score": 14
+  },
+  {
+    "Id": 29989581,
+    "Title": "Spring Integration - Inbound vs Outbound Channel Adapters",
+    "Score": 11
+  },
+  {
+    "Id": 30060876,
+    "Title": "What is difference between resource injection and dependency injection (CDI) in Java?",
+    "Score": 21
+  },
+  {
+    "Id": 30134479,
+    "Title": "Vaadin Grid vs Table",
+    "Score": 19
+  },
+  {
+    "Id": 30166698,
+    "Title": "Difference between intellij Project make and Maven Compile?",
+    "Score": 36
+  },
+  {
+    "Id": 30220820,
+    "Title": "Difference between new HashMap(int) and guava Maps.newHashMapWithExpectedSize(int)",
+    "Score": 11
+  },
+  {
+    "Id": 30234594,
+    "Title": "What's the difference between java 8 ZonedDateTime and OffsetDateTime?",
+    "Score": 119
+  },
+  {
+    "Id": 30250467,
+    "Title": "RxJava: what is difference between callbacks in doOnError('callback') and subscribe(*, 'callback')",
+    "Score": 16
+  },
+  {
+    "Id": 30341067,
+    "Title": "Difference between * and ? in Spring @Scheduled(cron=\".....\")",
+    "Score": 21
+  },
+  {
+    "Id": 30360824,
+    "Title": "Java \"The blank final field may not have been initialized\" Anonymous Interface vs Lambda Expression",
+    "Score": 20
+  },
+  {
+    "Id": 30495212,
+    "Title": "Android: Jumbo Mode vs Multidex",
+    "Score": 23
+  },
+  {
+    "Id": 30514995,
+    "Title": "What is the difference between a lambda and a method reference at a runtime level?",
+    "Score": 40
+  },
+  {
+    "Id": 30535565,
+    "Title": "What is the difference between Tomcat and TomEE, TomEE and TomEE Plus",
+    "Score": 56
+  },
+  {
+    "Id": 30545594,
+    "Title": "What is the difference between constant variables and final variables in java?",
+    "Score": 13
+  },
+  {
+    "Id": 30575434,
+    "Title": "Java Generic Interface vs Generic Methods, and when to use one",
+    "Score": 12
+  },
+  {
+    "Id": 30648701,
+    "Title": "Akka vs Java 7 Futures",
+    "Score": 17
+  },
+  {
+    "Id": 30832215,
+    "Title": "\"When\" statement vs Java \"switch\" statement",
+    "Score": 48
+  },
+  {
+    "Id": 30842587,
+    "Title": "What is the difference between abstract class and interface in terms of their storage in JVM",
+    "Score": 11
+  },
+  {
+    "Id": 30859334,
+    "Title": "Compare Protocol in Swift vs Interface in Java",
+    "Score": 109
+  },
+  {
+    "Id": 30864583,
+    "Title": "Java 8 - Difference between Optional.flatmap and Optional.map",
+    "Score": 111
+  },
+  {
+    "Id": 30883519,
+    "Title": "Function overriding in Java vs C++",
+    "Score": 14
+  },
+  {
+    "Id": 30887822,
+    "Title": "Spring cron vs normal cron?",
+    "Score": 22
+  },
+  {
+    "Id": 30890011,
+    "Title": "What's the difference between Mockito Matchers isA, any, eq, and same?",
+    "Score": 30
+  },
+  {
+    "Id": 30980616,
+    "Title": "Difference between request.getSession() and request.getSession(true)",
+    "Score": 33
+  },
+  {
+    "Id": 30987757,
+    "Title": "DropWizard Metrics Meters vs Timers",
+    "Score": 55
+  },
+  {
+    "Id": 31044619,
+    "Title": "Difference between slf4j-log4j12 and log4j-over-slf4j",
+    "Score": 49
+  },
+  {
+    "Id": 31058353,
+    "Title": "Guava Vs Apache Commons Hash/Equals builders",
+    "Score": 12
+  },
+  {
+    "Id": 31076008,
+    "Title": "Java inheritance vs initialization",
+    "Score": 11
+  },
+  {
+    "Id": 31091242,
+    "Title": "java 8 time api - Instant.now(clock) vs LocaldateTime.now(clock)",
+    "Score": 11
+  },
+  {
+    "Id": 31153584,
+    "Title": "Why is there such a performance difference on Raspberry pi between Open and Oracle JDK?",
+    "Score": 12
+  },
+  {
+    "Id": 31319358,
+    "Title": "JsonManagedReference vs JsonBackReference",
+    "Score": 22
+  },
+  {
+    "Id": 31339150,
+    "Title": "What are the pros or cons of storing json as text vs blob in cassandra?",
+    "Score": 12
+  },
+  {
+    "Id": 31366277,
+    "Title": "What are the differences between a Scala Future and a Java Future",
+    "Score": 16
+  },
+  {
+    "Id": 31421902,
+    "Title": "Android Studio AndroidManifest.xml vs build.gradle",
+    "Score": 12
+  },
+  {
+    "Id": 31469441,
+    "Title": "Array of objects vs Object of Objects",
+    "Score": 46
+  },
+  {
+    "Id": 31560803,
+    "Title": "Whats the difference between Java.Net.Uri and Android.Net.Uri",
+    "Score": 16
+  },
+  {
+    "Id": 31608902,
+    "Title": "Polymorphism vs Strategy pattern",
+    "Score": 35
+  },
+  {
+    "Id": 31630818,
+    "Title": "Spring Security Custom Authentication - AuthenticationProvider vs UserDetailsService",
+    "Score": 27
+  },
+  {
+    "Id": 31670822,
+    "Title": "Java vs JavaScript split behavior",
+    "Score": 12
+  },
+  {
+    "Id": 31769187,
+    "Title": "Difference between java 8 streams and parallel streams",
+    "Score": 29
+  },
+  {
+    "Id": 31770995,
+    "Title": "Difference between uppercase and titlecase",
+    "Score": 14
+  },
+  {
+    "Id": 31772872,
+    "Title": "Strong immutability vs weak immutability in Java?",
+    "Score": 12
+  },
+  {
+    "Id": 31858301,
+    "Title": "Why is there such a big difference on time between first nanoTime() call and the successive calls?",
+    "Score": 13
+  },
+  {
+    "Id": 31869391,
+    "Title": "What is the difference between Java Logger and System.out.println",
+    "Score": 13
+  },
+  {
+    "Id": 31931251,
+    "Title": "What is the difference between ojdbc6.jar and ojdbc7.jar?",
+    "Score": 14
+  },
+  {
+    "Id": 31978011,
+    "Title": "What is the difference between FETCH and LOAD for Entity graph of JPA?",
+    "Score": 21
+  },
+  {
+    "Id": 32054517,
+    "Title": "ConcurrentHashMap.newKeySet() vs Collections.newSetFromMap()",
+    "Score": 13
+  },
+  {
+    "Id": 32092787,
+    "Title": "ArrayList Declaration vs Conversion",
+    "Score": 14
+  },
+  {
+    "Id": 32143633,
+    "Title": "java.io.File vs java.nio.Files which is the preferred in new code?",
+    "Score": 19
+  },
+  {
+    "Id": 32294367,
+    "Title": "Erlang Process vs Java Thread",
+    "Score": 53
+  },
+  {
+    "Id": 32360599,
+    "Title": "Implementation differences/optimizations between Lambda Expressions and Anonymous Classes",
+    "Score": 12
+  },
+  {
+    "Id": 32414088,
+    "Title": "Java 8 Stream: difference between limit() and skip()",
+    "Score": 55
+  },
+  {
+    "Id": 32437550,
+    "Title": "What's the difference between Instant and LocalDateTime?",
+    "Score": 131
+  },
+  {
+    "Id": 32475166,
+    "Title": "Java ternary operator vs if/else in <JDK8 compatibility",
+    "Score": 112
+  },
+  {
+    "Id": 32503355,
+    "Title": "(Compiler) else if(true) vs else scenario",
+    "Score": 22
+  },
+  {
+    "Id": 32552307,
+    "Title": "HashSet vs ArrayList contains performance",
+    "Score": 19
+  },
+  {
+    "Id": 32791706,
+    "Title": "Java CachedThreadPool vs FixedThreadPool",
+    "Score": 9
+  },
+  {
+    "Id": 32797579,
+    "Title": "forEach vs forEachOrdered in Java 8 Stream",
+    "Score": 52
+  },
+  {
+    "Id": 32799937,
+    "Title": "Parallel stream vs serial stream",
+    "Score": 16
+  },
+  {
+    "Id": 32840399,
+    "Title": "Printing Exception vs Exception.getMessage",
+    "Score": 19
+  },
+  {
+    "Id": 32921523,
+    "Title": "Efficiency of having logic in-line vs calling a method?",
+    "Score": 11
+  },
+  {
+    "Id": 32935783,
+    "Title": "Java: Different results when decoding base64 string with java.util.Base64 vs android.util.Base64",
+    "Score": 18
+  },
+  {
+    "Id": 32975392,
+    "Title": "JSR 310 :: System.currentTimeMillis() vs Instant.toEpochMilli() :: TimeZone",
+    "Score": 17
+  },
+  {
+    "Id": 32997352,
+    "Title": "What is the difference between putting a property on application.yml or bootstrap.yml in spring boot?",
+    "Score": 140
+  },
+  {
+    "Id": 33074000,
+    "Title": "Scala: String \"+\" vs \"++\"",
+    "Score": 11
+  },
+  {
+    "Id": 33096466,
+    "Title": "GenerationType.AUTO vs GenerationType.IDENTITY in hibernate",
+    "Score": 17
+  },
+  {
+    "Id": 33147339,
+    "Title": "Difference between if (a - b < 0) and if (a < b)",
+    "Score": 229
+  },
+  {
+    "Id": 33170109,
+    "Title": "Difference between `Optional.orElse()` and `Optional.orElseGet()`",
+    "Score": 157
+  },
+  {
+    "Id": 33190768,
+    "Title": "OptionalInt vs Optional<Integer>",
+    "Score": 33
+  },
+  {
+    "Id": 33260616,
+    "Title": "What's the difference between odd and even Java updates?",
+    "Score": 123
+  },
+  {
+    "Id": 33305800,
+    "Title": "Difference between SHA256withRSA and SHA256 then RSA",
+    "Score": 25
+  },
+  {
+    "Id": 33562731,
+    "Title": "spring @Autowire property vs setter",
+    "Score": 26
+  },
+  {
+    "Id": 33758090,
+    "Title": "Difference between two dates with different years",
+    "Score": 11
+  },
+  {
+    "Id": 34022340,
+    "Title": "Projected generic specialization in Java 9 or later, vs List<int>: how will .remove() work?",
+    "Score": 15
+  },
+  {
+    "Id": 34087724,
+    "Title": "What is the difference between immutable and final in java?",
+    "Score": 24
+  },
+  {
+    "Id": 34119514,
+    "Title": "Intellij IDEA build-in inspection code vs checkstyle, PMD & findbugs",
+    "Score": 11
+  },
+  {
+    "Id": 34172888,
+    "Title": "Difference between @Bean and @Autowired",
+    "Score": 41
+  },
+  {
+    "Id": 34174178,
+    "Title": "Difference between generic super class and super class type",
+    "Score": 19
+  },
+  {
+    "Id": 34286407,
+    "Title": "Gradle: What is the difference between classpath and compile dependencies?",
+    "Score": 52
+  },
+  {
+    "Id": 34349047,
+    "Title": "Difference between javax.servlet-api.jar vs servlet-api.jar",
+    "Score": 16
+  },
+  {
+    "Id": 34381763,
+    "Title": "ActiveMQ: Openwire vs AMQP vs Stomp",
+    "Score": 13
+  },
+  {
+    "Id": 34526545,
+    "Title": "Performance difference between source-code targeted at different Java versions?",
+    "Score": 13
+  },
+  {
+    "Id": 34562095,
+    "Title": "scrollIntoView vs moveToElement",
+    "Score": 23
+  },
+  {
+    "Id": 34588354,
+    "Title": "Difference between @Size, @Length and @Column(length=value) when using JPA and Hibernate",
+    "Score": 38
+  },
+  {
+    "Id": 34733072,
+    "Title": "scala vs java for Spark?",
+    "Score": 11
+  },
+  {
+    "Id": 34752200,
+    "Title": "Gson: @Expose vs @SerializedName",
+    "Score": 35
+  },
+  {
+    "Id": 34785417,
+    "Title": "JavaFX FXML controller - constructor vs initialize method",
+    "Score": 60
+  },
+  {
+    "Id": 34997292,
+    "Title": "RxJava - Schedulers vs ExecutorService?",
+    "Score": 13
+  },
+  {
+    "Id": 35005158,
+    "Title": "What is the difference between @ComponentScan and @EnableAutoConfiguration in Spring Boot?",
+    "Score": 42
+  },
+  {
+    "Id": 35022473,
+    "Title": "Difference between first() and take(1)",
+    "Score": 23
+  },
+  {
+    "Id": 35200250,
+    "Title": "Java contains vs anyMatch behaviour",
+    "Score": 18
+  },
+  {
+    "Id": 35218354,
+    "Title": "Difference between registerGlobal(), configure(), configureGlobal(),configureGlobalSecurity in Spring security",
+    "Score": 25
+  },
+  {
+    "Id": 35230846,
+    "Title": "Difference between C# and Java's ternary operator (? :)",
+    "Score": 93
+  },
+  {
+    "Id": 35251000,
+    "Title": "Instant vs LocalDateTime - When to prefer one over the other",
+    "Score": 16
+  },
+  {
+    "Id": 35258758,
+    "Title": "getServletConfigClasses() vs getRootConfigClasses() when extending AbstractAnnotationConfigDispatcherServletInitializer",
+    "Score": 44
+  },
+  {
+    "Id": 35329845,
+    "Title": "Difference between CompletableFuture, Future and RxJava's Observable",
+    "Score": 138
+  },
+  {
+    "Id": 35359112,
+    "Title": "Difference between findAny() and findFirst() in Java 8",
+    "Score": 52
+  },
+  {
+    "Id": 35576390,
+    "Title": "Is there a low-level difference between int[large][small] or int[small][large] in Java?",
+    "Score": 62
+  },
+  {
+    "Id": 35584577,
+    "Title": "Appium vs Espresso for automated testing framework",
+    "Score": 15
+  },
+  {
+    "Id": 35686363,
+    "Title": "Filters vs interceptors in web application",
+    "Score": 11
+  },
+  {
+    "Id": 35807056,
+    "Title": "How many ways are there to configure the Spring framework? What are the differences between them technically? (Not pros or cons..)",
+    "Score": 35
+  },
+  {
+    "Id": 35853023,
+    "Title": "JDK 1.7 vs JDK 1.6 inner classes inheritance difference",
+    "Score": 17
+  },
+  {
+    "Id": 35856454,
+    "Title": "Difference between Interceptor and Filter in Spring MVC",
+    "Score": 59
+  },
+  {
+    "Id": 36173332,
+    "Title": "Difference between @Valid and @Validated in Spring",
+    "Score": 58
+  },
+  {
+    "Id": 36185564,
+    "Title": "Java Strings: private static vs local variable performance",
+    "Score": 15
+  },
+  {
+    "Id": 36375402,
+    "Title": ".length() vs .getText().length() vs .getText().toString().length()",
+    "Score": 17
+  },
+  {
+    "Id": 36568344,
+    "Title": "Difference between javax.inject.Singleton and javax.ejb.Singleton",
+    "Score": 22
+  },
+  {
+    "Id": 36796136,
+    "Title": "Difference between System.getProperty(\"line.separator\"); and \"\\n\" ?",
+    "Score": 11
+  },
+  {
+    "Id": 37023822,
+    "Title": "Collectors.summingInt() vs mapToInt().sum()",
+    "Score": 16
+  },
+  {
+    "Id": 37080045,
+    "Title": "Java JDK BitSet vs Lucene OpenBitSet",
+    "Score": 14
+  },
+  {
+    "Id": 37236381,
+    "Title": "Difference between Calendar.HOUR and Calendar.HOUR_OF_DAY?",
+    "Score": 28
+  },
+  {
+    "Id": 37253571,
+    "Title": "Spring Data JPA difference between findBy / findAllBy",
+    "Score": 29
+  },
+  {
+    "Id": 37392733,
+    "Title": "Difference between @JsonIgnore and @JsonBackReference, @JsonManagedReference",
+    "Score": 33
+  },
+  {
+    "Id": 37537611,
+    "Title": "What is difference between @FormDataParam and @FormParam",
+    "Score": 12
+  },
+  {
+    "Id": 37960674,
+    "Title": "Null check chain vs catching NullPointerException",
+    "Score": 104
+  },
+  {
+    "Id": 37972859,
+    "Title": "java.util.Objects.isNull vs object == null",
+    "Score": 41
+  },
+  {
+    "Id": 38045439,
+    "Title": "Technical differences between Spring Data JPA's findFirst and findTop",
+    "Score": 11
+  },
+  {
+    "Id": 38177732,
+    "Title": "What is the difference between (Integer)y and new Integer(y) in java?",
+    "Score": 14
+  },
+  {
+    "Id": 38268929,
+    "Title": "@RunWith(PowerMockRunner.class) vs @RunWith(MockitoJUnitRunner.class)",
+    "Score": 15
+  },
+  {
+    "Id": 38423079,
+    "Title": "Differences between RxJava1 and RxJava2",
+    "Score": 15
+  },
+  {
+    "Id": 38564101,
+    "Title": "Difference between Quartz Job and Scheduling Tasks with Spring?",
+    "Score": 16
+  },
+  {
+    "Id": 38597965,
+    "Title": "Difference between Resident Set Size (RSS) and Java total committed memory (NMT) for a JVM running in Docker container",
+    "Score": 24
+  },
+  {
+    "Id": 38705890,
+    "Title": "What is the difference between ObjectNode and JsonNode in Jackson?",
+    "Score": 30
+  },
+  {
+    "Id": 38744943,
+    "Title": "Listenablefuture vs Completablefuture",
+    "Score": 32
+  },
+  {
+    "Id": 38788135,
+    "Title": "Set vs List when need both unique elements and access by index",
+    "Score": 19
+  },
+  {
+    "Id": 38882080,
+    "Title": "Specifying java version in maven - differences between properties and compiler plugin",
+    "Score": 114
+  },
+  {
+    "Id": 38903094,
+    "Title": "Concat VS Merge operator",
+    "Score": 32
+  },
+  {
+    "Id": 38944896,
+    "Title": "Difference between Bounded Type parameter and Upper Bound Wildcard",
+    "Score": 14
+  },
+  {
+    "Id": 39077787,
+    "Title": "Difference between the annotations @GetMapping and @RequestMapping(method = RequestMethod.GET)",
+    "Score": 95
+  },
+  {
+    "Id": 39319998,
+    "Title": "Direct ByteBuffer relative vs absolute read performance",
+    "Score": 14
+  },
+  {
+    "Id": 39328351,
+    "Title": "Is there a difference between ? and * in cron expressions? Strange example",
+    "Score": 15
+  },
+  {
+    "Id": 39432699,
+    "Title": "What is the difference between Streams and Collections in Java 8",
+    "Score": 13
+  },
+  {
+    "Id": 39472061,
+    "Title": "ExecutorService.submit(Task) vs CompletableFuture.supplyAsync(Task, Executor)",
+    "Score": 21
+  },
+  {
+    "Id": 39480226,
+    "Title": "build.gradle: compile group vs compile, buildscript, classpath",
+    "Score": 18
+  },
+  {
+    "Id": 39523474,
+    "Title": "What is the difference between an expression and a statement in Java?",
+    "Score": 19
+  },
+  {
+    "Id": 39562965,
+    "Title": "What is the difference between log4j, slf4j and logback?",
+    "Score": 20
+  },
+  {
+    "Id": 39643960,
+    "Title": "What's the difference between javax.persistence.Id and org.springframework.data.annotation.Id?",
+    "Score": 12
+  },
+  {
+    "Id": 39655945,
+    "Title": "what's the difference between sampler and profiler in JvisualVM?",
+    "Score": 19
+  },
+  {
+    "Id": 39802643,
+    "Title": "Java - Async in Servlet 3.0 vs NIO in Servlet 3.1",
+    "Score": 11
+  },
+  {
+    "Id": 39972171,
+    "Title": "Difference between spring-boot-starter-web and spring-boot-starter-web-services and spring-boot-starter-jersey",
+    "Score": 11
+  },
+  {
+    "Id": 40025981,
+    "Title": "OpenNLP vs Stanford CoreNLP",
+    "Score": 11
+  },
+  {
+    "Id": 40323307,
+    "Title": "Observable vs Flowable rxJava2",
+    "Score": 101
+  },
+  {
+    "Id": 40641589,
+    "Title": "Spring boot app vs .war file deployed on Tomcat/Jetty",
+    "Score": 16
+  },
+  {
+    "Id": 40796756,
+    "Title": "assertAll vs multiple assertions in JUnit5",
+    "Score": 12
+  },
+  {
+    "Id": 40947649,
+    "Title": "What is the difference between Observable and Flowable in RxJava 2.0?",
+    "Score": 20
+  },
+  {
+    "Id": 40994783,
+    "Title": "What is the difference between operator >>> in Java and JavaScript?",
+    "Score": 29
+  },
+  {
+    "Id": 41077142,
+    "Title": "Java 8: Calculate difference between two ZonedDateTime",
+    "Score": 35
+  },
+  {
+    "Id": 41381933,
+    "Title": "weakCompareAndSwap vs compareAndSwap",
+    "Score": 11
+  },
+  {
+    "Id": 41728973,
+    "Title": "What is the difference between View.postDelayed() and Handler.postDelayed() on the main thread?",
+    "Score": 11
+  },
+  {
+    "Id": 41764286,
+    "Title": "Scala Stream vs Java Stream Laziness Difference",
+    "Score": 13
+  },
+  {
+    "Id": 42199614,
+    "Title": "Jersey REST client with Apache HTTP Client 4.5 vs retrofit",
+    "Score": 21
+  },
+  {
+    "Id": 42243012,
+    "Title": "TreeSet vs Java 8 Streams performance",
+    "Score": 16
+  },
+  {
+    "Id": 42250951,
+    "Title": "Redisson vs Jedis for redis",
+    "Score": 19
+  },
+  {
+    "Id": 42455578,
+    "Title": "Java Enum<T> vs T as variable type",
+    "Score": 14
+  },
+  {
+    "Id": 42482326,
+    "Title": "java.util.Objects vs Optional which is preferable?",
+    "Score": 15
+  },
+  {
+    "Id": 42571324,
+    "Title": "Kotlin: MyClass::class.java vs this.javaClass",
+    "Score": 18
+  },
+  {
+    "Id": 42786629,
+    "Title": "newInstance vs new in jdk-9/jdk-8 and jmh",
+    "Score": 38
+  },
+  {
+    "Id": 43004886,
+    "Title": "ResourcesCompat.getDrawable() vs AppCompatResources.getDrawable()",
+    "Score": 21
+  },
+  {
+    "Id": 43019126,
+    "Title": "CompletableFuture | thenApply vs thenCompose",
+    "Score": 74
+  },
+  {
+    "Id": 43193188,
+    "Title": "JUnit @Before vs @Rule",
+    "Score": 19
+  },
+  {
+    "Id": 43213811,
+    "Title": "What is the difference between for each and traditional for loop in Java in terms of shadowing?",
+    "Score": 13
+  },
+  {
+    "Id": 43280248,
+    "Title": "What is the difference between RxJava 2 Cancellable and Disposable?",
+    "Score": 17
+  },
+  {
+    "Id": 43585019,
+    "Title": "Java Reflection: Difference between getMethods() and getDeclaredMethods()",
+    "Score": 15
+  },
+  {
+    "Id": 43601747,
+    "Title": "KafkaProducer: Difference between `callback` and returned `Future`?",
+    "Score": 17
+  },
+  {
+    "Id": 43802809,
+    "Title": "Difference between SparkContext, JavaSparkContext, SQLContext, and SparkSession?",
+    "Score": 21
+  },
+  {
+    "Id": 43811182,
+    "Title": "parallelStream vs stream.parallel",
+    "Score": 18
+  },
+  {
+    "Id": 44055969,
+    "Title": "In Spring what is the difference between @Profile and @ActiveProfiles",
+    "Score": 20
+  },
+  {
+    "Id": 44056405,
+    "Title": "What's the difference between --add-exports and --add-opens in Java 9?",
+    "Score": 23
+  },
+  {
+    "Id": 44178432,
+    "Title": "Difference between compact strings and compressed strings in Java 9",
+    "Score": 64
+  },
+  {
+    "Id": 44200720,
+    "Title": "Difference between @Mock, @MockBean and Mockito.mock()",
+    "Score": 67
+  },
+  {
+    "Id": 44255946,
+    "Title": "Difference between a class and object in Kotlin",
+    "Score": 50
+  },
+  {
+    "Id": 44298261,
+    "Title": "Java 9 Interface vs Class",
+    "Score": 39
+  },
+  {
+    "Id": 44335605,
+    "Title": "OpenJDK vs Java HotspotVM",
+    "Score": 11
+  },
+  {
+    "Id": 44370676,
+    "Title": "Java 8 peek vs map",
+    "Score": 15
+  },
+  {
+    "Id": 44628483,
+    "Title": "Assume vs assert in JUnit tests",
+    "Score": 12
+  },
+  {
+    "Id": 44768112,
+    "Title": "Difference between spring-data-jpa and spring-boot-starter-data-jpa",
+    "Score": 17
+  },
+  {
+    "Id": 44984730,
+    "Title": "Rxandroid What's the difference between SubscribeOn and ObserveOn",
+    "Score": 15
+  },
+  {
+    "Id": 45165428,
+    "Title": "Differences between jar and war in Spring Boot?",
+    "Score": 14
+  },
+  {
+    "Id": 45231351,
+    "Title": "Differences between Collectors.toMap() and Collectors.groupingBy() to collect into a Map",
+    "Score": 14
+  },
+  {
+    "Id": 45437222,
+    "Title": "List<Map<String,String>> vs List<Object>",
+    "Score": 12
+  },
+  {
+    "Id": 45511017,
+    "Title": "Bitmap.Config.HARDWARE vs Bitmap.Config.RGB_565",
+    "Score": 31
+  },
+  {
+    "Id": 45564492,
+    "Title": "Java HotSpot(TM) Client sharing vs no sharing",
+    "Score": 12
+  },
+  {
+    "Id": 45988295,
+    "Title": "Difference between findBy and findOneBy in Spring data JPA",
+    "Score": 11
+  },
+  {
+    "Id": 46207758,
+    "Title": "LiveData vs Handler and LocalBroadcast",
+    "Score": 18
+  },
+  {
+    "Id": 46244724,
+    "Title": "JDK dateformater parsing DayOfWeek in German locale, java8 vs java9",
+    "Score": 15
+  },
+  {
+    "Id": 46467561,
+    "Title": "Difference between google() and maven { url 'https://maven.google.com' }",
+    "Score": 40
+  },
+  {
+    "Id": 46502453,
+    "Title": "What's the difference between requires and requires transitive statements in Java 9?",
+    "Score": 39
+  },
+  {
+    "Id": 46537294,
+    "Title": "What's the difference between requires and requires static in module declaration",
+    "Score": 11
+  },
+  {
+    "Id": 46579074,
+    "Title": "What is the difference between List.of and Arrays.asList?",
+    "Score": 76
+  },
+  {
+    "Id": 46606246,
+    "Title": "Spring MVC (async) vs Spring WebFlux",
+    "Score": 24
+  },
+  {
+    "Id": 47354837,
+    "Title": "Difference between RxJava API and the Java 9 Flow API",
+    "Score": 52
+  },
+  {
+    "Id": 47446529,
+    "Title": "What is the difference between SpringJUnit4ClassRunner and SpringRunner",
+    "Score": 53
+  },
+  {
+    "Id": 47489338,
+    "Title": "What is the difference between thenApply and thenApplyAsync of Java CompletableFuture?",
+    "Score": 15
+  },
+  {
+    "Id": 47571117,
+    "Title": "What is the difference between 'CompletionStage' and 'CompletableFuture'",
+    "Score": 17
+  },
+  {
+    "Id": 47807758,
+    "Title": "Java Stream difference between map and mapToObj",
+    "Score": 21
+  },
+  {
+    "Id": 47878256,
+    "Title": "QuickSort and MergeSort performance on Sequential data fit in memory vs Slow to Access Sequential data on disk",
+    "Score": 14
+  },
+  {
+    "Id": 48162404,
+    "Title": "Intellij gradle - using explicit module groups VS using qualified names",
+    "Score": 20
+  },
+  {
+    "Id": 48183999,
+    "Title": "What is the difference between putIfAbsent and computeIfAbsent in Java 8 Map ?",
+    "Score": 37
+  },
+  {
+    "Id": 48221783,
+    "Title": "Stream.peek() method in Java 8 vs Java 9",
+    "Score": 61
+  },
+  {
+    "Id": 48447779,
+    "Title": "Difference between @Primary vs @Autowired with @Qualifier annotations",
+    "Score": 11
+  },
+  {
+    "Id": 48448331,
+    "Title": "Difference between junit-jupiter-api and junit-jupiter-engine",
+    "Score": 14
+  },
+  {
+    "Id": 50076815,
+    "Title": "SingleThreadExecutor VS plain thread",
+    "Score": 12
+  },
+  {
+    "Id": 50321602,
+    "Title": "In Eclipse, what is the difference between modulepath and classpath?",
+    "Score": 12
+  },
+  {
+    "Id": 51113252,
+    "Title": "What's the difference between Foo::new and () -> new Foo()?",
+    "Score": 19
+  },
+  {
+    "Id": 51266582,
+    "Title": "Difference between String trim() and strip() methods in Java 11",
+    "Score": 60
+  },
+  {
+    "Id": 51445382,
+    "Title": "What is the difference between a Predicate and a Function Interface in Java8?",
+    "Score": 25
+  },
+  {
+    "Id": 51642979,
+    "Title": "Boxed vs primitive type as entity id",
+    "Score": 20
+  },
+  {
+    "Id": 52047479,
+    "Title": "Optional isPresent vs orElse(null)",
+    "Score": 15
+  },
+  {
+    "Id": 52431764,
+    "Title": "Difference between OpenJDK and AdoptOpenJDK",
+    "Score": 26
+  }
+]
