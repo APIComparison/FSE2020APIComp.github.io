@@ -44,5 +44,6 @@
 
 ### RQ3 Related Data
 - There are two sheet, "GA" and "GB", indicates the two participant groups. [Participant experience statistics](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ3/experience.xlsx), the column "experience/year" represent the age of the participants using java.
-- [GA reuslt](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ3/result/GA/) 
-- [GB reuslt](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ3/result/GB/)
+- Group A result[GA reuslt](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ3/result/GA/) 
+- Group B result[GB reuslt](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/RQ3/result/GB/)
+- In these result files, column "tool/search engine" represent which method the participant use, column "answer (1-API_1,  2-API_2, 3-unknown)" represent which API the participant select, column "cost_time_v1:" represent the total time cost to make the decision,the unit is seconds. 
