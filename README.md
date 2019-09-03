@@ -9,7 +9,7 @@
 
 - The manual removal was conducted by two students independently (one PhD and one MS student, both with more than five years Java experience), this is 1487 questions two students independently annotated result. [1487 Question Select Annotated Result](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/question_select/1487_Question_Select_annotated_result.xlsx). In this excel file, the column "Stack Overflow Post ID" represent post ID in Stack Overflow. And the column "User 1", "User 2", represent two students annotated result, "T" means that question is related to the JDK API comparison, "F" means not.
 
-- We only kept questions that had been annotated as relevant by both students, resulting in 215 questions. [215 questions](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/question_select/215_questions), In this excel file, the column "id" represent post ID in Stack Overflow, "title" represent Stack Overflow question title, "url" represent corresponding Stack Overflow URL, "question_vote" represent the Stack Overflow question votes when we got.
+- We only kept questions that had been annotated as relevant by both students, resulting in 215 questions. [215 questions](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/question_select/215_questions.xlsx), In this excel file, the column "id" represent post ID in Stack Overflow, "title" represent Stack Overflow question title, "url" represent corresponding Stack Overflow URL, "question_vote" represent the Stack Overflow question votes when we got.
 
 - We randomly selected 100 API comparison questions out of the 215. [100 select questions](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/question_select/100_select_question.xlsx). [115 unselect questions](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/question_select/115_unselect_question.xlsx), In the excel files, the column "id" represent post ID in Stack Overflow, "title" represent Stack Overflow question title, "url" represent corresponding Stack Overflow URL, "question_vote" represent the Stack Overflow question votes when we got.
 
@@ -20,7 +20,7 @@
 
 ### Statement Types
 
-- eight statement types[Statement Types](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/classification_of_knowledge_types.xlsx), in this excel file, in the column "template in SO", answer point can be classified into eight types.
+- eight statement types[Statement Types](https://github.com/ICSE2020APIComp/ICSE2020APIComp.github.io/blob/master/question_select/classification_of_knowledge_types.xlsx), in this excel file, in the column "template in SO", answer point can be classified into eight types.
 
 
 ## Approach
